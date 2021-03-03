@@ -1,6 +1,14 @@
-### About me
+---
+permalink: /
+title: ""
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
-I'm a full-time research assitant at [Tsinghua University Natural Language Processing Lab (THUNLP)](http://nlp.csai.tsinghua.edu.cn/site2/index.php/en), advised by [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). I received my B.Eng. Degree in Computer Science & Technology from Zhejiang University City College (ZUCC).
+I am a full-time research assitant at [Tsinghua University Natural Language Processing Lab (THUNLP)](http://nlp.csai.tsinghua.edu.cn/site2/index.php/en), advised by [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). I received my B.Eng. Degree in Computer Science & Technology from Zhejiang University City College (ZUCC).
 
 My current research interests are NLP, Information Extraction, and Text Mining.
 
