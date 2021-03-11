@@ -18,6 +18,8 @@ My current research interests are NLP, Information Extraction, and Text Mining.
 
 (\*  indicates equal contribution)
 
+ **Kai Zhang\***, Yuan Yao*, Ruobing Xie, Xu Han, Zhiyuan Liu, Fen Lin, Leyu Lin and Maosong Sun. Open Hierarchical Relation Extraction. In NAACL-HLT 2021.
+
 Yuan Yao, Haoxi Zhong, Zhengyan Zhang, Xu Han, Xiaozhi Wang, **Kai Zhang**, Chaojun Xiao, Guoyang Zeng, Zhiyuan Liu and Maosong Sun. Adversarial Language Games for Advanced Natural Language Intelligence. In AAAI 2021.
 
 Lin Sun\*, Jiquan Wang\*, **Kai Zhang**, Fangsheng Weng and Yindu Su. RpBERT: A Text-image Relation Propagation-based BERT Model for Multimodal NER. In AAAI 2021.
