@@ -9,13 +9,11 @@ redirect_from:
 ---
 # About me
 
-I am a full-time research assitant at [Tsinghua University Natural Language Processing Lab (THUNLP)](http://nlp.csai.tsinghua.edu.cn/site2/index.php/en), advised by [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). 
-
-Prior to joining THUNLP, I received my B.Eng. Degree in Computer Science & Technology from Zhejiang University City College (ZUCC), had wonderful four years in ZUCC, advised by Lin Sun and Fanwei Zhu. 
-
-**Note that ZUCC is an independent college, far worse than and totally different from Zhejiang University (ZJU)**.
+I am  a full-time research assitant at [Tsinghua University Natural Language Processing Lab (THUNLP)](http://nlp.csai.tsinghua.edu.cn/site2/index.php/en), advised by [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). Prior to joining THUNLP, I received my B.Eng. Degree in Computer Science & Technology from Zhejiang University City College (ZUCC), had wonderful four years in ZUCC, advised by [Lin Sun](http://jsxy.zucc.edu.cn/art/2020/4/8/art_2788_194362.html) and [Fanwei Zhu](http://jsxy.zucc.edu.cn/art/2013/4/18/art_265_94143.html). 
 
 My general research interest lies in Natural Language Processing, and Data Mining.
+
+**Note that ZUCC is an independent college, far worse than and totally different from Zhejiang University (ZJU)**.
 
 
 
