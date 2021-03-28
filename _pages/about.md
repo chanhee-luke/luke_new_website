@@ -36,10 +36,10 @@ Lin Sun\*, **Kai Zhang\***, Fule Ji and Zhenhua Yang. TOI-CNN: A Solution of Inf
 
 ## Seleted Honors & Awards
 
-Honor for Seeking Truth & Giving Commencement Address, ZUCC (Top 1) <p align="right">2020</p>
+2020, Honor for Seeking Truth & Giving Commencement Address, ZUCC (Top 1)
 
-Special Assessment National Scholarship, Ministry of Education of the Peoples Republic of China (Top 10 in Zhejiang Province w/o ZJU students) <p align="right">2019</p>
+2019, Special Assessment National Scholarship, Ministry of Education of the Peoples Republic of China (Top 10 in Zhejiang Province w/o ZJU students)
 
-National Scholarship Ministry of Education of the Peoples Republic of China, ZUCC (1%) <p align="right">2019</p>
+2019, National Scholarship Ministry of Education of the Peoples Republic of China, ZUCC (1%)
 
-Chinese College Students Self-Improvement Stars, All-China Students’ Federation (Top 200 in China for Technological Innovation) <p align="right">2019</p>
+2019, Chinese College Students Self-Improvement Stars, All-China Students’ Federation (Top 200 in China for Technological Innovation)
