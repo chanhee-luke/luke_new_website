@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-## About me
+# About me
 
 I am a full-time research assitant at [Tsinghua University Natural Language Processing Lab (THUNLP)](http://nlp.csai.tsinghua.edu.cn/site2/index.php/en), advised by [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). 
 
@@ -18,7 +17,9 @@ Prior to joining THUNLP, I received my B.Eng. Degree in Computer Science & Techn
 
 My general research interest lies in Natural Language Processing, and Data Mining.
 
-## Selected Publications
+
+
+# Selected Publications
 
 (\*  indicates equal contribution)
 
@@ -34,7 +35,7 @@ Lin Sun\*, **Kai Zhang\***, Fule Ji and Zhenhua Yang. TOI-CNN: A Solution of Inf
 
 
 
-## Seleted Honors & Awards
+# Seleted Honors & Awards
 
 2020, Honor for Seeking Truth & Giving Commencement Address, ZUCC (Top 1)
 
