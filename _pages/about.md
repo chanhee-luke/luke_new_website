@@ -41,6 +41,6 @@ My general research interest lies in Natural Language Processing, and Data Minin
 
 2019, Special Assessment National Scholarship, Ministry of Education of the Peoples Republic of China (Top 10 in Zhejiang Province)
 
-2019, National Scholarship Ministry of Education of the Peoples Republic of China, ZUCC (1%)
+2019, National Scholarship, Ministry of Education of the Peoples Republic of China, ZUCC (1%)
 
 2019, Chinese College Students Self-Improvement Stars, All-China Students’ Federation (Top 200 in China for Technological Innovation)
