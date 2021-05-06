@@ -19,7 +19,8 @@ My general research interest lies in Natural Language Processing, and Data Minin
 
 (\*  indicates equal contribution)
 
-- **Kai Zhang\***, Yuan Yao*, Ruobing Xie, Xu Han, Zhiyuan Liu, Fen Lin, Leyu Lin and Maosong Sun. Open Hierarchical Relation Extraction. In NAACL-HLT 2021. (To appear)
+- Weicheng Ma\*, **Kai Zhang\***, Renze Lou, Lili Wang and Soroush Vosoughi. Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks. In Proceedings of ACL-IJCNLP 2021. (To appear)
+- **Kai Zhang\***, Yuan Yao*, Ruobing Xie, Xu Han, Zhiyuan Liu, Fen Lin, Leyu Lin and Maosong Sun. Open Hierarchical Relation Extraction. In Proceedings of NAACL-HLT 2021. (To appear)
 
 - Yutong Wang\*, Renze Lou\*, **Kai Zhang\***, Maoyan Chen and Yujiu Yang. MORE: A Metric Learning Based Framework for Open-Domain Relation Extraction. In Proceedings of ICASSP 2021. (To appear)
 
