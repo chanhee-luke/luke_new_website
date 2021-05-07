@@ -20,19 +20,19 @@ My general research interest lies in Natural Language Processing, and Data Minin
 (\*  indicates equal contribution)
 
 - Weicheng Ma\*, **Kai Zhang\***, Renze Lou, Lili Wang and Soroush Vosoughi. Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks. In Proceedings of ACL-IJCNLP 2021. (To appear)
-- **Kai Zhang\***, Yuan Yao*, Ruobing Xie, Xu Han, Zhiyuan Liu, Fen Lin, Leyu Lin and Maosong Sun. Open Hierarchical Relation Extraction. In Proceedings of NAACL-HLT 2021. (To appear)
+- **Kai Zhang\***, Yuan Yao*, Ruobing Xie, Xu Han, Zhiyuan Liu, Fen Lin, Leyu Lin and Maosong Sun. Open Hierarchical Relation Extraction. In Proceedings of NAACL-HLT 2021. (To appear) \[[code](https://github.com/thunlp/OHRE)\]
 
-- Yutong Wang\*, Renze Lou\*, **Kai Zhang\***, Maoyan Chen and Yujiu Yang. MORE: A Metric Learning Based Framework for Open-Domain Relation Extraction. In Proceedings of ICASSP 2021. (To appear)
+- Yutong Wang\*, Renze Lou\*, **Kai Zhang\***, Maoyan Chen and Yujiu Yang. MORE: A Metric Learning Based Framework for Open-Domain Relation Extraction. In Proceedings of ICASSP 2021. (To appear) \[[code](https://github.com/RenzeLou/MORE)\]
 
 - Jian Xie\*, **Kai Zhang\***, Lin Sun, Yindu Su and Chenxiang Xu. Improving Social Media NER via Entity Type- Compatible Unknown Word Substitution. In Proceedings of ICASSP 2021. (To appear)
 
-- Yuan Yao, Haoxi Zhong, Zhengyan Zhang, Xu Han, Xiaozhi Wang, **Kai Zhang**, Chaojun Xiao, Guoyang Zeng, Zhiyuan Liu and Maosong Sun. Adversarial Language Games for Advanced Natural Language Intelligence. In AAAI 2021. (To appear, [Early Version](https://arxiv.org/pdf/1911.01622.pdf))
+- Yuan Yao, Haoxi Zhong, Zhengyan Zhang, Xu Han, Xiaozhi Wang, **Kai Zhang**, Chaojun Xiao, Guoyang Zeng, Zhiyuan Liu and Maosong Sun. Adversarial Language Games for Advanced Natural Language Intelligence. In Proceedings of AAAI 2021. (To appear, [Early Version](https://arxiv.org/pdf/1911.01622.pdf)) \[[code](https://github.com/Multimodal-NER/RpBERT)\]
 
-- Lin Sun\*, Jiquan Wang\*, **Kai Zhang**, Fangsheng Weng and Yindu Su. RpBERT: A Text-image Relation Propagation-based BERT Model for Multimodal NER. In AAAI 2021. (To appear, [Early Version](https://arxiv.org/pdf/2102.02967v1.pdf))
+- Lin Sun\*, Jiquan Wang\*, **Kai Zhang**, Fangsheng Weng and Yindu Su. RpBERT: A Text-image Relation Propagation-based BERT Model for Multimodal NER. In Proceedings of AAAI 2021. (To appear, [Early Version](https://arxiv.org/pdf/2102.02967v1.pdf))
 
-- **Kai Zhang**, Lin Sun, Fule Ji. A TOI based CNN with Location Regression for Insurance Contract Analysis. in IJCNN 2019 (Oral). [[link](https://ieeexplore.ieee.org/abstract/document/8852052/)]
+- **Kai Zhang**, Lin Sun, Fule Ji. A TOI based CNN with Location Regression for Insurance Contract Analysis. in Proceedings of IJCNN 2019 **(Oral)**. [[link](https://ieeexplore.ieee.org/abstract/document/8852052/)] \[[code](https://github.com/ETIP-team/ETIP-Project)\]
 
-- Lin Sun\*, **Kai Zhang\***, Fule Ji and Zhenhua Yang. TOI-CNN: A Solution of Information Extraction on Chinese Insurance Policy. In NAACL-HLT 2019. [[link](https://www.aclweb.org/anthology/N19-2022.pdf)]
+- Lin Sun\*, **Kai Zhang\***, Fule Ji and Zhenhua Yang. TOI-CNN: A Solution of Information Extraction on Chinese Insurance Policy. In Proceedings of NAACL-HLT 2019. [[link](https://www.aclweb.org/anthology/N19-2022.pdf)] \[[code](https://github.com/ETIP-team/ETIP-Project)\]
 
 
 
@@ -42,6 +42,6 @@ My general research interest lies in Natural Language Processing, and Data Minin
 
 2019, Special Assessment National Scholarship, Ministry of Education of the Peoples Republic of China (Top 10 in Zhejiang Province)
 
-2019, National Scholarship, Ministry of Education of the Peoples Republic of China, ZUCC (1%)
+2019, National Scholarship, Ministry of Education of the Peoples Republic of China (Top 1%)
 
 2019, Chinese College Students Self-Improvement Stars, All-China Students’ Federation (Top 200 in China for Technological Innovation)
