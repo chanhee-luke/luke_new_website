@@ -24,7 +24,7 @@ My general research interest lies in Natural Language Processing, and Data Minin
 
 - Yutong Wang\*, Renze Lou\*, **Kai Zhang\***, Maoyan Chen and Yujiu Yang. MORE: A Metric Learning Based Framework for Open-Domain Relation Extraction. In Proceedings of ICASSP 2021. (To appear) \[[code](https://github.com/RenzeLou/MORE)\]
 
-- Jian Xie\*, **Kai Zhang\***, Lin Sun, Yindu Su and Chenxiang Xu. Improving Social Media NER via Entity Type- Compatible Unknown Word Substitution. In Proceedings of ICASSP 2021. (To appear)
+- Jian Xie\*, **Kai Zhang\***, Lin Sun, Yindu Su and Chenxiang Xu. Improving Social Media NER via Entity Type-Compatible Unknown Word Substitution. In Proceedings of ICASSP 2021. (To appear)
 
 - Yuan Yao, Haoxi Zhong, Zhengyan Zhang, Xu Han, Xiaozhi Wang, **Kai Zhang**, Chaojun Xiao, Guoyang Zeng, Zhiyuan Liu and Maosong Sun. Adversarial Language Games for Advanced Natural Language Intelligence. In Proceedings of AAAI 2021. (To appear, [Early Version](https://arxiv.org/pdf/1911.01622.pdf)) \[[code](https://github.com/Multimodal-NER/RpBERT)\]
 
