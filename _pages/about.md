@@ -17,12 +17,12 @@ My general research interest lies in Natural Language Processing and Data Mining
 
 # News
 
-- 2021/05  One paper about attention head mask on multi and cross-lingual tasks is accepted by ACL-IJCNLP 2021.
-- 2021/03  I quit my RA job in THUNLP and prepare to apply MS/PhD Program in 2022 Fall.
-- 2021/03  One paper about open hierarchical relation extraction is accepted by NAACL-HLT 2021. [code in here](https://github.com/thunlp/OHRE)
+- 2021/05  One paper about attention head mask on multi- and cross-lingual tasks is accepted by ACL-IJCNLP 2021.
+- 2021/03  I quit my RA job in THUNLP for preparing to apply MS/PhD Program in 2022 Fall.
+- 2021/03  One paper about open hierarchical relation extraction is accepted by NAACL-HLT 2021.
 
-- 2021/01  Two papers got accepted by ICASSP 2021.
-- 2020/12  Two papers got accepted by AAAI 2021.
+- 2021/01  Two papers are accepted by ICASSP 2021.
+- 2020/12  Two papers are accepted by AAAI 2021.
 
 # Publications
 (\*  indicates equal contribution)
