@@ -13,7 +13,7 @@ I am a full-time research assistant at [Tsinghua University Natural Language Pro
 
 **Note that ZUCC is an independent college, which is neither a branch of ZJU nor one of the campuses of  ZJU. It is directly managed by the People's Government of Zhejiang Province while ZJU belongs to the Ministry of Education of the People’s Republic of China.**
 
-My general research interest lies in Natural Language Processing, and Data Mining.
+My general research interest lies in Natural Language Processing and Data Mining.
 
 ## News
 
@@ -21,7 +21,7 @@ My general research interest lies in Natural Language Processing, and Data Minin
 
 - 2021/03: One paper about open hierarchical relation extraction is accepted by NAACL-HLT 2021. [code in here](https://github.com/thunlp/OHRE)
 
-  
+
 
 ## Selected Publications
 
