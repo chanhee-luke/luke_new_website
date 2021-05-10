@@ -7,20 +7,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I was a full-time research assistant at [Tsinghua University Natural Language Processing Lab (THUNLP)](http://nlp.csai.tsinghua.edu.cn/site2/index.php/en), advised by Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). Prior to THUNLP, I received my B.Eng. Degree in Computer Science & Technology from Zhejiang University City College (ZUCC). In ZUCC, I worked on Nested NER and SimRank, advised by Prof. [Lin Sun](http://jsxy.zucc.edu.cn/art/2020/4/8/art_2788_194362.html) and Prof. [Fanwei Zhu](http://jsxy.zucc.edu.cn/art/2013/4/18/art_265_94143.html), respectively. Here is my [CV](/files/cv_open.pdf) (updated in 2021-5).
+I am preparing application in 2022 Fall and actively looking for PhD positions. I was a full-time research assistant at [Tsinghua University Natural Language Processing Lab (THUNLP)](http://nlp.csai.tsinghua.edu.cn/site2/index.php/en), advised by Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). Prior to THUNLP, I received my B.Eng. Degree in Computer Science & Technology from Zhejiang University City College (ZUCC). In ZUCC, I worked on Nested NER and SimRank, advised by Prof. [Lin Sun](http://jsxy.zucc.edu.cn/art/2020/4/8/art_2788_194362.html) and Prof. [Fanwei Zhu](http://jsxy.zucc.edu.cn/art/2013/4/18/art_265_94143.html), respectively. Here is my [CV](/files/cv_open.pdf) (updated in 2021-5).
 
 My general research interest lies in Natural Language Processing and Data Mining.
 
-# News
+## News
 
 - 2021/05  Got one paper about attention head mask on multi- and cross-lingual tasks accepted by ACL-IJCNLP 2021.
-- 2021/03  Quitted my RA job at THUNLP for applying MS/PhD Program in 2022 Fall.
+- 2021/03  Quitted my RA job at THUNLP for preparing 2022 Fall MS/PhD apply. (My English is bad QAQ)
 - 2021/03  Got one paper about open hierarchical relation extraction accepted by NAACL-HLT 2021.
 
 - 2021/01  Got two papers accepted by ICASSP 2021.
 - 2020/12  Got two papers accepted by AAAI 2021.
 
-# Publications
+## Publications
+
 (\*  indicates equal contribution)
 <table style="border: none; border-collapse: collapse;" border="0">
 <tr style="border-collapse: separate; border-spacing:30em;">
@@ -171,8 +172,7 @@ Template:
 -->
 </table>
 
-
-# Seleted Honors & Awards
+## Seleted Honors & Awards
 
 2020, Honor for Seeking Truth & Giving Commencement Address, ZUCC (Top 1)
 
