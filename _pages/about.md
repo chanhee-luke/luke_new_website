@@ -33,7 +33,7 @@ My general research interest lies in Natural Language Processing and Data Mining
   </td>
   <td style="border-collapse: collapse; border: none;">
     Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks<br>
-    Weicheng Ma\*, <b>Kai Zhang\*</b>, Renze Lou, Lili Wang and Soroush Vosoughi.<br>
+    Weicheng Ma*, <b>Kai Zhang*</b>, Renze Lou, Lili Wang and Soroush Vosoughi.<br>
     In ACL-IJCNLP 2021.<br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span>Paper to appear.</span><br>
@@ -42,13 +42,14 @@ My general research interest lies in Natural Language Processing and Data Mining
   </td>
 </tr>
 
+
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
 <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/_OHRE.png" width="800" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     Open Hierarchical Relation Extraction<br>
-    <b>Kai Zhang\*</b>, Yuan Yao\*, Ruobing Xie, Xu Han, Zhiyuan Liu, Fen Lin, Leyu Lin and Maosong Sun. <br>
+    <b>Kai Zhang*</b>, Yuan Yao*, Ruobing Xie, Xu Han, Zhiyuan Liu, Fen Lin, Leyu Lin and Maosong Sun. <br>
     In NAACL-HLT 2021.<br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span>Paper to appear.</span><br>
@@ -64,7 +65,7 @@ My general research interest lies in Natural Language Processing and Data Mining
   </td>
   <td style="border-collapse: collapse; border: none;">
     MORE: A Metric Learning Based Framework for Open-Domain Relation Extraction<br>
-    Yutong Wang\*, Renze Lou\*, <b>Kai Zhang\*</b>, Maoyan Chen and Yujiu Yang. <br>
+    Yutong Wang*, Renze Lou*, <b>Kai Zhang*</b>, Maoyan Chen and Yujiu Yang. <br>
     In ICASSP 2021.<br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span>Paper to appear.</span><br>
@@ -80,7 +81,7 @@ My general research interest lies in Natural Language Processing and Data Mining
   </td>
   <td style="border-collapse: collapse; border: none;">
     Improving Social Media NER via Entity Type-Compatible Unknown Word Substitution<br>
-    Jian Xie\*, <b>Kai Zhang\*</b>, Lin Sun, Yindu Su and Chenxiang Xu. <br>
+    Jian Xie*, <b>Kai Zhang*</b>, Lin Sun, Yindu Su and Chenxiang Xu. <br>
     In ICASSP 2021.<br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span>Paper to appear.</span><br>
@@ -114,7 +115,7 @@ My general research interest lies in Natural Language Processing and Data Mining
   </td>
   <td style="border-collapse: collapse; border: none;">
     RpBERT: A Text-image Relation Propagation-based BERT Model for Multimodal NER<br>
-    Lin Sun\*, Jiquan Wang\*, <b>Kai Zhang</b>, Fangsheng Weng and Yindu Su.
+    Lin Sun*, Jiquan Wang*, <b>Kai Zhang</b>, Fangsheng Weng and Yindu Su.
     In AAAI 2021.<br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span>Paper to appear.</span><br>
@@ -146,7 +147,7 @@ My general research interest lies in Natural Language Processing and Data Mining
   </td>
   <td style="border-collapse: collapse; border: none;">
     TOI-CNN: A Solution of Information Extraction on Chinese Insurance Policy<br>
-    Lin Sun\*, <b>Kai Zhang\*</b>, Fule Ji and Zhenhua Yang.
+    Lin Sun*, <b>Kai Zhang*</b>, Fule Ji and Zhenhua Yang.
     In NAACL 2019.<br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://www.aclweb.org/anthology/N19-2022.pdf">Paper</a></span><br>
