@@ -9,20 +9,18 @@ redirect_from:
 ---
 # About me
 
-I was a full-time research assistant at [Tsinghua University Natural Language Processing Lab (THUNLP)](http://nlp.csai.tsinghua.edu.cn/site2/index.php/en), advised by Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). Prior to joining THUNLP, I received my B.Eng. Degree in Computer Science & Technology from Zhejiang University City College (ZUCC). In ZUCC, I worked on Nested NER and SimRank, advised by Prof. [Lin Sun](http://jsxy.zucc.edu.cn/art/2020/4/8/art_2788_194362.html) and Prof. [Fanwei Zhu](http://jsxy.zucc.edu.cn/art/2013/4/18/art_265_94143.html), respectively. They both are Associate Professors at ZUCC and Zhejiang University (ZJU) Master student mentors.
-
-**Note that ZUCC is an independent college, which is neither a branch of ZJU nor one of the campuses of  ZJU. It is directly managed by the People's Government of Zhejiang Province while ZJU belongs to the Ministry of Education of the People’s Republic of China.**
+I was a full-time research assistant at [Tsinghua University Natural Language Processing Lab (THUNLP)](http://nlp.csai.tsinghua.edu.cn/site2/index.php/en), advised by Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). Prior to THUNLP, I received my B.Eng. Degree in Computer Science & Technology from Zhejiang University City College (ZUCC). In ZUCC, I worked on Nested NER and SimRank, advised by Prof. [Lin Sun](http://jsxy.zucc.edu.cn/art/2020/4/8/art_2788_194362.html) and Prof. [Fanwei Zhu](http://jsxy.zucc.edu.cn/art/2013/4/18/art_265_94143.html), respectively. 
 
 My general research interest lies in Natural Language Processing and Data Mining.
 
 # News
 
-- 2021/05  One paper about attention head mask on multi- and cross-lingual tasks is accepted by ACL-IJCNLP 2021.
-- 2021/03  I quit my RA job in THUNLP for preparing to apply MS/PhD Program in 2022 Fall.
-- 2021/03  One paper about open hierarchical relation extraction is accepted by NAACL-HLT 2021.
+- 2021/05  Got one paper about attention head mask on multi- and cross-lingual tasks accepted by ACL-IJCNLP 2021.
+- 2021/03  Quitted my RA job in THUNLP for preparing to apply MS/PhD Program in 2022 Fall.
+- 2021/03  Got one paper about open hierarchical relation extraction accepted by NAACL-HLT 2021.
 
-- 2021/01  Two papers are accepted by ICASSP 2021.
-- 2020/12  Two papers are accepted by AAAI 2021.
+- 2021/01  Got two papers accepted by ICASSP 2021.
+- 2020/12  Got two papers accepted by AAAI 2021.
 
 # Publications
 (\*  indicates equal contribution)
