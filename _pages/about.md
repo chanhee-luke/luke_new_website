@@ -26,6 +26,7 @@ My general research interest lies in Natural Language Processing and Data Mining
 
 # Publications
 (\*  indicates equal contribution)
+<table style="border: none; border-collapse: collapse;" border="0">
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
 <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/_transformersContributions.png" width="800" />
@@ -171,11 +172,10 @@ Template:
   </td>
 </tr>
 -->
+</table>
 
 
-
-
-## Seleted Honors & Awards
+# Seleted Honors & Awards
 
 2020, Honor for Seeking Truth & Giving Commencement Address, ZUCC (Top 1)
 
