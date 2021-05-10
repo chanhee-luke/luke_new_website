@@ -23,20 +23,6 @@ My general research interest lies in Natural Language Processing and Data Mining
 
 
 
-<details>
-  <summary>折叠文本</summary>
-  此处可书写文本
-  嗯，是可以书写文本的
-</details>
-
-​     
-
-
-
-
-
-
-
 
 
 # Selected Publications
@@ -47,7 +33,6 @@ My general research interest lies in Natural Language Processing and Data Mining
 <summary>Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks</summary>
 	This paper studies the relative importance of attention heads in Transformer-based models to aid their interpretability in cross-lingual and multi-lingual tasks. Prior research has found that only a few attention heads are important in each mono-lingual Natural Language Processing (NLP) task and pruning the remaining heads leads to comparable or improved performance of the model. However, the impact of pruning attention heads is not yet clear in cross-lingual and multi-lingual tasks. Through extensive experiments, we show that (1) pruning a number of attention heads in a multi-lingual Transformer-based model has, in general, positive effects on its performance in cross-lingual and multi-lingual tasks and (2) the attention heads to be pruned can be ranked using gradients and identified with a few trial experiments. Our experiments focus on sequence labeling tasks, with potential applicability on other cross-lingual and multi-lingual tasks. For comprehensiveness, we examine two pre-trained multi-lingual models, namely multi-lingual BERT (mBERT) and XLM-R, on three tasks across 9 languages each. We also discuss the validity of our findings and their extensibility to truly resource-scarce languages and other task settings.
 </details>
-
 ​    Weicheng Ma\*, **Kai Zhang\***, Renze Lou, Lili Wang and Soroush Vosoughi. 
 
 ​	ACL-IJCNLP 2021, Long Paper. (To appear) 
