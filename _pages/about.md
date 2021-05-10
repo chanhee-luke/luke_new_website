@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am preparing application in 2022 Fall and actively looking for PhD positions. I was a full-time research assistant at [Tsinghua University Natural Language Processing Lab (THUNLP)](http://nlp.csai.tsinghua.edu.cn/site2/index.php/en), advised by Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). Prior to THUNLP, I received my B.Eng. Degree in Computer Science & Technology from Zhejiang University City College (ZUCC). In ZUCC, I worked on Nested NER and SimRank, advised by Prof. [Lin Sun](http://jsxy.zucc.edu.cn/art/2020/4/8/art_2788_194362.html) and Prof. [Fanwei Zhu](http://jsxy.zucc.edu.cn/art/2013/4/18/art_265_94143.html), respectively. They both are Associate Professors at ZUCC and Zhejiang University (ZJU) Master student mentors.
+I am preparing application in 2022 Fall and actively looking for PhD positions. I was a full-time research assistant at [Tsinghua University Natural Language Processing Lab (THUNLP)](http://nlp.csai.tsinghua.edu.cn/site2/index.php/en), advised by Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). Prior to THUNLP, I received my B.Eng. Degree in Computer Science & Technology from Zhejiang University City College (ZUCC). I also work closely with Prof.[Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) at Dartmouth College.
 
 Here is my [CV](/files/cv_open.pdf) (updated in 2021-5).
 
@@ -185,9 +185,9 @@ Template:
 
 
 
-## About ZUCC
+## About ZUCC & ZJU
 
-
+In ZUCC, I worked on Nested NER and SimRank, advised by Prof. [Lin Sun](http://jsxy.zucc.edu.cn/art/2020/4/8/art_2788_194362.html) and Prof. [Fanwei Zhu](http://jsxy.zucc.edu.cn/art/2013/4/18/art_265_94143.html), respectively. They both are Associate Professors at ZUCC and Zhejiang University (ZJU) Master student mentors.
 
 ZUCC is an independent college, which is neither a branch of ZJU nor one of the campuses of  ZJU. It is directly managed by the People's Government of Zhejiang Province while ZJU belongs to the Ministry of Education of the People’s Republic of China.
 
