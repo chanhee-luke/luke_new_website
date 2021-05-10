@@ -98,7 +98,7 @@ My general research interest lies in Natural Language Processing and Data Mining
   </td>
   <td style="border-collapse: collapse; border: none;">
     Adversarial Language Games for Advanced Natural Language Intelligence<br>
-    Yuan Yao, Haoxi Zhong, Zhengyan Zhang, Xu Han, Xiaozhi Wang, <b>Kai Zhang</b>, Chaojun Xiao, Guoyang Zeng, Zhiyuan Liu and Maosong Sun.
+    Yuan Yao, Haoxi Zhong, Zhengyan Zhang, Xu Han, Xiaozhi Wang, <b>Kai Zhang</b>, Chaojun Xiao, Guoyang Zeng, Zhiyuan Liu and Maosong Sun.<br>
     In AAAI 2021.<br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span>Paper to appear.</span><br>
@@ -115,7 +115,7 @@ My general research interest lies in Natural Language Processing and Data Mining
   </td>
   <td style="border-collapse: collapse; border: none;">
     RpBERT: A Text-image Relation Propagation-based BERT Model for Multimodal NER<br>
-    Lin Sun*, Jiquan Wang*, <b>Kai Zhang</b>, Fangsheng Weng and Yindu Su.
+    Lin Sun*, Jiquan Wang*, <b>Kai Zhang</b>, Fangsheng Weng and Yindu Su.<br>
     In AAAI 2021.<br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span>Paper to appear.</span><br>
@@ -131,7 +131,7 @@ My general research interest lies in Natural Language Processing and Data Mining
   </td>
   <td style="border-collapse: collapse; border: none;">
     A TOI based CNN with Location Regression for Insurance Contract Analysis<br>
-    <b>Kai Zhang</b>, Lin Sun, Fule Ji.
+    <b>Kai Zhang</b>, Lin Sun, Fule Ji.<br>
     In IJCNN 2019 (<b>Oral</b>).<br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/abstract/document/8852052/">Paper</a></span><br>
@@ -147,7 +147,7 @@ My general research interest lies in Natural Language Processing and Data Mining
   </td>
   <td style="border-collapse: collapse; border: none;">
     TOI-CNN: A Solution of Information Extraction on Chinese Insurance Policy<br>
-    Lin Sun*, <b>Kai Zhang*</b>, Fule Ji and Zhenhua Yang.
+    Lin Sun*, <b>Kai Zhang*</b>, Fule Ji and Zhenhua Yang.<br>
     In NAACL 2019.<br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://www.aclweb.org/anthology/N19-2022.pdf">Paper</a></span><br>
