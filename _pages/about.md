@@ -25,7 +25,7 @@ My general research interests lie in Natural Language Processing and Data Mining
 <table style="border: none; border-collapse: collapse;" border="0">
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-<img src="/images/_transformersContributions.png" width="800" />
+<img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/_transformersContributions.png" width="800" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks<br>
