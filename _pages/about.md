@@ -16,7 +16,7 @@ My general research interest lies in Natural Language Processing and Data Mining
 # News
 
 - 2021/05  Got one paper about attention head mask on multi- and cross-lingual tasks accepted by ACL-IJCNLP 2021.
-- 2021/03  Quitted my RA job in THUNLP for preparing to apply MS/PhD Program in 2022 Fall.
+- 2021/03  Quitted my RA job in THUNLP for applying MS/PhD Program in 2022 Fall.
 - 2021/03  Got one paper about open hierarchical relation extraction accepted by NAACL-HLT 2021.
 
 - 2021/01  Got two papers accepted by ICASSP 2021.
