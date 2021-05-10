@@ -23,24 +23,79 @@ My general research interest lies in Natural Language Processing and Data Mining
 
 
 
+<details>
+  <summary>折叠文本</summary>
+  此处可书写文本
+  嗯，是可以书写文本的
+</details>
+
+​     
+
+
+
+
+
+
+
+
+
 # Selected Publications
 
 (\*  indicates equal contribution)
 
-- Weicheng Ma\*, **Kai Zhang\***, Renze Lou, Lili Wang and Soroush Vosoughi. Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks. In Proceedings of ACL-IJCNLP 2021. (To appear)
-- **Kai Zhang\***, Yuan Yao*, Ruobing Xie, Xu Han, Zhiyuan Liu, Fen Lin, Leyu Lin and Maosong Sun. Open Hierarchical Relation Extraction. In Proceedings of NAACL-HLT 2021. (To appear) \[[code](https://github.com/thunlp/OHRE)\]
+<details>
+<summary>Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks</summary>
+	This paper studies the relative importance of attention heads in Transformer-based models to aid their interpretability in cross-lingual and multi-lingual tasks. Prior research has found that only a few attention heads are important in each mono-lingual Natural Language Processing (NLP) task and pruning the remaining heads leads to comparable or improved performance of the model. However, the impact of pruning attention heads is not yet clear in cross-lingual and multi-lingual tasks. Through extensive experiments, we show that (1) pruning a number of attention heads in a multi-lingual Transformer-based model has, in general, positive effects on its performance in cross-lingual and multi-lingual tasks and (2) the attention heads to be pruned can be ranked using gradients and identified with a few trial experiments. Our experiments focus on sequence labeling tasks, with potential applicability on other cross-lingual and multi-lingual tasks. For comprehensiveness, we examine two pre-trained multi-lingual models, namely multi-lingual BERT (mBERT) and XLM-R, on three tasks across 9 languages each. We also discuss the validity of our findings and their extensibility to truly resource-scarce languages and other task settings.
+</details>
 
-- Yutong Wang\*, Renze Lou\*, **Kai Zhang\***, Maoyan Chen and Yujiu Yang. MORE: A Metric Learning Based Framework for Open-Domain Relation Extraction. In Proceedings of ICASSP 2021. (To appear) \[[code](https://github.com/RenzeLou/MORE)\]
+​    Weicheng Ma\*, **Kai Zhang\***, Renze Lou, Lili Wang and Soroush Vosoughi. 
 
-- Jian Xie\*, **Kai Zhang\***, Lin Sun, Yindu Su and Chenxiang Xu. Improving Social Media NER via Entity Type-Compatible Unknown Word Substitution. In Proceedings of ICASSP 2021. (To appear)
+​	ACL-IJCNLP 2021, Long Paper. (To appear) 
 
-- Yuan Yao, Haoxi Zhong, Zhengyan Zhang, Xu Han, Xiaozhi Wang, **Kai Zhang**, Chaojun Xiao, Guoyang Zeng, Zhiyuan Liu and Maosong Sun. Adversarial Language Games for Advanced Natural Language Intelligence. In Proceedings of AAAI 2021. (To appear, [Early Version](https://arxiv.org/pdf/1911.01622.pdf)) \[[code](https://github.com/Multimodal-NER/RpBERT)\]
+<details>
+<summary>Open Hierarchical Relation Extraction</summary>
+Open relation extraction (OpenRE) aims to extract novel relation types from open-domain corpora, which plays an important role in completing the relation schemes of knowledge bases (KBs). Most OpenRE methods cast different relation types in isolation without considering their hierarchical dependency. We argue that OpenRE is inherently in close connection with relation hierarchies. To address the bidirectional connections between OpenRE and relation hierarchy, we propose the task of open hierarchical relation extraction and present a novel OHRE framework for the task. To effectively integrate hierarchy information into relation representations for better novel relation extraction, we propose a dynamic hierarchical triplet objective and hierarchical curriculum training paradigm. We also present a top-down hierarchy expansion algorithm to add the extracted relations into existing hierarchies with reasonable interpretability. Comprehensive experiments show that OHRE outperforms state-of-the-art models by a large margin on both relation clustering and hierarchy expansion. The source code and experiment details of this paper can be obtained from https://github.com/thunlp/OHRE.
+</details>
 
-- Lin Sun\*, Jiquan Wang\*, **Kai Zhang**, Fangsheng Weng and Yindu Su. RpBERT: A Text-image Relation Propagation-based BERT Model for Multimodal NER. In Proceedings of AAAI 2021. (To appear, [Early Version](https://arxiv.org/pdf/2102.02967v1.pdf))
+​	**Kai Zhang\***, Yuan Yao*, Ruobing Xie, Xu Han, Zhiyuan Liu, Fen Lin, Leyu Lin and Maosong Sun. 
 
-- **Kai Zhang**, Lin Sun, Fule Ji. A TOI based CNN with Location Regression for Insurance Contract Analysis. in Proceedings of IJCNN 2019 **(Oral)**. [[link](https://ieeexplore.ieee.org/abstract/document/8852052/)] \[[code](https://github.com/ETIP-team/ETIP-Project)\]
+​	NAACL-HLT 2021, Long Paper. (To appear) \[[code](https://github.com/thunlp/OHRE)\]
 
-- Lin Sun\*, **Kai Zhang\***, Fule Ji and Zhenhua Yang. TOI-CNN: A Solution of Information Extraction on Chinese Insurance Policy. In Proceedings of NAACL-HLT 2019. [[link](https://www.aclweb.org/anthology/N19-2022.pdf)] \[[code](https://github.com/ETIP-team/ETIP-Project)\]
+- MORE: A Metric Learning Based Framework for Open-Domain Relation Extraction. 
+
+  Yutong Wang\*, Renze Lou\*, **Kai Zhang\***, Maoyan Chen and Yujiu Yang. 
+
+  ICASSP 2021. (To appear) \[[code](https://github.com/RenzeLou/MORE)\]
+
+- Improving Social Media NER via Entity Type-Compatible Unknown Word Substitution. 
+
+  Jian Xie\*, **Kai Zhang\***, Lin Sun, Yindu Su and Chenxiang Xu. 
+
+  ICASSP 2021. (To appear) 
+
+- Adversarial Language Games for Advanced Natural Language Intelligence. 
+
+  Yuan Yao, Haoxi Zhong, Zhengyan Zhang, Xu Han, Xiaozhi Wang, **Kai Zhang**, Chaojun Xiao, Guoyang Zeng, Zhiyuan Liu and Maosong Sun.
+
+  AAAI 2021, Long Paper. (To appear) \[[code](https://github.com/Multimodal-NER/RpBERT)\]
+
+- RpBERT: A Text-image Relation Propagation-based BERT Model for Multimodal NER. 
+
+  Lin Sun\*, Jiquan Wang\*, **Kai Zhang**, Fangsheng Weng and Yindu Su. 
+
+  AAAI 2021, Long Paper. (To appear) [[code](https://github.com/Multimodal-NER/RpBERT)]
+
+- A TOI based CNN with Location Regression for Insurance Contract Analysis.
+
+  **Kai Zhang**, Lin Sun, Fule Ji.
+
+  IJCNN 2019, Long & Oral. \[[code](https://github.com/ETIP-team/ETIP-Project)\] [[paper](https://ieeexplore.ieee.org/abstract/document/8852052/)]
+
+- TOI-CNN: A Solution of Information Extraction on Chinese Insurance Policy.
+
+  Lin Sun\*, **Kai Zhang\***, Fule Ji and Zhenhua Yang. 
+
+  NAACL-HLT 2019, Industry Track. \[[code](https://github.com/ETIP-team/ETIP-Project)\] [[paper](https://www.aclweb.org/anthology/N19-2022.pdf)]
 
 
 
