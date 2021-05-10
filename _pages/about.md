@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I was a full-time research assistant at [Tsinghua University Natural Language Processing Lab (THUNLP)](http://nlp.csai.tsinghua.edu.cn/site2/index.php/en), advised by Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). Prior to THUNLP, I received my B.Eng. Degree in Computer Science & Technology from Zhejiang University City College (ZUCC). In ZUCC, I worked on Nested NER and SimRank, advised by Prof. [Lin Sun](http://jsxy.zucc.edu.cn/art/2020/4/8/art_2788_194362.html) and Prof. [Fanwei Zhu](http://jsxy.zucc.edu.cn/art/2013/4/18/art_265_94143.html), respectively. Here is my [CV](/files/CV_open.pdf) (updated in 2021-5).
+I was a full-time research assistant at [Tsinghua University Natural Language Processing Lab (THUNLP)](http://nlp.csai.tsinghua.edu.cn/site2/index.php/en), advised by Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). Prior to THUNLP, I received my B.Eng. Degree in Computer Science & Technology from Zhejiang University City College (ZUCC). In ZUCC, I worked on Nested NER and SimRank, advised by Prof. [Lin Sun](http://jsxy.zucc.edu.cn/art/2020/4/8/art_2788_194362.html) and Prof. [Fanwei Zhu](http://jsxy.zucc.edu.cn/art/2013/4/18/art_265_94143.html), respectively. Here is my [CV](/files/cv_open.pdf) (updated in 2021-5).
 
 My general research interest lies in Natural Language Processing and Data Mining.
 
