@@ -5,8 +5,6 @@ permalink: /zucc/
 author_profile: true
 ---
 
-
-
 ZUCC is an independent college, which is neither a branch of ZJU nor one of the campuses of  ZJU. It is directly managed by the People's Government of Zhejiang Province while ZJU belongs to the Ministry of Education of the People’s Republic of China.
 
 
