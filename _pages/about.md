@@ -7,13 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am preparing application in 2022 Fall and actively looking for PhD positions. I was a full-time research assistant at [Tsinghua University Natural Language Processing Lab (THUNLP)](http://nlp.csai.tsinghua.edu.cn/site2/index.php/en), advised by Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). Prior to THUNLP, I received my B.Eng. Degree in Computer Science & Technology from Zhejiang University City College (ZUCC). In ZUCC, I worked on Nested NER and SimRank, advised by Prof. [Lin Sun](http://jsxy.zucc.edu.cn/art/2020/4/8/art_2788_194362.html) and Prof. [Fanwei Zhu](http://jsxy.zucc.edu.cn/art/2013/4/18/art_265_94143.html), respectively. Here is my [CV](/files/cv_open.pdf) (updated in 2021-5).
+I am preparing application in 2022 Fall and actively looking for PhD positions. I was a full-time research assistant at [Tsinghua University Natural Language Processing Lab (THUNLP)](http://nlp.csai.tsinghua.edu.cn/site2/index.php/en), advised by Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). Prior to THUNLP, I received my B.Eng. Degree in Computer Science & Technology from Zhejiang University City College (ZUCC). In ZUCC, I worked on Nested NER and SimRank, advised by Prof. [Lin Sun](http://jsxy.zucc.edu.cn/art/2020/4/8/art_2788_194362.html) and Prof. [Fanwei Zhu](http://jsxy.zucc.edu.cn/art/2013/4/18/art_265_94143.html), respectively. They both are Associate Professors at ZUCC and Zhejiang University (ZJU) Master student mentors.
 
-My general research interest lies in Natural Language Processing and Data Mining.
+Here is my [CV](/files/cv_open.pdf) (updated in 2021-5).
+
+My general research interests lie in Natural Language Processing and Data Mining.
 
 ## News
 
-- 2021/05  Got one paper about attention head mask on multi- and cross-lingual tasks accepted by ACL-IJCNLP 2021.
+- 2021/05  Got one paper about attention head mask on multi-lingual and cross-lingual tasks accepted by ACL-IJCNLP 2021.
 - 2021/03  Quitted RA job at THUNLP for preparing 2022 Fall MS/PhD application. (For My Rusty English LOL)
 - 2021/03  Got one paper about open hierarchical relation extraction accepted by NAACL-HLT 2021.
 - 2021/01  Got two papers accepted by ICASSP 2021.
@@ -175,7 +177,7 @@ Template:
 
 2020, Honor for Seeking Truth & Giving Commencement Address, ZUCC (Top 1)
 
-2019, Special Assessment National Scholarship, Ministry of Education of the Peoples Republic of China (Top 10 in Zhejiang Province)
+2019, Special National Scholarship, Ministry of Education of the Peoples Republic of China (Top 10 in Zhejiang Province)
 
 2019, National Scholarship, Ministry of Education of the Peoples Republic of China (Top 1%)
 
@@ -185,7 +187,7 @@ Template:
 
 ## About ZUCC
 
-My tutors in ZUCC Prof. [Lin Sun](http://jsxy.zucc.edu.cn/art/2020/4/8/art_2788_194362.html) and Prof. [Fanwei Zhu](http://jsxy.zucc.edu.cn/art/2013/4/18/art_265_94143.html) are Associate Professors at ZUCC and Zhejiang University (ZJU) Master student mentors.
+
 
 ZUCC is an independent college, which is neither a branch of ZJU nor one of the campuses of  ZJU. It is directly managed by the People's Government of Zhejiang Province while ZJU belongs to the Ministry of Education of the People’s Republic of China.
 
