@@ -145,7 +145,7 @@ My general research interests lie in Natural Language Processing and Data Mining
   <td style="border-collapse: collapse; border: none;">
     TOI-CNN: A Solution of Information Extraction on Chinese Insurance Policy<br>
     Lin Sun*, <b>Kai Zhang*</b>, Fule Ji and Zhenhua Yang.<br>
-    In NAACL 2019.<br>
+    In NAACL-HLT 2019.<br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://www.aclweb.org/anthology/N19-2022.pdf">Paper</a></span><br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
