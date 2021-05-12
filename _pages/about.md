@@ -128,7 +128,7 @@ My general research interests lie in Natural Language Processing and Data Mining
   </td>
   <td style="border-collapse: collapse; border: none;">
     A TOI based CNN with Location Regression for Insurance Contract Analysis<br>
-    <b>Kai Zhang</b>, Lin Sun, Fule Ji.<br>
+    <b>Kai Zhang</b>, Lin Sun and Fule Ji.<br>
     In IJCNN 2019 (<b>Oral</b>).<br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/abstract/document/8852052/">Paper</a></span><br>
