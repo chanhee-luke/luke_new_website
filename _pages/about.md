@@ -39,7 +39,6 @@ My general research interests lie in Natural Language Processing and Data Mining
 </tr>
 
 
-
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
 <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/_OHRE.png" width="800" />
@@ -49,7 +48,7 @@ My general research interests lie in Natural Language Processing and Data Mining
     <b>Kai Zhang*</b>, Yuan Yao*, Ruobing Xie, Xu Han, Zhiyuan Liu, Fen Lin, Leyu Lin and Maosong Sun. <br>
     In NAACL-HLT 2021.<br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://www.aclweb.org/anthology/N19-2022.pdf">Paper</a></span><br>
+    <span><a href="https://www.aclweb.org/anthology/2021.naacl-main.452.pdf">Paper</a></span><br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/thunlp/OHRE">Code</a></span><br>
   </td>
@@ -65,7 +64,7 @@ My general research interests lie in Natural Language Processing and Data Mining
     Yutong Wang*, Renze Lou*, <b>Kai Zhang*</b>, Maoyan Chen and Yujiu Yang. <br>
     In ICASSP 2021.<br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-    <span>Paper to appear.</span><br>
+    <span><a href="https://ieeexplore.ieee.org/document/9413437">Paper</a></span><br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/RenzeLou/MORE">Code</a></span><br>
   </td>
@@ -81,7 +80,7 @@ My general research interests lie in Natural Language Processing and Data Mining
     Jian Xie*, <b>Kai Zhang*</b>, Lin Sun, Yindu Su and Chenxiang Xu. <br>
     In ICASSP 2021.<br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-    <span>Paper to appear.</span><br>
+    <span><a href="https://ieeexplore.ieee.org/document/9414304">Paper</a></span><br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span>Code will be released soon.</span><br>
   </td>
