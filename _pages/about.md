@@ -49,7 +49,7 @@ My general research interests lie in Natural Language Processing and Data Mining
     <b>Kai Zhang*</b>, Yuan Yao*, Ruobing Xie, Xu Han, Zhiyuan Liu, Fen Lin, Leyu Lin and Maosong Sun. <br>
     In NAACL-HLT 2021.<br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-    <span>Paper to appear.</span><br>
+    <span><a href="https://www.aclweb.org/anthology/N19-2022.pdf">Paper</a></span><br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/thunlp/OHRE">Code</a></span><br>
   </td>
@@ -189,5 +189,4 @@ Template:
 ZUCC is an independent college, which is neither a branch of Zhejiang University (ZJU) nor one of the campuses of  ZJU. It is directly managed by the People's Government of Zhejiang Province while ZJU belongs to the Ministry of Education of the People’s Republic of China.
 
 In ZUCC, I worked on Nested NER and SimRank, advised by Prof. [Lin Sun](http://jsxy.zucc.edu.cn/art/2020/4/8/art_2788_194362.html) and Prof. [Fanwei Zhu](http://jsxy.zucc.edu.cn/art/2013/4/18/art_265_94143.html), respectively. They both are Associate Professors at ZUCC and ZJU Master student mentors.
-
 
