@@ -96,7 +96,7 @@ My general research interests lie in Natural Language Processing and Data Mining
     Yuan Yao, Haoxi Zhong, Zhengyan Zhang, Xu Han, Xiaozhi Wang, <b>Kai Zhang</b>, Chaojun Xiao, Guoyang Zeng, Zhiyuan Liu and Maosong Sun.<br>
     In AAAI 2021.<br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://www.aaai.org/AAAI21Papers/AAAI-10099.YaoY.pdf">Paper</a></span><br>
+    <span><a href="https://ojs.aaai.org/index.php/AAAI/article/view/17676">Paper</a></span><br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
 	<span><a href="https://github.com/thunlp/AdversarialTaboo">Code</a></span><br>
   </td>
@@ -112,7 +112,7 @@ My general research interests lie in Natural Language Processing and Data Mining
     Lin Sun*, Jiquan Wang*, <b>Kai Zhang</b>, Fangsheng Weng and Yindu Su.<br>
     In AAAI 2021.<br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://arxiv.org/pdf/2102.02967.pdf">Paper</a></span><br>
+    <span><a href="https://ojs.aaai.org/index.php/AAAI/article/view/17633">Paper</a></span><br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/Multimodal-NER/RpBERT">Code</a></span><br>
   </td>
