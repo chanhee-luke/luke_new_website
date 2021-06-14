@@ -30,13 +30,14 @@ My general research interests lie in Natural Language Processing and Data Mining
   <td style="border-collapse: collapse; border: none;">
     Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks<br>
     Weicheng Ma*, <b>Kai Zhang*</b>, Renze Lou, Lili Wang and Soroush Vosoughi.<br>
-    In ACL 2021.<br>
+    In ACL 2021(<b>Oral</b>).<br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span>Paper to appear.</span><br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span>Code will be released soon.</span><br>
   </td>
 </tr>
+
 
 
 <tr style="border-collapse: separate; border-spacing:30em;">
