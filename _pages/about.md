@@ -24,6 +24,8 @@ My general research interests lie in Natural Language Processing and Data Mining
 (\*  indicates equal contribution)
 
 <table style="border: none; border-collapse: collapse;" border="0">
+
+<!-- UISim -->
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
 <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/_UISim.png" width="800" />
@@ -41,7 +43,6 @@ My general research interests lie in Natural Language Processing and Data Mining
 
 <!-- Multi-lingual -->
 
-<table style="border: none; border-collapse: collapse;" border="0">
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
 <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/_transformersContributions.png" width="800" />
