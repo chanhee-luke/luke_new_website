@@ -23,8 +23,24 @@ My general research interests lie in Natural Language Processing and Data Mining
 
 (\*  indicates equal contribution)
 
+<table style="border: none; border-collapse: collapse;" border="0">
+<tr style="border-collapse: separate; border-spacing:30em;">
+  <td style="border-collapse: collapse; border: none;">
+<img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/_UISim.png" width="800" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">
+    Unified and Incremental SimRank: Index-free Approximation with Scheduled Principle<br>
+    Fanwei Zhu, Yuan Fang, <b>Kai Zhang</b>, Yichen Shen, Hongtai Cao, Kevin Chen-Chuan Chang.<br>
+    Accepted by TKDE 2021. <br>
+    <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+    <span>Paper to appear.</span><br>
+    <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://github.com/UISim2020/UISim2020">Code</a></span><br>
+  </td>
+</tr>
 
 <!-- Multi-lingual -->
+
 <table style="border: none; border-collapse: collapse;" border="0">
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
