@@ -23,7 +23,6 @@ My general research interests lie in Natural Language Processing and Data Mining
 (\*  indicates equal contribution)
 
 <table style="border: none; border-collapse: collapse;" border="0">
-
 <!-- UISim -->
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
@@ -32,7 +31,7 @@ My general research interests lie in Natural Language Processing and Data Mining
   <td style="border-collapse: collapse; border: none;">
     Unified and Incremental SimRank: Index-free Approximation with Scheduled Principle<br>
     Fanwei Zhu, Yuan Fang, <b>Kai Zhang</b>, Yichen Shen, Hongtai Cao, Kevin Chen-Chuan Chang.<br>
-    Accepted by TKDE 2021. <br>
+    Accepted by TKDE 2021(<b>First student author</b>). <br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span>Paper to appear.</span><br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
