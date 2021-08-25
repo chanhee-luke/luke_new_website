@@ -12,16 +12,36 @@ I am preparing application in 2022 Fall and actively looking for PhD positions. 
 My general research interests lie in Natural Language Processing and Data Mining.
 
 ## News
-
+- 2021/08 After two and a half years, got one paper about UISim accepted by TKDE! Thanks to all my collaborators!
 - 2021/05  Got one paper about attention head mask on multi-lingual and cross-lingual tasks accepted by ACL 2021. (2021/06 update: this paper is selected as **an oral presentation**) 
 - 2021/03  Got one paper about open hierarchical relation extraction accepted by NAACL-HLT 2021.
-- 2021/03  Quitted my RA job at THUNLP for preparing 2022 Fall MS/PhD application. (Due to My Rusty English LOL)
+- 2021/03  Quitted my RA job at THUNLP for preparing 2022 Fall MS/PhD application.
 - 2021/01  Got two papers accepted by ICASSP 2021.
 - 2020/12  Got two papers accepted by AAAI 2021.
 
 ## Publications
 
 (\*  indicates equal contribution)
+
+
+<!-- UISim -->
+<table style="border: none; border-collapse: collapse;" border="0">
+<tr style="border-collapse: separate; border-spacing:30em;">
+  <td style="border-collapse: collapse; border: none;">
+<img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/__UISim.jpg" width="800" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">
+    Unified and Incremental SimRank: Index-free Approximation with Scheduled Principle<br>
+    Fanwei Zhu, Yuan Fang, <b>Kai Zhang</b>, Yichen Shen, Hongtai Cao, Kevin Chen-Chuan Chang
+    Accepted by TKDE 2021.<br>
+    <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+    <span>Paper to appear.</a></span><br>
+    <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://github.com/UISim2020/UISim2020">Code</a></span><br>
+  </td>
+</tr>
+
+<!-- Multi-lingual -->
 <table style="border: none; border-collapse: collapse;" border="0">
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
@@ -32,14 +52,12 @@ My general research interests lie in Natural Language Processing and Data Mining
     Weicheng Ma*, <b>Kai Zhang*</b>, Renze Lou, Lili Wang and Soroush Vosoughi.<br>
     In ACL 2021(<b>Oral</b>).<br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-    <span>Paper to appear.</span><br>
-    <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-    <span>Code will be released soon.</span><br>
+    <span><a href="https://aclanthology.org/2021.acl-long.152.pdf">Paper</a></span><br>
   </td>
 </tr>
 
 
-
+<!-- OHRE -->
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
 <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/_OHRE.png" width="800" />
