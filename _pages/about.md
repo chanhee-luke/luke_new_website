@@ -34,7 +34,7 @@ My general research interests lie in Natural Language Processing and Data Mining
   <td style="border-collapse: collapse; border: none;">
     GradTS: A Gradient-Based Automatic Auxiliary Task Selection Method Based on Transformer Networks<br>
     Weicheng Ma, Renze Lou, <b>Kai Zhang</b>, Lili Wang and Soroush Vosoughi.<br>
-    In EMNLP 2021. <br>
+    In EMNLP 2021.<br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span>Paper to appear.</span><br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
@@ -51,7 +51,7 @@ My general research interests lie in Natural Language Processing and Data Mining
   <td style="border-collapse: collapse; border: none;">
     Unified and Incremental SimRank: Index-free Approximation with Scheduled Principle<br>
     Fanwei Zhu, Yuan Fang, <b>Kai Zhang</b>, Zhen Jiang, Minghui Wu, Hongtai Cao and Kevin Chen-Chuan Chang.<br>
-    In TKDE 2021 (<b>First student author</b>). <br>
+    In TKDE 2021 (<b>First student author</b>).<br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span>Paper to appear.</span><br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
@@ -67,7 +67,7 @@ My general research interests lie in Natural Language Processing and Data Mining
   </td>
   <td style="border-collapse: collapse; border: none;">
     Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks<br>
-    Weicheng Ma*, <b>Kai Zhang*</b>, Renze Lou, Lili Wang and Soroush Vosoughi. <br>
+    Weicheng Ma*, <b>Kai Zhang*</b>, Renze Lou, Lili Wang and Soroush Vosoughi.<br>
     In ACL 2021 (<b>Oral</b>).<br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://aclanthology.org/2021.acl-long.152.pdf">Paper</a></span><br>
@@ -83,7 +83,7 @@ My general research interests lie in Natural Language Processing and Data Mining
   </td>
   <td style="border-collapse: collapse; border: none;">
     Open Hierarchical Relation Extraction<br>
-    <b>Kai Zhang*</b>, Yuan Yao*, Ruobing Xie, Xu Han, Zhiyuan Liu, Fen Lin, Leyu Lin and Maosong Sun. <br>
+    <b>Kai Zhang*</b>, Yuan Yao*, Ruobing Xie, Xu Han, Zhiyuan Liu, Fen Lin, Leyu Lin and Maosong Sun.<br>
     In NAACL-HLT 2021.<br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://www.aclweb.org/anthology/2021.naacl-main.452.pdf">Paper</a></span><br>
@@ -99,7 +99,7 @@ My general research interests lie in Natural Language Processing and Data Mining
   </td>
   <td style="border-collapse: collapse; border: none;">
     MORE: A Metric Learning Based Framework for Open-Domain Relation Extraction<br>
-    Yutong Wang*, Renze Lou*, <b>Kai Zhang*</b>, Maoyan Chen and Yujiu Yang. <br>
+    Yutong Wang*, Renze Lou*, <b>Kai Zhang*</b>, Maoyan Chen and Yujiu Yang.<br>
     In ICASSP 2021.<br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/document/9413437">Paper</a></span><br>
@@ -115,7 +115,7 @@ My general research interests lie in Natural Language Processing and Data Mining
   </td>
   <td style="border-collapse: collapse; border: none;">
     Improving Social Media NER via Entity Type-Compatible Unknown Word Substitution<br>
-    Jian Xie*, <b>Kai Zhang*</b>, Lin Sun, Yindu Su and Chenxiang Xu. <br>
+    Jian Xie*, <b>Kai Zhang*</b>, Lin Sun, Yindu Su and Chenxiang Xu.<br>
     In ICASSP 2021.<br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/document/9414304">Paper</a></span><br>
