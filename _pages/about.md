@@ -12,8 +12,8 @@ I am preparing application in 2022 Fall and actively looking for PhD positions. 
 My general research interests lie in Natural Language Processing and Data Mining.
 
 ## News
-- 2021/08 After two and a half years, got the paper about UISim accepted by TKDE! Thanks to all my collaborators!
 - 2021/08 Got one paper about attention head prune on multi-tasks accepted by EMNLP 2021.
+- 2021/08 After two and a half years, got the paper about UISim accepted by TKDE! Thanks to all my collaborators!
 - 2021/05  Got one paper about attention head prune on multi-lingual and cross-lingual tasks accepted by ACL 2021.
 - 2021/03  Got one paper about open hierarchical relation extraction accepted by NAACL-HLT 2021.
 - 2021/01  Got two papers accepted by ICASSP 2021.
@@ -25,36 +25,6 @@ My general research interests lie in Natural Language Processing and Data Mining
 
 <table style="border: none; border-collapse: collapse;" border="0">
 
-
-<!-- Multi-lingual -->
-<tr style="border-collapse: separate; border-spacing:30em;">
-  <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/_transformersContributions.png" width="800" />
-  </td>
-  <td style="border-collapse: collapse; border: none;">
-    Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks<br>
-    Weicheng Ma*, <b>Kai Zhang*</b>, Renze Lou, Lili Wang and Soroush Vosoughi. <br>
-    In ACL 2021 (<b>Oral</b>).<br>
-    <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://aclanthology.org/2021.acl-long.152.pdf">Paper</a></span><br>
-  </td>
-</tr>
-
-<!-- UISim -->
-<tr style="border-collapse: separate; border-spacing:30em;">
-  <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/_UISim.png" width="800" />
-  </td>
-  <td style="border-collapse: collapse; border: none;">
-    Unified and Incremental SimRank: Index-free Approximation with Scheduled Principle<br>
-    Fanwei Zhu, Yuan Fang, <b>Kai Zhang</b>, Zhen Jiang, Minghui Wu, Hongtai Cao and Kevin Chen-Chuan Chang.<br>
-    Accepted by TKDE 2021 (<b>First student author</b>). <br>
-    <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-    <span>Paper to appear.</span><br>
-    <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://github.com/UISim2020/UISim2020">Code</a></span><br>
-  </td>
-</tr>
 
 <!-- MultiTask -->
 <tr style="border-collapse: separate; border-spacing:30em;">
@@ -72,6 +42,37 @@ My general research interests lie in Natural Language Processing and Data Mining
   </td>
 </tr>
 
+
+<!-- UISim -->
+<tr style="border-collapse: separate; border-spacing:30em;">
+  <td style="border-collapse: collapse; border: none;">
+<img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/_UISim.png" width="800" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">
+    Unified and Incremental SimRank: Index-free Approximation with Scheduled Principle<br>
+    Fanwei Zhu, Yuan Fang, <b>Kai Zhang</b>, Zhen Jiang, Minghui Wu, Hongtai Cao and Kevin Chen-Chuan Chang.<br>
+    In TKDE 2021 (<b>First student author</b>). <br>
+    <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+    <span>Paper to appear.</span><br>
+    <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://github.com/UISim2020/UISim2020">Code</a></span><br>
+  </td>
+</tr>
+
+
+<!-- Multi-lingual -->
+<tr style="border-collapse: separate; border-spacing:30em;">
+  <td style="border-collapse: collapse; border: none;">
+<img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/_transformersContributions.png" width="800" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">
+    Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks<br>
+    Weicheng Ma*, <b>Kai Zhang*</b>, Renze Lou, Lili Wang and Soroush Vosoughi. <br>
+    In ACL 2021 (<b>Oral</b>).<br>
+    <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://aclanthology.org/2021.acl-long.152.pdf">Paper</a></span><br>
+  </td>
+</tr>
 
 
 
