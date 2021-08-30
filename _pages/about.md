@@ -12,7 +12,7 @@ I am preparing application in 2022 Fall and actively looking for PhD positions. 
 My general research interests lie in Natural Language Processing and Data Mining.
 
 ## News
-- 2021/08 Got one paper about attention head prune on multi-tasks accepted by EMNLP 2021.
+- 2021/08 Got one paper about automatic auxiliary task selection accepted by EMNLP 2021.
 - 2021/08 After two and a half years, got the paper about UISim accepted by TKDE! Thanks to all my collaborators!
 - 2021/05  Got one paper about attention head prune on multi-lingual and cross-lingual tasks accepted by ACL 2021.
 - 2021/03  Got one paper about open hierarchical relation extraction accepted by NAACL-HLT 2021.
