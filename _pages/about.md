@@ -211,7 +211,7 @@ Template:
 
 ## Seleted Honors & Awards
 
-2020, Honor for Seeking Truth & Giving Commencement Address, ZUCC (Top 1)
+2020, Honor for Seeking Truth & Commencement Student Speaker, ZUCC (Top 1)
 
 2019, Special National Scholarship, Ministry of Education of the Peoples Republic of China (Top 10 in Zhejiang Province)
 
