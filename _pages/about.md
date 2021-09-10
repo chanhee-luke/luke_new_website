@@ -233,4 +233,5 @@ In ZUCC, I worked on Nested NER and SimRank, advised by Prof. [Lin Sun](http://j
 
 
 
-<script type="text/javascript" id="clustrmaps" width="800" src="//clustrmaps.com/map_v2.js?d=WWgOfq4agmQMsv-liNWF_IqrTiXrb-1nqoPvyzlC238&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=WWgOfq4agmQMsv-liNWF_IqrTiXrb-1nqoPvyzlC238'></script>
+
