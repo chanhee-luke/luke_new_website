@@ -21,7 +21,7 @@ My general research interests lie in Natural Language Processing and Data Mining
 
 ## Publications
 
-(\*  indicates equal contribution, # indicates work (co-)supervised by me.)
+(\*  indicates equal contribution, **#** indicates work (co-)supervised by me.)
 
 <table style="border: none; border-collapse: collapse;" border="0">
 
@@ -100,7 +100,7 @@ My general research interests lie in Natural Language Processing and Data Mining
   </td>
   <td style="border-collapse: collapse; border: none;">
     MORE: A Metric Learning Based Framework for Open-Domain Relation Extraction<br>
-    # Yutong Wang*, Renze Lou*, <b>Kai Zhang*</b>, Maoyan Chen and Yujiu Yang.<br>
+    **#** Yutong Wang*, Renze Lou*, <b>Kai Zhang*</b>, Maoyan Chen and Yujiu Yang.<br>
     In ICASSP 2021.<br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/document/9413437">Paper</a></span><br>
@@ -116,7 +116,7 @@ My general research interests lie in Natural Language Processing and Data Mining
   </td>
   <td style="border-collapse: collapse; border: none;">
     Improving Social Media NER via Entity Type-Compatible Unknown Word Substitution<br>
-    # Jian Xie*, <b>Kai Zhang*</b>, Lin Sun, Yindu Su and Chenxiang Xu.<br>
+    **#** Jian Xie*, <b>Kai Zhang*</b>, Lin Sun, Yindu Su and Chenxiang Xu.<br>
     In ICASSP 2021.<br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/document/9414304">Paper</a></span><br>
@@ -148,7 +148,7 @@ My general research interests lie in Natural Language Processing and Data Mining
   </td>
   <td style="border-collapse: collapse; border: none;">
     RpBERT: A Text-image Relation Propagation-based BERT Model for Multimodal NER<br>
-    Lin Sun*, Jiquan Wang*, <b>Kai Zhang</b>, Fangsheng Weng and Yindu Su.<br>
+    **#** Lin Sun*, Jiquan Wang*, <b>Kai Zhang</b>, Fangsheng Weng and Yindu Su.<br>
     In AAAI 2021.<br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ojs.aaai.org/index.php/AAAI/article/view/17633">Paper</a></span><br>
