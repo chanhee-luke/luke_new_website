@@ -147,7 +147,7 @@ My general research interests lie in Natural Language Processing and Data Mining
 <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/_RpBERT.png" width="800" />
   </td>
   <td style="border-collapse: collapse; border: none;">
-    # RpBERT: A Text-image Relation Propagation-based BERT Model for Multimodal NER<br>
+    RpBERT: A Text-image Relation Propagation-based BERT Model for Multimodal NER<br>
     Lin Sun*, Jiquan Wang*, <b>Kai Zhang</b>, Fangsheng Weng and Yindu Su.<br>
     In AAAI 2021.<br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
