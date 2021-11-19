@@ -212,13 +212,13 @@ Template:
 
 ## Seleted Honors & Awards
 
-2020, Honor for Seeking Truth & Commencement Student Speaker, ZUCC (Top 1)
+2020, Honor for Seeking Truth & Commencement Student Speaker (Top 1, ZUCC)
 
-2019, Special National Scholarship, Ministry of Education of the Peoples Republic of China (Top 10 in Zhejiang Province)
+2019, Special National Scholarship (Top 10 in Zhejiang Province, Ministry of Education of the P.R.China)
 
-2019, National Scholarship, Ministry of Education of the Peoples Republic of China (Top 1%)
+2019, National Scholarship (Top 1%, Ministry of Education of the P.R.China)
 
-2019, Chinese College Students Self-Improvement Stars, All-China Students’ Federation (Top 200 in China for Technological Innovation)
+2019, Chinese College Students Self-Improvement Stars (Top 200 in China for Technological Innovation, All-China Students’ Federation)
 
 
 
