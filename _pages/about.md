@@ -71,10 +71,9 @@ My general research interests lie in Natural Language Processing, mainly focusin
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://aclanthology.org/2021.acl-long.152.pdf">Paper</a></span><br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-    <span>Code will be released soon.</span><br>
+    <span><a href="https://github.com/hikari-NYU/Contributions-of-Transformer-Attention-Heads-in-Multi--and-Cross-lingual-Tasks">Code</a></span><br>
   </td>
 </tr>
-
 
 
 <!-- OHRE -->
