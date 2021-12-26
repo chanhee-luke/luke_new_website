@@ -37,7 +37,7 @@ My general research interests lie in Natural Language Processing, mainly focusin
     Weicheng Ma, Renze Lou, <b>Kai Zhang</b>, Lili Wang and Soroush Vosoughi.<br>
     In EMNLP 2021.<br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://arxiv.org/pdf/2109.05748.pdf">Paper (arXiv)</a></span><br>
+    <span><a href="https://aclanthology.org/2021.emnlp-main.455.pdf">Paper</a></span><br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span>Code will be released soon.</span><br>
   </td>
