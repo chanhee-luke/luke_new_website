@@ -12,7 +12,7 @@ I am a research intern at Microsoft. I was a full-time research assistant at [Ts
 My general research interests lie in Natural Language Processing, currently focusing on Information Extraction and Pre-trained Language Models.
 
 ## News
-- 2022/02 Started to work at Microsoft STCA, Beijing. Feel free to reach out :)
+- 2022/02 Started to work at Microsoft, Beijing as a Research Intern. Feel free to reach out :)
 - 2021/12 Released **[Fine-grained-Entity-Typing-Papers](https://github.com/drogozhang/Fine-grained-Entity-Typing-Papers)**. Enjoy~
 - 2021/08 Got one paper about automatic auxiliary task selection accepted by EMNLP 2021.
 - 2021/08 After two and a half years, got the paper about UISim accepted by TKDE! Thanks to all my collaborators!
