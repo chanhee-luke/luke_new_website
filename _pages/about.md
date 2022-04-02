@@ -7,19 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a research intern at Microsoft. I was a full-time research assistant at [Tsinghua University Natural Language Processing Lab (THUNLP)](http://nlp.csai.tsinghua.edu.cn/site2/index.php/en), advised by Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). Prior to THUNLP, I received my B.Eng. Degree in Computer Science & Technology from Zhejiang University City College (ZUCC). I also work closely with Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) at Dartmouth College. Here is my [CV](/files/cv_open.pdf) (updated in Feb 2022).
+I am currently a research intern at Microsoft Core Search & AI Team. Also, I am an incoming PhD student advised by Prof. [Yu Su](https://ysu1989.github.io) at Ohio State University. Before starting my PhD journey, I spent two years doing NLP research under the supervision of Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/) at Tsinghua University and Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) at Dartmouth College after I graduated from Zhejiang University City College (ZUCC). Here is my [CV](/files/cv_open.pdf) (updated in Feb 2022).
 
-My general research interests lie in Natural Language Processing, currently focusing on Information Extraction and Pre-trained Language Models.
+I am broadly interested in Natural Language Processing and its real-world applications, currently focusing on Information Extraction and Foundation Models.
 
 ## News
-- 2022/02 Started to work at Microsoft, Beijing as a Research Intern. Feel free to reach out :)
-- 2021/12 Released **[Fine-grained-Entity-Typing-Papers](https://github.com/drogozhang/Fine-grained-Entity-Typing-Papers)**. Enjoy~
-- 2021/08 Got one paper about automatic auxiliary task selection accepted by EMNLP 2021.
-- 2021/08 After two and a half years, got the paper about UISim accepted by TKDE! Thanks to all my collaborators!
-- 2021/05  Got one paper about attention head prune on multi-lingual and cross-lingual tasks accepted by ACL 2021.
-- 2021/03  Got one paper about open hierarchical relation extraction accepted by NAACL-HLT 2021.
-- 2021/01  Got two papers accepted by ICASSP 2021.
-- 2020/12  Got two papers accepted by AAAI 2021.
+- Feb-2022 Started to work at Microsoft, Beijing as a Research Intern. Feel free to reach out :)
+- Dec-2021 Released **[Fine-grained-Entity-Typing-Papers](https://github.com/drogozhang/Fine-grained-Entity-Typing-Papers)**. Enjoy~
+- Aug-2021 Got one paper about automatic auxiliary task selection accepted by EMNLP 2021.
+- Aug-2021 After two and a half years, got the paper about UISim accepted by TKDE! Thanks to all my collaborators!
+- May-2021  Got one paper about attention head prune on multi-lingual and cross-lingual tasks accepted by ACL 2021.
+- Mar-2021  Got one paper about open hierarchical relation extraction accepted by NAACL-HLT 2021.
+- Jan-2021  Got two papers accepted by ICASSP 2021.
+- Dec-2020  Got two papers accepted by AAAI 2021.
 
 ## Publications
 
