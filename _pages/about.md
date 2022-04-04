@@ -40,7 +40,7 @@ I am broadly interested in Natural Language Processing and its real-world applic
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://aclanthology.org/2021.emnlp-main.455.pdf">Paper</a></span><br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-    <span>Code will be released soon.</span><br>
+    Code can be obtained via second author.<br>
   </td>
 </tr>
 
@@ -99,12 +99,12 @@ I am broadly interested in Natural Language Processing and its real-world applic
   </td>
   <td style="border-collapse: collapse; border: none;">
     # MORE: A Metric Learning Based Framework for Open-Domain Relation Extraction<br>
-    Yutong Wang*, Renze Lou*, <b>Kai Zhang*</b>, Maoyan Chen, and Yujiu Yang.<br>
-    In ICASSP 2021.<br>
-    <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://ieeexplore.ieee.org/document/9413437">Paper</a></span><br>
-    <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://github.com/RenzeLou/MORE">Code</a></span><br>
+​    Yutong Wang*, Renze Lou*, <b>Kai Zhang*</b>, Maoyan Chen, and Yujiu Yang.<br>
+​    In ICASSP 2021.<br>
+​    <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+​    <span><a href="https://ieeexplore.ieee.org/document/9413437">Paper</a></span><br>
+​    <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+​    <span><a href="https://github.com/RenzeLou/MORE">Code</a></span><br>
   </td>
 </tr>
 
@@ -120,7 +120,7 @@ I am broadly interested in Natural Language Processing and its real-world applic
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/document/9414304">Paper</a></span><br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-    <span>Code will be released soon.</span><br>
+    <span>Code can be obtained via first author.</span><br>
   </td>
 </tr>
 
