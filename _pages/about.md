@@ -14,10 +14,10 @@ I am broadly interested in Natural Language Processing and its real-world applic
 ## News
 - 02/2022: Started to work at Microsoft as Research Intern. Feel free to reach out :)
 - 12/2021: Released **[Fine-grained-Entity-Typing-Papers](https://github.com/drogozhang/Fine-grained-Entity-Typing-Papers)**, enjoy :)
-- 08/2021: Got one paper about automatic auxiliary task selection accepted by EMNLP 2021.
-- 08/2021: After **2.5** years, got the paper about UISim accepted by TKDE! Thanks to all my collaborators!
-- 05/2021:  Got one paper about attention head prune on multi-lingual and cross-lingual tasks accepted by ACL 2021.
-- 03/2021:  Got one paper about open hierarchical relation extraction accepted by NAACL-HLT 2021.
+- 08/2021: Got one paper about automatic auxiliary task selection accepted to EMNLP 2021.
+- 08/2021: After **2.5** years, got the paper about UISim accepted to TKDE! Thanks to all my collaborators!
+- 05/2021:  Got one paper about attention head prune on multi-lingual and cross-lingual tasks accepted to ACL 2021.
+- 03/2021:  Got one paper about open hierarchical relation extraction accepted to NAACL-HLT 2021.
 
 ## Publications
 
