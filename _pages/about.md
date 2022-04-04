@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Research Intern at Microsoft Core Search & AI Team. Also, I am a PhD student advised by Prof. [Yu Su](https://ysu1989.github.io) at Ohio State University, starting from Fall 2022. Before starting my PhD journey, I spent two years doing NLP research under the supervision of Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/) at Tsinghua University and Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) at Dartmouth College after I graduated from Zhejiang University City College (ZUCC). Here is my [CV](/files/cv_open.pdf) (updated in Feb 2022).
+I am currently a Research Intern at Microsoft Core Search & AI Team. Also, I am an incoming PhD student advised by Prof. [Yu Su](https://ysu1989.github.io) at Ohio State University, starting from Fall 2022. Before starting my PhD journey, I spent two years doing NLP research under the supervision of Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/) at Tsinghua University and Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) at Dartmouth College after I graduated from Zhejiang University City College (ZUCC). Here is my [CV](/files/cv_open.pdf) (updated in Feb 2022).
 
 I am broadly interested in Natural Language Processing and its real-world applications, currently focusing on Information Extraction and Foundation Models.
 
@@ -15,9 +15,9 @@ I am broadly interested in Natural Language Processing and its real-world applic
 - 02/2022: Started to work at Microsoft as Research Intern. Feel free to reach out :)
 - 12/2021: Released **[Fine-grained-Entity-Typing-Papers](https://github.com/drogozhang/Fine-grained-Entity-Typing-Papers)**, enjoy :)
 - 08/2021: Got one paper about automatic auxiliary task selection accepted to EMNLP 2021.
-- 08/2021: After **2.5** years, got the paper about UISim accepted to TKDE! Thanks to all my collaborators!
-- 05/2021:  Got one paper about attention head prune on multi-lingual and cross-lingual tasks accepted to ACL 2021.
-- 03/2021:  Got one paper about open hierarchical relation extraction accepted to NAACL-HLT 2021.
+- 08/2021: After 2.5 years, finally got the paper about UISim accepted to TKDE!
+- 05/2021: Got one paper about Transformer analysis accepted to ACL 2021.
+- 03/2021: Got one paper about OHRE accepted to NAACL-HLT 2021.
 
 ## Publications
 
