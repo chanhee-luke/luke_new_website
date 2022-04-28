@@ -97,12 +97,12 @@ I am broadly interested in Natural Language Processing and its real-world applic
   </td>
   <td style="border-collapse: collapse; border: none;">
     # MORE: A Metric Learning Based Framework for Open-Domain Relation Extraction<br>
-​    Yutong Wang*, Renze Lou*, <b>Kai Zhang*</b>, Maoyan Chen, and Yujiu Yang.<br>
-​    In ICASSP 2021.<br>
-​    <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-​    <span><a href="https://ieeexplore.ieee.org/document/9413437">Paper</a></span><br>
-​    <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-​    <span><a href="https://github.com/RenzeLou/MORE">Code</a></span><br>
+  Yutong Wang*, Renze Lou*, <b>Kai Zhang*</b>, Maoyan Chen, and Yujiu Yang.<br>
+  In ICASSP 2021.<br>
+  <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+  <span><a href="https://ieeexplore.ieee.org/document/9413437">Paper</a></span><br>
+  <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+  <span><a href="https://github.com/RenzeLou/MORE">Code</a></span><br>
   </td>
 </tr>
 
@@ -116,9 +116,9 @@ I am broadly interested in Natural Language Processing and its real-world applic
     Jian Xie*, <b>Kai Zhang*</b>, Lin Sun, Yindu Su, and Chenxiang Xu.<br>
     In ICASSP 2021.<br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://ieeexplore.ieee.org/document/9414304">Paper</a></span><br>
+	<span><a href="https://ieeexplore.ieee.org/document/9414304">Paper</a></span><br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-​    <span><a href="https://github.com/HsaXie/Entity-Type-Compatible-Unknown-Word-Substitution">Code</a></span><br>
+	<span><a href="https://github.com/HsaXie/Entity-Type-Compatible-Unknown-Word-Substitution">Code</a></span><br>
   </td>
 </tr>
 
