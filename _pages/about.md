@@ -117,7 +117,7 @@ I am broadly interested in Natural Language Processing and its real-world applic
     In ICASSP 2021.<br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/document/9414304">Paper</a></span><br>
-    <img ​    <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
 ​    <span><a href="https://github.com/HsaXie/Entity-Type-Compatible-Unknown-Word-Substitution">Code</a></span><br>
   </td>
 </tr>
