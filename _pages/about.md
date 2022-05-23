@@ -19,7 +19,7 @@ I am broadly interested in Natural Language Processing and its real-world applic
 - 05/2021: Got one paper about Transformer Analysis accepted to ACL 2021.
 - 03/2021: Got one paper about OHRE accepted to NAACL-HLT 2021.
 
-## Publications
+## Selected Publications
 
 (\*  indicates equal contribution)
 
