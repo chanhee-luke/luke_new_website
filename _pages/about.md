@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Research Intern at Microsoft Core Search & AI Team. Also, I am an incoming PhD student advised by Prof. [Yu Su](https://ysu1989.github.io) at Ohio State University, starting from Fall 2022. Before starting my PhD journey, I spent two years doing NLP research under the supervision of Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/) at Tsinghua University and Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) at Dartmouth College after I graduated from Zhejiang University City College (ZUCC). Here is my [CV](/files/cv_open.pdf) (updated in Feb 2022).
+I am currently a Research Intern at STCA Semantics and Knowledge Team @ Microsoft. Also, I am an incoming PhD student advised by Prof. [Yu Su](https://ysu1989.github.io) at Ohio State University, starting from Fall 2022. Before starting my PhD journey, I spent two years doing NLP research under the supervision of Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/) at Tsinghua University and Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) at Dartmouth College after I graduated from Zhejiang University City College (ZUCC). Here is my [CV](/files/cv_open.pdf) (updated in Feb 2022).
 
 I am broadly interested in Natural Language Processing and its real-world applications, currently focusing on Information Extraction and Foundation Models.
 
