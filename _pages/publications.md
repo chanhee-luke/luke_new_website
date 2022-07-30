@@ -33,7 +33,7 @@ author_profile: true
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://aclanthology.org/2021.emnlp-main.455.pdf">Paper</a></span><br>
     <img src="https://raw.githubusercontent.com/drogozhang/drogozhang.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-    Code can be obtained via second author.<br>
+    <span><a href="https://github.com/RenzeLou/GradTS">Code</a></span><br>
   </td>
 </tr>
 
