@@ -16,10 +16,10 @@ I am broadly interested in Natural Language Processing and its real-world applic
 - 08/2022: Started my PhD journey at Ohio State.
 - 02/2022: Started to work at Microsoft as Research Intern.
 - 12/2021: Released **[Fine-grained-Entity-Typing-Papers](https://github.com/drogozhang/Fine-grained-Entity-Typing-Papers)**.
-- 08/2021: Got one paper about Automatic Auxiliary Task Selection accepted to EMNLP 2021.
+- 08/2021: Got one paper about Auto Auxiliary Task Selection accepted to EMNLP'21.
 - 08/2021: Got one paper about about UISim accepted to TKDE.
-- 05/2021: Got one paper about Transformer Analysis accepted to ACL 2021.
-- 03/2021: Got one paper about OHRE accepted to NAACL-HLT 2021.
+- 05/2021: Got one paper about Transformer Analysis accepted to ACL'21.
+- 03/2021: Got one paper about OHRE accepted to NAACL-HLT'21.
 
 ## Preprint
 Tao Shen, Xiubo Geng, Chongyang Tao, Can Xu, **Kai Zhang**, Daxin Jiang. UnifieR: A Unified Retriever for Large-Scale Retrieval. In Arxiv \[[Paper](https://arxiv.org/pdf/2205.11194.pdf)\]
