@@ -13,7 +13,7 @@ I am broadly interested in Natural Language Processing and its real-world applic
 
 
 ## News
-- 08/2022: Started my PhD journey.
+- 08/2022: Started my PhD journey at Ohio State.
 - 02/2022: Started to work at Microsoft as Research Intern.
 - 12/2021: Released **[Fine-grained-Entity-Typing-Papers](https://github.com/drogozhang/Fine-grained-Entity-Typing-Papers)**.
 - 08/2021: Got one paper about Automatic Auxiliary Task Selection accepted to EMNLP 2021.
@@ -30,7 +30,7 @@ LED: Lexicon-Enlightened Dense Retriever for Large-Scale Retrieval
 
 
 ## Selected Publications
-(\*  indicates equal contribution, $\dagger$ indicates first student author) See full publication list in [Google Scholar](https://scholar.google.com/citations?user=sDnAIsgAAAAJ&hl=en).
+(\*  indicates equal contribution, $\dagger$ indicates first student author)
 
 GradTS: A Gradient-Based Automatic Auxiliary Task Selection Method Based on Transformer Networks
 Weicheng Ma, Renze Lou, **Kai Zhang**, Lili Wang, and Soroush Vosoughi; In EMNLP 2021 \[[Paper](https://aclanthology.org/2021.emnlp-main.455.pdf)\] \[[Code](https://github.com/RenzeLou/GradTS)\]
@@ -39,7 +39,7 @@ Unified and Incremental SimRank: Index-free Approximation with Scheduled Princip
 Fanwei Zhu, Yuan Fang, **Kai Zhang**$\dagger$, Hongtai Cao, Kevin Chen-Chuan Chang, Hongtai Cao, Zhen Jiang, and Minghui Wu. In TKDE. \[[Paper](https://www.computer.org/csdl/journal/tk/5555/01/09535257/1wMELvY3Tna)\]\[[Code](https://github.com/UISim2020/UISim2020)\]
 
 Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks
-Weicheng Ma\*, **Kai Zhang**\*, Renze Lou, Lili Wang, and Soroush Vosoughi; In ACL 2021 (Oral) \[[Paper]\(https://aclanthology.org/2021.acl-long.152.pdf)] \[[Code](https://github.com/hikari-NYU/Contributions-of-Transformer-Attention-Heads-in-Multi--and-Cross-lingual-Tasks)\]
+Weicheng Ma\*, **Kai Zhang**\*, Renze Lou, Lili Wang, and Soroush Vosoughi; In ACL 2021 (**Oral**) \[[Paper](https://aclanthology.org/2021.acl-long.152.pdf)\] \[[Code](https://github.com/hikari-NYU/Contributions-of-Transformer-Attention-Heads-in-Multi--and-Cross-lingual-Tasks)\]
 
 Adversarial Language Games for Advanced Natural Language Intelligence
 Yuan Yao, Haoxi Zhong, Zhengyan Zhang, Xu Han, Xiaozhi Wang, **Kai Zhang**, Chaojun Xiao, Guoyang Zeng, Zhiyuan Liu, and Maosong Sun. In AAAI 2021. \[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/17676)\] \[[Code](https://github.com/thunlp/AdversarialTaboo)\]
