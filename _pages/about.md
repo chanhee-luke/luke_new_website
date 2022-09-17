@@ -22,36 +22,27 @@ I am broadly interested in Natural Language Processing and its real-world applic
 - 03/2021: Got one paper about OHRE accepted to NAACL-HLT 2021.
 
 ## Preprint
-UnifieR: A Unified Retriever for Large-Scale Retrieval
-Tao Shen, Xiubo Geng, Chongyang Tao, Can Xu, **Kai Zhang**, Daxin Jiang. In Arxiv \[[Paper](https://arxiv.org/pdf/2205.11194.pdf)\]
+Tao Shen, Xiubo Geng, Chongyang Tao, Can Xu, **Kai Zhang**, Daxin Jiang. UnifieR: A Unified Retriever for Large-Scale Retrieval. In Arxiv \[[Paper](https://arxiv.org/pdf/2205.11194.pdf)\]
 
-LED: Lexicon-Enlightened Dense Retriever for Large-Scale Retrieval
-**Kai Zhang**, Chongyang Tao, Tao Shen, Can Xu, Xiubo Geng, Binxing Jiao, Daxin Jiang. In Arxiv \[[Paper](https://arxiv.org/pdf/2208.13661.pdf)\]
+**Kai Zhang**, Chongyang Tao, Tao Shen, Can Xu, Xiubo Geng, Binxing Jiao, Daxin Jiang. LED: Lexicon-Enlightened Dense Retriever for Large-Scale Retrieval. In Arxiv \[[Paper](https://arxiv.org/pdf/2208.13661.pdf)\]
 
 
 ## Selected Publications
 (\*  indicates equal contribution, $\dagger$ indicates first student author)
 
-GradTS: A Gradient-Based Automatic Auxiliary Task Selection Method Based on Transformer Networks
-Weicheng Ma, Renze Lou, **Kai Zhang**, Lili Wang, and Soroush Vosoughi; In EMNLP'21 \[[Paper](https://aclanthology.org/2021.emnlp-main.455.pdf)\] \[[Code](https://github.com/RenzeLou/GradTS)\]
+Weicheng Ma, Renze Lou, **Kai Zhang**, Lili Wang, and Soroush Vosoughi. GradTS: A Gradient-Based Automatic Auxiliary Task Selection Method Based on Transformer Networks. In EMNLP'21 \[[Paper](https://aclanthology.org/2021.emnlp-main.455.pdf)\] \[[Code](https://github.com/RenzeLou/GradTS)\]
 
-Unified and Incremental SimRank: Index-free Approximation with Scheduled Principle
-Fanwei Zhu, Yuan Fang, **Kai Zhang**$\dagger$, Hongtai Cao, Kevin Chen-Chuan Chang, Hongtai Cao, Zhen Jiang, and Minghui Wu. In TKDE. \[[Paper](https://www.computer.org/csdl/journal/tk/5555/01/09535257/1wMELvY3Tna)\]\[[Code](https://github.com/UISim2020/UISim2020)\]
+Fanwei Zhu, Yuan Fang, **Kai Zhang**$\dagger$, Hongtai Cao, Kevin Chen-Chuan Chang, Hongtai Cao, Zhen Jiang, and Minghui Wu. Unified and Incremental SimRank: Index-free Approximation with Scheduled Principle. In TKDE. \[[Paper](https://www.computer.org/csdl/journal/tk/5555/01/09535257/1wMELvY3Tna)\]\[[Code](https://github.com/UISim2020/UISim2020)\]
 
-Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks
-Weicheng Ma\*, **Kai Zhang**\*, Renze Lou, Lili Wang, and Soroush Vosoughi; In ACL'21 (**Oral**) \[[Paper](https://aclanthology.org/2021.acl-long.152.pdf)\] \[[Code](https://github.com/hikari-NYU/Contributions-of-Transformer-Attention-Heads-in-Multi--and-Cross-lingual-Tasks)\]
+Weicheng Ma\*, **Kai Zhang**\*, Renze Lou, Lili Wang, and Soroush Vosoughi. Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks. In ACL'21 (**Oral**) \[[Paper](https://aclanthology.org/2021.acl-long.152.pdf)\] \[[Code](https://github.com/hikari-NYU/Contributions-of-Transformer-Attention-Heads-in-Multi--and-Cross-lingual-Tasks)\]
 
-Adversarial Language Games for Advanced Natural Language Intelligence
-Yuan Yao, Haoxi Zhong, Zhengyan Zhang, Xu Han, Xiaozhi Wang, **Kai Zhang**, Chaojun Xiao, Guoyang Zeng, Zhiyuan Liu, and Maosong Sun. In AAAI'21. \[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/17676)\] \[[Code](https://github.com/thunlp/AdversarialTaboo)\]
+Yuan Yao, Haoxi Zhong, Zhengyan Zhang, Xu Han, Xiaozhi Wang, **Kai Zhang**, Chaojun Xiao, Guoyang Zeng, Zhiyuan Liu, and Maosong Sun. Adversarial Language Games for Advanced Natural Language Intelligence. In AAAI'21. \[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/17676)\] \[[Code](https://github.com/thunlp/AdversarialTaboo)\]
 
-RpBERT: A Text-image Relation Propagation-based BERT Model for Multimodal NER
-Lin Sun\*, Jiquan Wang\*, **Kai Zhang**, Fangsheng Weng, and Yindu Su. In AAAI'21 \[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/17633)\] \[[Code](https://github.com/Multimodal-NER/RpBERT)\]
+Lin Sun\*, Jiquan Wang\*, **Kai Zhang**, Fangsheng Weng, and Yindu Su. RpBERT: A Text-image Relation Propagation-based BERT Model for Multimodal NER. In AAAI'21 \[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/17633)\] \[[Code](https://github.com/Multimodal-NER/RpBERT)\]
 
-Open Hierarchical Relation Extraction
-**Kai Zhang**\*, Yuan Yao\*, Ruobing Xie, Xu Han, Zhiyuan Liu, Fen Lin, Leyu Lin, and Maosong Sun. In NAACL-HLT'21 \[[Paper](https://www.aclweb.org/anthology/2021.naacl-main.452.pdf)\] \[[Code](https://github.com/thunlp/OHRE)\]
+**Kai Zhang**\*, Yuan Yao\*, Ruobing Xie, Xu Han, Zhiyuan Liu, Fen Lin, Leyu Lin, and Maosong Sun. Open Hierarchical Relation Extraction. In NAACL-HLT'21 \[[Paper](https://www.aclweb.org/anthology/2021.naacl-main.452.pdf)\] \[[Code](https://github.com/thunlp/OHRE)\]
 
-TOI-CNN: A Solution of Information Extraction on Chinese Insurance Policy
-Lin Sun\*, **Kai Zhang**\*$\dagger$, Fule Ji, and Zhenhua Yang. In NAACL-HLT'19 \[[Paper](https://www.aclweb.org/anthology/N19-2022.pdf)\] \[[Code](https://github.com/ETIP-team/ETIP-Project)\]
+Lin Sun\*, **Kai Zhang**\*$\dagger$, Fule Ji, and Zhenhua Yang. TOI-CNN: A Solution of Information Extraction on Chinese Insurance Policy. In NAACL-HLT'19 \[[Paper](https://www.aclweb.org/anthology/N19-2022.pdf)\] \[[Code](https://github.com/ETIP-team/ETIP-Project)\]
 
 ## Seleted Honors & Awards
 
