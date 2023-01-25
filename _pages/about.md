@@ -32,7 +32,7 @@ Tao Shen, Xiubo Geng, Chongyang Tao, Can Xu, **Kai Zhang**, and Daxin Jiang. Uni
 
 Weicheng Ma, Renze Lou, **Kai Zhang**, Lili Wang, and Soroush Vosoughi. GradTS: A Gradient-Based Automatic Auxiliary Task Selection Method Based on Transformer Networks. In EMNLP'21 \[[Paper](https://aclanthology.org/2021.emnlp-main.455.pdf)\] \[[Code](https://github.com/RenzeLou/GradTS)\]
 
-Fanwei Zhu, Yuan Fang, **Kai Zhang**$\dagger$, Hongtai Cao, Kevin Chen-Chuan Chang, Hongtai Cao, Zhen Jiang, and Minghui Wu. Unified and Incremental SimRank: Index-free Approximation with Scheduled Principle. In TKDE \[[Paper](https://www.computer.org/csdl/journal/tk/5555/01/09535257/1wMELvY3Tna)\]\[[Code](https://github.com/UISim2020/UISim2020)\]
+Fanwei Zhu, Yuan Fang, **Kai Zhang**$\dagger$, Kevin Chen-Chuan Chang, Hongtai Cao, Zhen Jiang, and Minghui Wu. Unified and Incremental SimRank: Index-free Approximation with Scheduled Principle. In TKDE \[[Paper](https://www.computer.org/csdl/journal/tk/5555/01/09535257/1wMELvY3Tna)\]\[[Code](https://github.com/UISim2020/UISim2020)\]
 
 Weicheng Ma\*, **Kai Zhang**\*, Renze Lou, Lili Wang, and Soroush Vosoughi. Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks. In ACL'21 (**Oral**) \[[Paper](https://aclanthology.org/2021.acl-long.152.pdf)\] \[[Code](https://github.com/hikari-NYU/Contributions-of-Transformer-Attention-Heads-in-Multi--and-Cross-lingual-Tasks)\]
 
