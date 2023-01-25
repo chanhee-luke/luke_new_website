@@ -22,9 +22,6 @@ I am broadly interested in Natural Language Processing and its real-world applic
 - 05/2021: Multi-Lingual Transformer Analysis was accepted to ACL'21.
 - 03/2021: Open Hierarchical Relation Extraction was accepted to NAACL-HLT'21.
 
-## Preprints
-Tao Shen, Xiubo Geng, Chongyang Tao, Can Xu, **Kai Zhang**, and Daxin Jiang. UnifieR: A Unified Retriever for Large-Scale Retrieval. In Arxiv \[[Paper](https://arxiv.org/pdf/2205.11194.pdf)\]
-
 
 ## Selected Publications
 (\*  indicates equal contribution, $\dagger$ indicates first student author)
