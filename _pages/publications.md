@@ -7,7 +7,11 @@ author_profile: true
 
 ### See Full Paper List in [Google Scholar](https://scholar.google.com/citations?user=sDnAIsgAAAAJ&hl=en)
 
+### Preprints
 
+Tao Shen, Xiubo Geng, Chongyang Tao, Can Xu, **Kai Zhang**, and Daxin Jiang. UnifieR: A Unified Retriever for Large-Scale Retrieval. In Arxiv [[Paper](https://arxiv.org/pdf/2205.11194.pdf)]
+
+### Selected Publications
 
 (\*  indicates equal contribution,$\dagger$ indicates first student author, # indicates work (co-)supervised by me.)
 
@@ -19,9 +23,9 @@ Fanwei Zhu, Yuan Fang, **Kai Zhang**$\dagger$, Kevin Chen-Chuan Chang, Hongtai C
 
 Weicheng Ma\*, **Kai Zhang**\*, Renze Lou, Lili Wang, and Soroush Vosoughi. Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks. In ACL'21 (**Oral**) \[[Paper](https://aclanthology.org/2021.acl-long.152.pdf)\] \[[Code](https://github.com/hikari-NYU/Contributions-of-Transformer-Attention-Heads-in-Multi--and-Cross-lingual-Tasks)\]
 
-Yutong Wang\*, Renze Lou\*, **Kai Zhang**\*, Maoyan Chen, and Yujiu Yang. MORE: A Metric Learning Based Framework for Open-Domain Relation Extraction. In ICASSP 2021 \[[Paper](https://ieeexplore.ieee.org/document/9413437)\] \[[Code](https://github.com/RenzeLou/MORE)\]
+\# Yutong Wang\*, Renze Lou\*, **Kai Zhang**\*, Maoyan Chen, and Yujiu Yang. MORE: A Metric Learning Based Framework for Open-Domain Relation Extraction. In ICASSP 2021 \[[Paper](https://ieeexplore.ieee.org/document/9413437)\] \[[Code](https://github.com/RenzeLou/MORE)\]
 
-Jian Xie*, **Kai Zhang***, Lin Sun, Yindu Su, and Chenxiang Xu. Improving Social Media NER via Entity Type-Compatible Unknown Word Substitution. In ICASSP 2021 \[[Paper](https://ieeexplore.ieee.org/document/9414304)\] \[[Code](https://github.com/HsaXie/Entity-Type-Compatible-Unknown-Word-Substitution)\]
+\# Jian Xie\*, **Kai Zhang**\*, Lin Sun, Yindu Su, and Chenxiang Xu. Improving Social Media NER via Entity Type-Compatible Unknown Word Substitution. In ICASSP 2021 \[[Paper](https://ieeexplore.ieee.org/document/9414304)\] \[[Code](https://github.com/HsaXie/Entity-Type-Compatible-Unknown-Word-Substitution)\]
 
 Yuan Yao, Haoxi Zhong, Zhengyan Zhang, Xu Han, Xiaozhi Wang, **Kai Zhang**, Chaojun Xiao, Guoyang Zeng, Zhiyuan Liu, and Maosong Sun. Adversarial Language Games for Advanced Natural Language Intelligence. In AAAI'21 \[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/17676)\] \[[Code](https://github.com/thunlp/AdversarialTaboo)\]
 
