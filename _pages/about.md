@@ -13,13 +13,13 @@ I am broadly interested in Natural Language Processing and its real-world applic
 
 
 ## News
-- 01/2023: Lexicon Enhanced Dense Retriever accepted to WWW'23.
+- 01/2023: Lexicon Enhanced Dense Retriever was accepted to WWW'23.
 - 08/2022: Started my PhD journey at Ohio State.
 - 02/2022: Started to work at Microsoft as a Research Intern.
-- 08/2021: Multi-Task Auto Auxiliary Task Selection accepted to EMNLP'21.
-- 08/2021: Unified and Incremental SimRank accepted to TKDE.
-- 05/2021: Multi-Lingual Transformer Analysis accepted to ACL'21.
-- 03/2021: Open Hierarchical Relation Extraction accepted to NAACL-HLT'21.
+- 08/2021: Multi-Task Auto Auxiliary Task Selection was accepted to EMNLP'21.
+- 08/2021: Unified and Incremental SimRank was accepted to TKDE.
+- 05/2021: Multi-Lingual Transformer Analysis was accepted to ACL'21.
+- 03/2021: Open Hierarchical Relation Extraction was accepted to NAACL-HLT'21.
 
 ## Preprints
 Tao Shen, Xiubo Geng, Chongyang Tao, Can Xu, **Kai Zhang**, and Daxin Jiang. UnifieR: A Unified Retriever for Large-Scale Retrieval. In Arxiv \[[Paper](https://arxiv.org/pdf/2205.11194.pdf)\]
