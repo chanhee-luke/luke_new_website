@@ -49,6 +49,9 @@ Lin Sun\*, **Kai Zhang**\*$\dagger$, Fule Ji, and Zhenhua Yang. TOI-CNN: A Solut
 
 **PC Member/ Reviewer**: ARR (since 22); CCKS'22; EMNLP'22; AAAI'23; WWW'23; ACL'23; KDD'23
 
+## Contact
 
+- Email: [LAST_NAME].13253@osu.edu  or drogo[LAST_NAME]@gmail.com.
+- Wechat_id: drogozhang_cs
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=312&t=tt&d=WWgOfq4agmQMsv-liNWF_IqrTiXrb-1nqoPvyzlC238'></script>
