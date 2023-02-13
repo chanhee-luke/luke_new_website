@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first-year PhD student fortunately advised by Prof. [Yu Su](https://ysu1989.github.io) at Ohio State University. Before starting my PhD journey, I did NLP research under the supervision of Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/) at Tsinghua University, Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) at Dartmouth College, and Dr. [Daxin Jiang](https://www.microsoft.com/en-us/research/people/djiang/) at Microsoft STCA Semantics and Knowledge Team.
+I am a first-year PhD student fortunately advised by Prof. [Yu Su](https://ysu1989.github.io) at Ohio State University. Before starting my PhD journey, I did NLP research under the supervision of Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/) at Tsinghua University, Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) at Dartmouth College, and Dr. [Daxin Jiang](https://www.microsoft.com/en-us/research/people/djiang/) at Microsoft STCA Semantics and Knowledge Team. Here is my [CV](/files/cv_open.pdf) (updated in Jan 2023).
 <!-- Here is my [CV](/files/cv_open.pdf) (updated in Jan 2023).-->
 
 I am broadly interested in Natural Language Processing and its real-world applications, currently focusing on Information Extraction and (Large) Language Models.
@@ -41,7 +41,7 @@ Lin Sun\*, Jiquan Wang\*, **Kai Zhang**, Fangsheng Weng, and Yindu Su. RpBERT: A
 
 **Kai Zhang**\*, Yuan Yao\*, Ruobing Xie, Xu Han, Zhiyuan Liu, Fen Lin, Leyu Lin, and Maosong Sun. Open Hierarchical Relation Extraction. In NAACL-HLT'21 \[[Paper](https://www.aclweb.org/anthology/2021.naacl-main.452.pdf)\] \[[Code](https://github.com/thunlp/OHRE)\]
 
-Lin Sun\*, **Kai Zhang**\*$\dagger$, Fule Ji, and Zhenhua Yang. TOI-CNN: A Solution of Information Extraction on Chinese Insurance Policy. In NAACL-HLT'19 \[[Paper](https://www.aclweb.org/anthology/N19-2022.pdf)\] \[[Code](https://github.com/ETIP-team/ETIP-Project)\]
+Lin Sun\*, **Kai Zhang**\*$\dagger$, Fule Ji, and Zhenhua Yang. TOI-CNN: A Solution of Information Extraction on Chinese Insurance Policy. In NAACL-HLT'19 *(co-first author with my advisor)* \[[Paper](https://www.aclweb.org/anthology/N19-2022.pdf)\] \[[Code](https://github.com/ETIP-team/ETIP-Project)\] 
 
 ## Academic Services
 
