@@ -15,7 +15,7 @@ I am broadly interested in Natural Language Processing and its real-world applic
 
 
 ## News
-- 01/2023: Lexicon Enhanced Dense Retriever was accepted to WWW'23.
+- 01/2023: Work done in Microsoft, Lexicon Enhanced Dense Retriever, was accepted to WWW'23.
 - 08/2022: Started my PhD journey at Ohio State.
 - 02/2022: Started to work at Microsoft as a Research Intern.
 - 08/2021: Multi-Task Auto Auxiliary Task Selection was accepted to EMNLP'21.
