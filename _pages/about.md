@@ -13,7 +13,7 @@ I am a first-year PhD student fortunately advised by Prof. [Yu Su](https://ysu19
 
 I am broadly interested in Natural Language Processing and its real-world applications, currently focusing on Knowledge, (Large) Language Models, and their interplay.
 
-<!-- If a research topic, cannot inspire/be used in real-world systems, even in the short run, I can't convince myself to work on it. With the goal of practical research, I will try my best to open-source all my codes.-->
+<!--  If a research topic, cannot inspire/be used in real-world systems (even in the short run), then I can't convince myself to work on it. With the goal of practical research, I open-sourced all my codes.-->
 
 
 ## News
