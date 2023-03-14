@@ -8,10 +8,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first-year PhD student fortunately advised by Prof. [Yu Su](https://ysu1989.github.io) at Ohio State University. Before starting my PhD journey, I did NLP research under the supervision of Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/) at Tsinghua University, Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) at Dartmouth College, and Dr. [Daxin Jiang](https://www.microsoft.com/en-us/research/people/djiang/) at Microsoft STCA Semantics and Knowledge Team. Here is my [CV](/files/cv_open.pdf) (updated in Jan 2023).
+I am a first-year PhD student fortunately advised by Prof. [Yu Su](https://ysu1989.github.io) at Ohio State University. Before starting my PhD journey, I did NLP research under the supervision of Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/) at Tsinghua University, Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) at Dartmouth College, and Dr. [Daxin Jiang](https://www.microsoft.com/en-us/research/people/djiang/) at Microsoft STCA Semantics and Knowledge Team. 
 <!-- Here is my [CV](/files/cv_open.pdf) (updated in Jan 2023).-->
 
-I am broadly interested in Natural Language Processing and its real-world applications, currently focusing on Information Extraction and (Large) Language Models.
+I am broadly interested in Natural Language Processing and its real-world applications, currently focusing on Knowledge, (Large) Language Models, and their interplay.
+
+<!-- If a research topic, cannot inspire/be used in real-world systems, even in the short run, I can't convince myself to work on it. With the goal of practical research, I will try my best to open-source all my codes.-->
 
 
 ## News
@@ -52,6 +54,8 @@ Lin Sun\*, **Kai Zhang**\*$\dagger$, Fule Ji, and Zhenhua Yang. TOI-CNN: A Solut
 ## Contact
 
 - Email: `[LAST_NAME].13253@osu.edu` OR `drogo[LAST_NAME]@gmail.com`
+
+- WeChat: `drogo[LAST_NAME]_cs`
 
   
 
