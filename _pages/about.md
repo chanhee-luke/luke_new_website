@@ -13,7 +13,7 @@ I am a first-year PhD student fortunately advised by Prof. [Yu Su](https://ysu19
 
 I am broadly interested in Natural Language Processing and its real-world applications, currently focusing on Knowledge, (Large) Language Models, and their interplay.
 
-<!--  If a research topic, cannot inspire/be used in real-world systems (even in the short run), then I can't convince myself to work on it. With the goal of practical research, I open-sourced all my codes.-->
+<!--  I am disinclined to pursue research topics without the potential for real-world applicability. To align with the objective of practical research, I have publicly released all of my source code and will keep doing so.-->
 
 
 ## News
@@ -53,10 +53,10 @@ Lin Sun\*, **Kai Zhang**\*$\dagger$, Fule Ji, and Zhenhua Yang. TOI-CNN: A Solut
 
 ## Contact
 
-- Email: `[LAST_NAME].13253@osu.edu` OR `drogo[LAST_NAME]@gmail.com`
+**Email**: `[LAST_NAME].13253@osu.edu` OR `drogo[LAST_NAME]@gmail.com`
 
-- WeChat: `drogo[LAST_NAME]_cs`
+**WeChat**: `drogo[LAST_NAME]_cs`
 
-  
+
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=312&t=tt&d=WWgOfq4agmQMsv-liNWF_IqrTiXrb-1nqoPvyzlC238'></script>
