@@ -19,6 +19,7 @@ I am broadly interested in Natural Language Processing and its real-world applic
 ## News
 <!-- - 03/2023: New Survey on [Instruction Learning](https://arxiv.org/pdf/2303.10475.pdf), feedbacks and comments are more than welcome!  -->
 
+- 05/2023: Aligning Instruction Tasks for Relation Extraction on Large Languege Models was accepted to Findings of ACL'23.
 - 03/2023: <font color="#dd0000">A comprehensive</font> **[reading list](https://github.com/RenzeLou/awesome-instruction-learning)** <font color="#dd0000">on Instruction Learning!</font> Stay tuned for incoming survey!
 - 01/2023: Work done in Microsoft, Lexicon Enhanced Dense Retriever, was accepted to WWW'23.
 - 08/2022: Started my PhD journey at Ohio State.
@@ -31,6 +32,8 @@ I am broadly interested in Natural Language Processing and its real-world applic
 
 ## Selected Publications
 (\*  indicates equal contribution, $\dagger$ indicates first student author)
+
+**Kai Zhang**, Bernal Jiménez Gutiérrez, Yu Su. Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors. In Findings of ACL'23 \[Paper (Soon)\] [Code (Soon)]
 
 **Kai Zhang**, Chongyang Tao, Tao Shen, Can Xu, Xiubo Geng, Binxing Jiao, and Daxin Jiang. LED: Lexicon-Enlightened Dense Retriever for Large-Scale Retrieval. In TheWebConf'23 (formerly WWW) \[[Paper](https://arxiv.org/pdf/2208.13661.pdf)\] [[Code](https://github.com/drogozhang/LED)]
 
