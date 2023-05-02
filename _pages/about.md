@@ -19,7 +19,7 @@ I am broadly interested in Natural Language Processing and its real-world applic
 ## News
 <!-- - 03/2023: New Survey on [Instruction Learning](https://arxiv.org/pdf/2303.10475.pdf), feedbacks and comments are more than welcome!  -->
 
-- 05/2023: Aligning Instruction Tasks for Relation Extraction on Large Languege Models was accepted to Findings of ACL'23.
+- 05/2023: Aligning LLM Instruction Tasks for Relation Extraction was accepted to Findings of ACL'23.
 - 03/2023: <font color="#dd0000">A comprehensive</font> **[reading list](https://github.com/RenzeLou/awesome-instruction-learning)** <font color="#dd0000">on Instruction Learning!</font> Stay tuned for incoming survey!
 - 01/2023: Work done in Microsoft, Lexicon Enhanced Dense Retriever, was accepted to WWW'23.
 - 08/2022: Started my PhD journey at Ohio State.
