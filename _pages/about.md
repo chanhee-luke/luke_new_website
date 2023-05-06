@@ -51,11 +51,17 @@ Lin Sun\*, Jiquan Wang\*, **Kai Zhang**, Fangsheng Weng, and Yindu Su. RpBERT: A
 
 Lin Sun\*, **Kai Zhang**\*$\dagger$, Fule Ji, and Zhenhua Yang. TOI-CNN: A Solution of Information Extraction on Chinese Insurance Policy. In NAACL-HLT'19 *(co-first author with my advisor)* \[[Paper](https://www.aclweb.org/anthology/N19-2022.pdf)\] \[[Code](https://github.com/ETIP-team/ETIP-Project)\] 
 
-## Academic Services Academic Services
+## Academic Services
 
 **Secondary Reviewer**: WSDM'21; NAACL-HLT'21; ACL'21; EMNLP'21
 
 **PC Member/Reviewer**: ARR (since 22); CCKS'22; EMNLP'22; AAAI'23; WWW'23; ACL'23; KDD'23; NeurIPS'23
+
+## Talk
+
+**Aligning LLM Instruction Tasks for Zero-Shot Relation Extraction**
+
+- University of Notre Dame NLP Seminar. March 2023
 
 ## Contact
 
