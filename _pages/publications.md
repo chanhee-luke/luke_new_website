@@ -17,7 +17,7 @@ Tao Shen, Xiubo Geng, Chongyang Tao, Can Xu, **Kai Zhang**, and Daxin Jiang. Uni
 
 **Kai Zhang**, Bernal Jiménez Gutiérrez, Yu Su. Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors. In Findings of ACL'23 \[Paper (Soon)\] [Code (Soon)]
 
-**Kai Zhang**, Chongyang Tao, Tao Shen, Can Xu, Xiubo Geng, Binxing Jiao, and Daxin Jiang. LED: Lexicon-Enlightened Dense Retriever for Large-Scale Retrieval. In WWW'23 \[[Paper](https://arxiv.org/pdf/2208.13661.pdf)\] [[Code](https://github.com/drogozhang/LED)]
+**Kai Zhang**, Chongyang Tao, Tao Shen, Can Xu, Xiubo Geng, Binxing Jiao, and Daxin Jiang. LED: Lexicon-Enlightened Dense Retriever for Large-Scale Retrieval. In WWW'23 (**Oral**) \[[Paper](https://arxiv.org/pdf/2208.13661.pdf)\] [[Code](https://github.com/drogozhang/LED)]
 
 Weicheng Ma, Renze Lou, **Kai Zhang**, Lili Wang, and Soroush Vosoughi. GradTS: A Gradient-Based Automatic Auxiliary Task Selection Method Based on Transformer Networks. In EMNLP'21 \[[Paper](https://aclanthology.org/2021.emnlp-main.455.pdf)\] \[[Code](https://github.com/RenzeLou/GradTS)\]
 
@@ -35,6 +35,7 @@ Lin Sun\*, Jiquan Wang\*, **Kai Zhang**, Fangsheng Weng, and Yindu Su. RpBERT: A
 
 **Kai Zhang**\*, Yuan Yao\*, Ruobing Xie, Xu Han, Zhiyuan Liu, Fen Lin, Leyu Lin, and Maosong Sun. Open Hierarchical Relation Extraction. In NAACL-HLT'21 \[[Paper](https://www.aclweb.org/anthology/2021.naacl-main.452.pdf)\] \[[Code](https://github.com/thunlp/OHRE)\]
 
-Lin Sun\*, **Kai Zhang**\*$\dagger$, Fule Ji, and Zhenhua Yang. TOI-CNN: A Solution of Information Extraction on Chinese Insurance Policy. In NAACL-HLT'19 \[[Paper](https://www.aclweb.org/anthology/N19-2022.pdf)\] \[[Code](https://github.com/ETIP-team/ETIP-Project)\]
+Lin Sun\*, **Kai Zhang**\*$\dagger$, Fule Ji, and Zhenhua Yang. TOI-CNN: A Solution of Information Extraction on Chinese Insurance Policy. In NAACL-HLT'19 *(co-first author with my advisor)* \[[Paper](https://www.aclweb.org/anthology/N19-2022.pdf)\] \[[Code](https://github.com/ETIP-team/ETIP-Project)\] 
 
 **Kai Zhang**, Lin Sun, and Fule Ji. A TOI based CNN with Location Regression for Insurance Contract Analysis. In IJCNN 2019 (<b>Oral</b>) \[[Paper](https://ieeexplore.ieee.org/abstract/document/8852052/)\] \[[Code](https://github.com/ETIP-team/ETIP-Project)\]
+
