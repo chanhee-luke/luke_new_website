@@ -9,9 +9,9 @@ author_profile: true
 
 ### Preprints
 
-Renze Lou, Kai Zhang, Wenpeng Yin. Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning. In Arxiv [[Paper](https://arxiv.org/abs/2303.10475)] [[Paper List](https://github.com/RenzeLou/awesome-instruction-learning)]
+Renze Lou, **Kai Zhang**, and Wenpeng Yin. Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning. In Arxiv [[Paper](https://arxiv.org/abs/2303.10475)] [[Paper List](https://github.com/RenzeLou/awesome-instruction-learning)]
 
-Yunxiang Li, Zihan Li, Kai Zhang, Ruilong Dan, You Zhang. ChatDoctor: A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge. In Arxiv [[Paper](https://arxiv.org/abs/2303.14070)] [[Code](https://github.com/Kent0n-Li/ChatDoctor)]
+Yunxiang Li, Zihan Li, **Kai Zhang**, Ruilong Dan, and You Zhang. ChatDoctor: A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge. In Arxiv [[Paper](https://arxiv.org/abs/2303.14070)] [[Code](https://github.com/Kent0n-Li/ChatDoctor)]
 
 Tao Shen, Xiubo Geng, Chongyang Tao, Can Xu, **Kai Zhang**, and Daxin Jiang. UnifieR: A Unified Retriever for Large-Scale Retrieval. In Arxiv [[Paper](https://arxiv.org/pdf/2205.11194.pdf)]
 
@@ -19,7 +19,7 @@ Tao Shen, Xiubo Geng, Chongyang Tao, Can Xu, **Kai Zhang**, and Daxin Jiang. Uni
 
 (\*  indicates equal contribution,$\dagger$ indicates first student author, # indicates work (co-)supervised by me.)
 
-**Kai Zhang**, Bernal Jiménez Gutiérrez, Yu Su. Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors. In Findings of ACL'23 \[Paper (Soon)\] [Code (Soon)]
+**Kai Zhang**, Bernal Jiménez Gutiérrez, and Yu Su. Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors. In Findings of ACL'23 \[Paper (Soon)\] [Code (Soon)]
 
 **Kai Zhang**, Chongyang Tao, Tao Shen, Can Xu, Xiubo Geng, Binxing Jiao, and Daxin Jiang. LED: Lexicon-Enlightened Dense Retriever for Large-Scale Retrieval. In WWW'23 (**Oral**) \[[Paper](https://arxiv.org/pdf/2208.13661.pdf)\] [[Code](https://github.com/drogozhang/LED)]
 
