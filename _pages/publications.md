@@ -9,9 +9,13 @@ author_profile: true
 
 ### Preprints
 
+Renze Lou, Kai Zhang, Wenpeng Yin. Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning. In Arxiv [[Paper](https://arxiv.org/abs/2303.10475)] [[Paper List](https://github.com/RenzeLou/awesome-instruction-learning)]
+
+Yunxiang Li, Zihan Li, Kai Zhang, Ruilong Dan, You Zhang. ChatDoctor: A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge. In Arxiv [[Paper](https://arxiv.org/abs/2303.14070)] [[Code](https://github.com/Kent0n-Li/ChatDoctor)]
+
 Tao Shen, Xiubo Geng, Chongyang Tao, Can Xu, **Kai Zhang**, and Daxin Jiang. UnifieR: A Unified Retriever for Large-Scale Retrieval. In Arxiv [[Paper](https://arxiv.org/pdf/2205.11194.pdf)]
 
-### Selected Publications
+### Publications
 
 (\*  indicates equal contribution,$\dagger$ indicates first student author, # indicates work (co-)supervised by me.)
 

@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first-year PhD student fortunately advised by Prof. [Yu Su](https://ysu1989.github.io) at Ohio State University. Before starting my PhD journey, I did NLP research under the supervision of Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/) at Tsinghua University, Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) at Dartmouth College, and Dr. [Daxin Jiang](https://www.microsoft.com/en-us/research/people/djiang/) at Microsoft STCA Semantics and Knowledge Team. 
+I am a first-year PhD student fortunately advised by Prof. [Yu Su](https://ysu1989.github.io) at The Ohio State University. Before starting my PhD journey, I did NLP research under the supervision of Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/) at Tsinghua University, Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) at Dartmouth College, and Dr. [Daxin Jiang](https://www.microsoft.com/en-us/research/people/djiang/) at Microsoft STCA Semantics and Knowledge Team. 
 <!-- Here is my [CV](/files/cv_open.pdf) (updated in Jan 2023).-->
 
 I am broadly interested in Natural Language Processing and its real-world applications, currently focusing on Knowledge, (Large) Language Models, and their interplay.
@@ -37,15 +37,15 @@ I am broadly interested in Natural Language Processing and its real-world applic
 
 **Kai Zhang**, Chongyang Tao, Tao Shen, Can Xu, Xiubo Geng, Binxing Jiao, and Daxin Jiang. LED: Lexicon-Enlightened Dense Retriever for Large-Scale Retrieval. In WWW'23 (**Oral**) \[[Paper](https://arxiv.org/pdf/2208.13661.pdf)\] [[Code](https://github.com/drogozhang/LED)]
 
-Weicheng Ma, Renze Lou, **Kai Zhang**, Lili Wang, and Soroush Vosoughi. GradTS: A Gradient-Based Automatic Auxiliary Task Selection Method Based on Transformer Networks. In EMNLP'21 \[[Paper](https://aclanthology.org/2021.emnlp-main.455.pdf)\] \[[Code](https://github.com/RenzeLou/GradTS)\]
+<!-- Weicheng Ma, Renze Lou, **Kai Zhang**, Lili Wang, and Soroush Vosoughi. GradTS: A Gradient-Based Automatic Auxiliary Task Selection Method Based on Transformer Networks. In EMNLP'21 \[[Paper](https://aclanthology.org/2021.emnlp-main.455.pdf)\] \[[Code](https://github.com/RenzeLou/GradTS)\] -->
 
-Fanwei Zhu, Yuan Fang, **Kai Zhang**$\dagger$, Kevin Chen-Chuan Chang, Hongtai Cao, Zhen Jiang, and Minghui Wu. Unified and Incremental SimRank: Index-free Approximation with Scheduled Principle. In TKDE \[[Paper](https://www.computer.org/csdl/journal/tk/5555/01/09535257/1wMELvY3Tna)\]\[[Code](https://github.com/UISim2020/UISim2020)\]
+<!--Fanwei Zhu, Yuan Fang, **Kai Zhang**$\dagger$, Kevin Chen-Chuan Chang, Hongtai Cao, Zhen Jiang, and Minghui Wu. Unified and Incremental SimRank: Index-free Approximation with Scheduled Principle. In TKDE \[[Paper](https://www.computer.org/csdl/journal/tk/5555/01/09535257/1wMELvY3Tna)\]\[[Code](https://github.com/UISim2020/UISim2020)\] -->
 
 Weicheng Ma\*, **Kai Zhang**\*, Renze Lou, Lili Wang, and Soroush Vosoughi. Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks. In ACL'21 (**Oral**) \[[Paper](https://aclanthology.org/2021.acl-long.152.pdf)\] \[[Code](https://github.com/hikari-NYU/Contributions-of-Transformer-Attention-Heads-in-Multi--and-Cross-lingual-Tasks)\]
 
 <!--Yuan Yao, Haoxi Zhong, Zhengyan Zhang, Xu Han, Xiaozhi Wang, **Kai Zhang**, Chaojun Xiao, Guoyang Zeng, Zhiyuan Liu, and Maosong Sun. Adversarial Language Games for Advanced Natural Language Intelligence. In AAAI'21 \[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/17676)\] \[[Code](https://github.com/thunlp/AdversarialTaboo)\] -->
 
-Lin Sun\*, Jiquan Wang\*, **Kai Zhang**, Fangsheng Weng, and Yindu Su. RpBERT: A Text-image Relation Propagation-based BERT Model for Multimodal NER. In AAAI'21 \[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/17633)\] \[[Code](https://github.com/Multimodal-NER/RpBERT)\]
+<!-- Lin Sun\*, Jiquan Wang\*, **Kai Zhang**, Fangsheng Weng, and Yindu Su. RpBERT: A Text-image Relation Propagation-based BERT Model for Multimodal NER. In AAAI'21 \[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/17633)\] \[[Code](https://github.com/Multimodal-NER/RpBERT)\] ->
 
 **Kai Zhang**\*, Yuan Yao\*, Ruobing Xie, Xu Han, Zhiyuan Liu, Fen Lin, Leyu Lin, and Maosong Sun. Open Hierarchical Relation Extraction. In NAACL-HLT'21 \[[Paper](https://www.aclweb.org/anthology/2021.naacl-main.452.pdf)\] \[[Code](https://github.com/thunlp/OHRE)\]
 
