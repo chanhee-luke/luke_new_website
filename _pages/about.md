@@ -33,7 +33,7 @@ I am broadly interested in Natural Language Processing and its real-world applic
 ## Selected Publications
 (\*  indicates equal contribution, $\dagger$ indicates first student author)
 
-**Kai Zhang**, Bernal Jiménez Gutiérrez, Yu Su. Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors. In Findings of ACL'23 \[Paper (Soon)\] [Code (Soon)]
+**Kai Zhang**, Bernal Jiménez Gutiérrez, and Yu Su. Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors. In Findings of ACL'23 \[Paper (Soon)\] [Code (Soon)]
 
 **Kai Zhang**, Chongyang Tao, Tao Shen, Can Xu, Xiubo Geng, Binxing Jiao, and Daxin Jiang. LED: Lexicon-Enlightened Dense Retriever for Large-Scale Retrieval. In WWW'23 (**Oral**) \[[Paper](https://arxiv.org/pdf/2208.13661.pdf)\] [[Code](https://github.com/drogozhang/LED)]
 
@@ -45,7 +45,7 @@ Weicheng Ma\*, **Kai Zhang**\*, Renze Lou, Lili Wang, and Soroush Vosoughi. Cont
 
 <!--Yuan Yao, Haoxi Zhong, Zhengyan Zhang, Xu Han, Xiaozhi Wang, **Kai Zhang**, Chaojun Xiao, Guoyang Zeng, Zhiyuan Liu, and Maosong Sun. Adversarial Language Games for Advanced Natural Language Intelligence. In AAAI'21 \[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/17676)\] \[[Code](https://github.com/thunlp/AdversarialTaboo)\] -->
 
-<!-- Lin Sun\*, Jiquan Wang\*, **Kai Zhang**, Fangsheng Weng, and Yindu Su. RpBERT: A Text-image Relation Propagation-based BERT Model for Multimodal NER. In AAAI'21 \[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/17633)\] \[[Code](https://github.com/Multimodal-NER/RpBERT)\] ->
+<!-- Lin Sun\*, Jiquan Wang\*, **Kai Zhang**, Fangsheng Weng, and Yindu Su. RpBERT: A Text-image Relation Propagation-based BERT Model for Multimodal NER. In AAAI'21 \[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/17633)\] \[[Code](https://github.com/Multimodal-NER/RpBERT)\] -->
 
 **Kai Zhang**\*, Yuan Yao\*, Ruobing Xie, Xu Han, Zhiyuan Liu, Fen Lin, Leyu Lin, and Maosong Sun. Open Hierarchical Relation Extraction. In NAACL-HLT'21 \[[Paper](https://www.aclweb.org/anthology/2021.naacl-main.452.pdf)\] \[[Code](https://github.com/thunlp/OHRE)\]
 
