@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-### See Full Paper List in [Google Scholar](https://scholar.google.com/citations?user=sDnAIsgAAAAJ&hl=en)
-
 ### Preprints
+
+Xiang Yue, Boshi Wang, Kai Zhang, Ziru Chen, Yu Su, and Huan Sun. Automatic Evaluation of Attribution by Large Language Models. In Arxiv [[Paper](https://arxiv.org/pdf/2305.06311.pdf)]
 
 Renze Lou, **Kai Zhang**, and Wenpeng Yin. Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning. In Arxiv [[Paper](https://arxiv.org/abs/2303.10475)] [[Paper List](https://github.com/RenzeLou/awesome-instruction-learning)]
 
@@ -15,7 +15,7 @@ Yunxiang Li, Zihan Li, **Kai Zhang**, Ruilong Dan, and You Zhang. ChatDoctor: A 
 
 Tao Shen, Xiubo Geng, Chongyang Tao, Can Xu, **Kai Zhang**, and Daxin Jiang. UnifieR: A Unified Retriever for Large-Scale Retrieval. In Arxiv [[Paper](https://arxiv.org/pdf/2205.11194.pdf)]
 
-### Publications
+### Publications (See [Google Scholar](https://scholar.google.com/citations?user=sDnAIsgAAAAJ&hl=en))
 
 (\*  indicates equal contribution,$\dagger$ indicates first student author, # indicates work (co-)supervised by me.)
 
