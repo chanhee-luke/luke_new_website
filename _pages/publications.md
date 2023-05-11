@@ -7,7 +7,7 @@ author_profile: true
 
 ### Preprints
 
-Xiang Yue, Boshi Wang, Kai Zhang, Ziru Chen, Yu Su, and Huan Sun. Automatic Evaluation of Attribution by Large Language Models. In Arxiv [[Paper](https://arxiv.org/pdf/2305.06311.pdf)]
+Xiang Yue, Boshi Wang, **Kai Zhang**, Ziru Chen, Yu Su, and Huan Sun. Automatic Evaluation of Attribution by Large Language Models. In Arxiv [[Paper](https://arxiv.org/pdf/2305.06311.pdf)]
 
 Renze Lou, **Kai Zhang**, and Wenpeng Yin. Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning. In Arxiv [[Paper](https://arxiv.org/abs/2303.10475)] [[Paper List](https://github.com/RenzeLou/awesome-instruction-learning)]
 
