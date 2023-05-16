@@ -20,7 +20,7 @@ I am broadly interested in Natural Language Processing and its real-world applic
 <!-- - 03/2023: New Survey on [Instruction Learning](https://arxiv.org/pdf/2303.10475.pdf), feedbacks and comments are more than welcome!  -->
 
 - 05/2023: UnifieR was accepted to KDD'23.
-- 05/2023: My best work so far, LLM-QA4RE was accepted to Findings of ACL'23!
+- 05/2023: **My best work so far**, LLM-QA4RE was accepted to Findings of ACL'23!
 - 03/2023: <font color="#dd0000">A comprehensive</font> **[reading list](https://github.com/RenzeLou/awesome-instruction-learning)** <font color="#dd0000">on Instruction Learning!</font> Stay tuned for incoming survey!
 - 01/2023: Lexicon Enhanced Dense Retriever, was accepted to WWW'23.
 - 08/2022: Started my PhD journey at Ohio State.
