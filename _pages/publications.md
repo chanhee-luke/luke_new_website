@@ -13,11 +13,11 @@ Renze Lou, **Kai Zhang**, and Wenpeng Yin. Is Prompt All You Need? No. A Compreh
 
 Yunxiang Li, Zihan Li, **Kai Zhang**, Ruilong Dan, and You Zhang. ChatDoctor: A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge. In Arxiv [[Paper](https://arxiv.org/abs/2303.14070)] [[Code](https://github.com/Kent0n-Li/ChatDoctor)]
 
-Tao Shen, Xiubo Geng, Chongyang Tao, Can Xu, **Kai Zhang**, and Daxin Jiang. UnifieR: A Unified Retriever for Large-Scale Retrieval. In Arxiv [[Paper](https://arxiv.org/pdf/2205.11194.pdf)]
-
 ### Publications (See [Google Scholar](https://scholar.google.com/citations?user=sDnAIsgAAAAJ&hl=en))
 
 (\*  indicates equal contribution,$\dagger$ indicates first student author, # indicates work (co-)supervised by me.)
+
+Tao Shen, Xiubo Geng, Chongyang Tao, Can Xu, **Kai Zhang**, and Daxin Jiang. UnifieR: A Unified Retriever for Large-Scale Retrieval. In KDD'23 [[Paper](https://arxiv.org/pdf/2205.11194.pdf)] [Code (Soon)]
 
 **Kai Zhang**, Bernal Jiménez Gutiérrez, and Yu Su. Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors. In Findings of ACL'23 \[Paper (Soon)\] [Code (Soon)]
 
