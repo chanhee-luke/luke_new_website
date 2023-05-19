@@ -19,7 +19,7 @@ Yunxiang Li, Zihan Li, **Kai Zhang**, Ruilong Dan, and You Zhang. ChatDoctor: A 
 
 Tao Shen, Xiubo Geng, Chongyang Tao, Can Xu, **Kai Zhang**, and Daxin Jiang. UnifieR: A Unified Retriever for Large-Scale Retrieval. In KDD'23 [[Paper](https://arxiv.org/pdf/2205.11194.pdf)] [Code (Soon)]
 
-**Kai Zhang**, Bernal Jiménez Gutiérrez, and Yu Su. Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors. In Findings of ACL'23 \[Paper (Soon)\] [Code (Soon)]
+**Kai Zhang**, Bernal Jiménez Gutiérrez, and Yu Su. Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors. In Findings of ACL'23 \[[Paper](https://arxiv.org/pdf/2305.11159.pdf)\] [[Code](https://github.com/OSU-NLP-Group/QA4RE)]
 
 **Kai Zhang**, Chongyang Tao, Tao Shen, Can Xu, Xiubo Geng, Binxing Jiao, and Daxin Jiang. LED: Lexicon-Enlightened Dense Retriever for Large-Scale Retrieval. In WWW'23 (**Oral**) \[[Paper](https://arxiv.org/pdf/2208.13661.pdf)\] [[Code](https://github.com/drogozhang/LED)]
 
