@@ -19,11 +19,10 @@ I am broadly interested in Natural Language Processing and its real-world applic
 ## News
 <!-- - 03/2023: New Survey on [Instruction Learning](https://arxiv.org/pdf/2303.10475.pdf), feedbacks and comments are more than welcome!  -->
 
-- 05/2023: UnifieR was accepted to KDD'23.
+- 05/2023: Unified Retriever was accepted to KDD'23.
 - 05/2023: **My best work so far**, LLM-QA4RE was accepted to Findings of ACL'23!
-- 03/2023: <font color="#dd0000">A comprehensive</font> **[reading list](https://github.com/RenzeLou/awesome-instruction-learning)** & **[survey](https://arxiv.org/abs/2303.10475)** <font color="#dd0000"> on Instruction Learning!</font>
-- 01/2023: Lexicon Enhanced Dense Retriever, was accepted to WWW'23.
-- 08/2022: Started my PhD journey at Ohio State.
+- 03/2023: <font color="#dd0000">A comprehensive</font> **[reading list](https://github.com/RenzeLou/awesome-instruction-learning)** & **[survey](https://arxiv.org/abs/2303.10475)** <font color="#dd0000">on Instruction Learning!</font>
+- 01/2023: LED Retriever, was accepted to WWW'23.
 - 02/2022: Started to work at Microsoft as a Research Intern.
 - 08/2021: Multi-Task Auto Auxiliary Task Selection was accepted to EMNLP'21.
 - 08/2021: Unified and Incremental SimRank was accepted to TKDE.
@@ -32,17 +31,23 @@ I am broadly interested in Natural Language Processing and its real-world applic
 
 
 ## Selected Publications
-(\*  indicates equal contribution, $\dagger$ indicates first student author)
+Please refer to [Publications](/publications/) for the full list
 
-**Kai Zhang**, Bernal Jiménez Gutiérrez, and Yu Su. Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors. In Findings of ACL'23 \[[Paper](https://arxiv.org/pdf/2305.11159.pdf)\] [[Code](https://github.com/OSU-NLP-Group/QA4RE)]
+**Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors** 
 
-**Kai Zhang**, Chongyang Tao, Tao Shen, Can Xu, Xiubo Geng, Binxing Jiao, and Daxin Jiang. LED: Lexicon-Enlightened Dense Retriever for Large-Scale Retrieval. In WWW'23 (**Oral**) \[[Paper](https://arxiv.org/pdf/2208.13661.pdf)\] [[Code](https://github.com/drogozhang/LED)]
+<u>Kai Zhang</u>, Bernal Jiménez Gutiérrez, and Yu Su. In Findings of ACL'23 \[[Paper](https://arxiv.org/pdf/2305.11159.pdf)\] [[Code](https://github.com/OSU-NLP-Group/QA4RE)]
 
-Weicheng Ma\*, **Kai Zhang**\*, Renze Lou, Lili Wang, and Soroush Vosoughi. Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks. In ACL'21 (**Oral**) \[[Paper](https://aclanthology.org/2021.acl-long.152.pdf)\] \[[Code](https://github.com/hikari-NYU/Contributions-of-Transformer-Attention-Heads-in-Multi--and-Cross-lingual-Tasks)\]
+**LED: Lexicon-Enlightened Dense Retriever for Large-Scale Retrieval**
 
-**Kai Zhang**\*, Yuan Yao\*, Ruobing Xie, Xu Han, Zhiyuan Liu, Fen Lin, Leyu Lin, and Maosong Sun. Open Hierarchical Relation Extraction. In NAACL-HLT'21 \[[Paper](https://www.aclweb.org/anthology/2021.naacl-main.452.pdf)\] \[[Code](https://github.com/thunlp/OHRE)\]
+<u>Kai Zhang</u>, Chongyang Tao, Tao Shen, Can Xu, Xiubo Geng, Binxing Jiao, and Daxin Jiang. In WWW'23 (**Oral**) \[[Paper](https://arxiv.org/pdf/2208.13661.pdf)\] [[Code](https://github.com/drogozhang/LED)]
 
-Lin Sun\*, **Kai Zhang**\*$\dagger$, Fule Ji, and Zhenhua Yang. TOI-CNN: A Solution of Information Extraction on Chinese Insurance Policy. In NAACL-HLT'19 *(co-first author with my advisor)* \[[Paper](https://www.aclweb.org/anthology/N19-2022.pdf)\] \[[Code](https://github.com/ETIP-team/ETIP-Project)\] 
+**Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks**
+
+Weicheng Ma\*, <u>Kai Zhang</u>\*, Renze Lou, Lili Wang, and Soroush Vosoughi. In ACL'21 (**Oral**) \[[Paper](https://aclanthology.org/2021.acl-long.152.pdf)\] \[[Code](https://github.com/hikari-NYU/Contributions-of-Transformer-Attention-Heads-in-Multi--and-Cross-lingual-Tasks)\]
+
+**Open Hierarchical Relation Extraction**
+
+<u>Kai Zhang</u>\*, Yuan Yao\*, Ruobing Xie, Xu Han, Zhiyuan Liu, Fen Lin, Leyu Lin, and Maosong Sun. In NAACL-HLT'21 \[[Paper](https://www.aclweb.org/anthology/2021.naacl-main.452.pdf)\] \[[Code](https://github.com/thunlp/OHRE)\]
 
 ## Academic Services
 
