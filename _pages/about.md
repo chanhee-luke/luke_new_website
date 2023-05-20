@@ -33,21 +33,13 @@ I am broadly interested in Natural Language Processing and its real-world applic
 ## Selected Publications
 Please refer to [Publications](/publications/) for the full list
 
-**Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors** 
+<u>Kai Zhang</u>, Bernal Jiménez Gutiérrez, and Yu Su. **Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors**. In Findings of ACL'23 \[[Paper](https://arxiv.org/pdf/2305.11159.pdf)\] [[Code](https://github.com/OSU-NLP-Group/QA4RE)]
 
-<u>Kai Zhang</u>, Bernal Jiménez Gutiérrez, and Yu Su. In Findings of ACL'23 \[[Paper](https://arxiv.org/pdf/2305.11159.pdf)\] [[Code](https://github.com/OSU-NLP-Group/QA4RE)]
+<u>Kai Zhang</u>, Chongyang Tao, Tao Shen, Can Xu, Xiubo Geng, Binxing Jiao, and Daxin Jiang. **LED: Lexicon-Enlightened Dense Retriever for Large-Scale Retrieval**. In WWW'23 (**Oral**) \[[Paper](https://arxiv.org/pdf/2208.13661.pdf)\] [[Code](https://github.com/drogozhang/LED)]
 
-**LED: Lexicon-Enlightened Dense Retriever for Large-Scale Retrieval**
+Weicheng Ma\*, <u>Kai Zhang</u>\*, Renze Lou, Lili Wang, and Soroush Vosoughi. **Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks**. In ACL'21 (**Oral**) \[[Paper](https://aclanthology.org/2021.acl-long.152.pdf)\] \[[Code](https://github.com/hikari-NYU/Contributions-of-Transformer-Attention-Heads-in-Multi--and-Cross-lingual-Tasks)\]
 
-<u>Kai Zhang</u>, Chongyang Tao, Tao Shen, Can Xu, Xiubo Geng, Binxing Jiao, and Daxin Jiang. In WWW'23 (**Oral**) \[[Paper](https://arxiv.org/pdf/2208.13661.pdf)\] [[Code](https://github.com/drogozhang/LED)]
-
-**Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks**
-
-Weicheng Ma\*, <u>Kai Zhang</u>\*, Renze Lou, Lili Wang, and Soroush Vosoughi. In ACL'21 (**Oral**) \[[Paper](https://aclanthology.org/2021.acl-long.152.pdf)\] \[[Code](https://github.com/hikari-NYU/Contributions-of-Transformer-Attention-Heads-in-Multi--and-Cross-lingual-Tasks)\]
-
-**Open Hierarchical Relation Extraction**
-
-<u>Kai Zhang</u>\*, Yuan Yao\*, Ruobing Xie, Xu Han, Zhiyuan Liu, Fen Lin, Leyu Lin, and Maosong Sun. In NAACL-HLT'21 \[[Paper](https://www.aclweb.org/anthology/2021.naacl-main.452.pdf)\] \[[Code](https://github.com/thunlp/OHRE)\]
+<u>Kai Zhang</u>\*, Yuan Yao\*, Ruobing Xie, Xu Han, Zhiyuan Liu, Fen Lin, Leyu Lin, and Maosong Sun. **Open Hierarchical Relation Extraction**. In NAACL-HLT'21 \[[Paper](https://www.aclweb.org/anthology/2021.naacl-main.452.pdf)\] \[[Code](https://github.com/thunlp/OHRE)\]
 
 ## Academic Services
 

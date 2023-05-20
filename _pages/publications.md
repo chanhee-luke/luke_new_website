@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Preprints
+## Preprints
 
 **Automatic Evaluation of Attribution by Large Language Models**
 
@@ -19,7 +19,7 @@ Renze Lou, <u>Kai Zhang</u>, and Wenpeng Yin. In Arxiv [[Paper](https://arxiv.or
 
 Yunxiang Li, Zihan Li, <u>Kai Zhang</u>, Ruilong Dan, and You Zhang. In Arxiv [[Paper](https://arxiv.org/abs/2303.14070)] [[Code](https://github.com/Kent0n-Li/ChatDoctor)]
 
-### Publications (See [Google Scholar](https://scholar.google.com/citations?user=sDnAIsgAAAAJ&hl=en))
+## Publications (See [Google Scholar](https://scholar.google.com/citations?user=sDnAIsgAAAAJ&hl=en))
 
 (\*  indicates equal contribution,$\dagger$ indicates first student author, # indicates work (co-)supervised by me.)
 
