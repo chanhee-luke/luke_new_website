@@ -29,8 +29,8 @@ I am broadly interested in Natural Language Processing and its real-world applic
 - 05/2021: Multi-Lingual Transformer Analysis was accepted to ACL'21.
 - 03/2021: Open Hierarchical Relation Extraction was accepted to NAACL-HLT'21.
 
-
 ## Selected Publications
+
 Please refer to [Publications](/publications/) for the full list
 
 <u>Kai Zhang</u>, Bernal Jiménez Gutiérrez, and Yu Su. **Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors**. In Findings of ACL'23 \[[Paper](https://arxiv.org/pdf/2305.11159.pdf)\] [[Code](https://github.com/OSU-NLP-Group/QA4RE)]
