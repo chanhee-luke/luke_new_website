@@ -20,7 +20,7 @@ I am broadly interested in Natural Language Processing and its real-world applic
 - 05/2023: Unified Retriever was accepted to KDD'23.
 - 05/2023: **My best work so far**, LLM-QA4RE was accepted to Findings of ACL'23!
 - 03/2023: <font color="#dd0000">A comprehensive</font> **[reading list](https://github.com/RenzeLou/awesome-instruction-learning)** & **[survey](https://arxiv.org/abs/2303.10475)** <font color="#dd0000">on Instruction Learning!</font>
-- 01/2023: LED Retriever, was accepted to WWW'23.
+- 01/2023: LED Retriever was accepted to WWW'23.
 - 02/2022: Started to work at Microsoft as a Research Intern.
 - 08/2021: Multi-Task Auto Auxiliary Task Selection was accepted to EMNLP'21.
 - 08/2021: Unified and Incremental SimRank was accepted to TKDE.
