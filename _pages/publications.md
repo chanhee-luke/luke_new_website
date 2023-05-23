@@ -5,7 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+(\*  indicates equal contribution,$\dagger$ indicates first student author, # indicates work (co-)supervised by me.)
+
 ## Preprints
+
+\# Jian Xie\*, Kai Zhang\*, Jiangjie Chen, Renze Lou, Yu Su. ***Adaptive Chameleon or Stubborn Sloth*: Unraveling the Behavior of Large Language Models in Knowledge Conflicts**. In Arxiv [[paper](https://arxiv.org/abs/2305.13300)] [[code](https://github.com/OSU-NLP-Group/LLM-Knowledge-Conflict)]
 
 Xiang Yue, Boshi Wang, <u>Kai Zhang</u>, Ziru Chen, Yu Su, and Huan Sun. **Automatic Evaluation of Attribution by Large Language Models**. In Arxiv [[Paper](https://arxiv.org/pdf/2305.06311.pdf)]
 
@@ -14,8 +18,6 @@ Renze Lou, <u>Kai Zhang</u>, and Wenpeng Yin. **Is Prompt All You Need? No. A Co
 Yunxiang Li, Zihan Li, <u>Kai Zhang</u>, Ruilong Dan, and You Zhang. **ChatDoctor: A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge**. In Arxiv [[Paper](https://arxiv.org/abs/2303.14070)] [[Code](https://github.com/Kent0n-Li/ChatDoctor)]
 
 ## Publications
-
-(\*  indicates equal contribution,$\dagger$ indicates first student author, # indicates work (co-)supervised by me.)
 
 Tao Shen, Xiubo Geng, Chongyang Tao, Can Xu, <u>Kai Zhang</u>, and Daxin Jiang. **UnifieR: A Unified Retriever for Large-Scale Retrieval**. In KDD'23 [[Paper](https://arxiv.org/pdf/2205.11194.pdf)] [Code (Soon)]
 
