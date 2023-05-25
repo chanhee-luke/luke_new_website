@@ -18,7 +18,7 @@ I am broadly interested in Natural Language Processing and its real-world applic
 <!-- - 03/2023: New Survey on [Instruction Learning](https://arxiv.org/pdf/2303.10475.pdf), feedbacks and comments are more than welcome!  -->
 
 - 05/2023: Unified Retriever was accepted to KDD'23.
-- 05/2023: **My best work so far**, LLM-QA4RE was accepted to Findings of ACL'23!
+- 05/2023: **My best work so far**, LLM-QA4RE, was accepted to Findings of ACL'23.
 - 03/2023: <font color="#dd0000">A comprehensive</font> **[reading list](https://github.com/RenzeLou/awesome-instruction-learning)** & **[survey](https://arxiv.org/abs/2303.10475)** <font color="#dd0000">on Instruction Learning!</font>
 - 01/2023: LED Retriever was accepted to WWW'23.
 - 02/2022: Started to work at Microsoft as a Research Intern.
@@ -47,9 +47,11 @@ Weicheng Ma\*, <u>Kai Zhang</u>\*, Renze Lou, Lili Wang, and Soroush Vosoughi. *
 
 ## Talk
 
-**Aligning LLM Instruction Tasks for Zero-Shot Relation Extraction (QA4RE)**
+**Task Alignment in Instruction-tuned LLMs for Relation Extraction (LLM-QA4RE)**
 
 - University of Notre Dame NLP Seminar. March 2023
+- Microsoft Interview. May 2023
+- AI TIME Seminar. May 2023
 
 ## Contact
 
