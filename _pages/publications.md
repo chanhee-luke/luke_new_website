@@ -9,7 +9,7 @@ author_profile: true
 
 ## Preprints
 
-\# Jian Xie\*, Kai Zhang\*, Jiangjie Chen, Renze Lou, Yu Su. ***Adaptive Chameleon or Stubborn Sloth*: Unraveling the Behavior of Large Language Models in Knowledge Conflicts**. In Arxiv [[paper](https://arxiv.org/abs/2305.13300)] [[code](https://github.com/OSU-NLP-Group/LLM-Knowledge-Conflict)]
+\# Jian Xie\*, <u>Kai Zhang</u>\*, Jiangjie Chen, Renze Lou, Yu Su. ***Adaptive Chameleon or Stubborn Sloth*: Unraveling the Behavior of Large Language Models in Knowledge Conflicts**. In Arxiv [[paper](https://arxiv.org/abs/2305.13300)] [[code](https://github.com/OSU-NLP-Group/LLM-Knowledge-Conflict)]
 
 Xiang Yue, Boshi Wang, <u>Kai Zhang</u>, Ziru Chen, Yu Su, and Huan Sun. **Automatic Evaluation of Attribution by Large Language Models**. In Arxiv [[Paper](https://arxiv.org/pdf/2305.06311.pdf)]
 
