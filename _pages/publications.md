@@ -13,6 +13,8 @@ author_profile: true
 
 Xiang Yue, Boshi Wang, <u>Kai Zhang</u>, Ziru Chen, Yu Su, and Huan Sun. **Automatic Evaluation of Attribution by Large Language Models**. In Arxiv [[Paper](https://arxiv.org/pdf/2305.06311.pdf)]
 
+Yuxuan Sun, Chenglu Zhu, Sunyi Zheng, <u>Kai Zhang</u>, Zhongyi Shui, Xiaoxuan Yu, Yizhi Zhao, Honglin Li, Yunlong Zhang, Ruojia Zhao, Xinheng Lyu, and Lin Yang. **PathAsst: Redefining Pathology through Generative Foundation AI Assistant for Pathology**. In Arxiv [[Paper](https://arxiv.org/abs/2305.15072)] [[Code](https://github.com/superjamessyx/Generative-Foundation-AI-Assistant-for-Pathology)]
+
 Renze Lou, <u>Kai Zhang</u>, and Wenpeng Yin. **Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning**. In Arxiv [[Paper](https://arxiv.org/abs/2303.10475)] [[Reading List](https://github.com/RenzeLou/awesome-instruction-learning)]
 
 Yunxiang Li, Zihan Li, <u>Kai Zhang</u>, Ruilong Dan, and You Zhang. **ChatDoctor: A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge**. In Arxiv [[Paper](https://arxiv.org/abs/2303.14070)] [[Code](https://github.com/Kent0n-Li/ChatDoctor)]
