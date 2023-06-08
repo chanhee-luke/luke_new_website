@@ -47,7 +47,7 @@ Weicheng Ma\*, <u>Kai Zhang</u>\*, Renze Lou, Lili Wang, and Soroush Vosoughi. *
 
 ## Talk
 
-**Task Alignment in Instruction-tuned LLMs for Relation Extraction (LLM-QA4RE)** [[Slides](/files/paper_slides/QA4RE_ACL.pdf)]
+**Task Alignment in Instruction-tuned LLMs for Relation Extraction (LLM-QA4RE)** [[Slides](/files/paper_slides/QA4RE_ACL23.pdf)]
 
 - University of Notre Dame NLP Seminar. March 2023
 - AI TIME Seminar. May 2023
