@@ -21,11 +21,11 @@ Yunxiang Li, Zihan Li, <u>Kai Zhang</u>, Ruilong Dan, and You Zhang. **ChatDocto
 
 ## Publications
 
-Tao Shen, Xiubo Geng, Chongyang Tao, Can Xu, <u>Kai Zhang</u>, and Daxin Jiang. **UnifieR: A Unified Retriever for Large-Scale Retrieval**. In KDD'23 [[Paper](https://arxiv.org/pdf/2205.11194.pdf)] [Code (Soon)]
+Tao Shen, Xiubo Geng, Chongyang Tao, Can Xu, <u>Kai Zhang</u>, and Daxin Jiang. **UnifieR: A Unified Retriever for Large-Scale Retrieval**. In KDD'23 [[Paper](https://arxiv.org/pdf/2205.11194.pdf)] [[Code](https://github.com/taoshen58/UnifieR)]
 
-<u>Kai Zhang</u>, Bernal Jiménez Gutiérrez, and Yu Su. **Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors**. In Findings of ACL'23 \[[Paper](https://arxiv.org/pdf/2305.11159.pdf)\] [[Code](https://github.com/OSU-NLP-Group/QA4RE)]
+<u>Kai Zhang</u>, Bernal Jiménez Gutiérrez, and Yu Su. **Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors**. In Findings of ACL'23 \[[Paper](https://arxiv.org/pdf/2305.11159.pdf)\] [[Code](https://github.com/OSU-NLP-Group/QA4RE)] [[Slides](/files/paper_slides/QA4RE_ACL23.pdf)]
 
-<u>Kai Zhang</u>, Chongyang Tao, Tao Shen, Can Xu, Xiubo Geng, Binxing Jiao, and Daxin Jiang. **LED: Lexicon-Enlightened Dense Retriever for Large-Scale Retrieval**. In WWW'23 (**Oral**) \[[Paper](https://arxiv.org/pdf/2208.13661.pdf)\] [[Code](https://github.com/drogozhang/LED)]
+<u>Kai Zhang</u>, Chongyang Tao, Tao Shen, Can Xu, Xiubo Geng, Binxing Jiao, and Daxin Jiang. **LED: Lexicon-Enlightened Dense Retriever for Large-Scale Retrieval**. In WWW'23 (**Oral**) \[[Paper](https://arxiv.org/pdf/2208.13661.pdf)\] [[Code](https://github.com/drogozhang/LED)] [[Slides](/files/paper_slides/LED_WWW23.pdf)]
 
 Weicheng Ma, Renze Lou, <u>Kai Zhang</u>, Lili Wang, and Soroush Vosoughi. **GradTS: A Gradient-Based Automatic Auxiliary Task Selection Method Based on Transformer Networks**. In EMNLP'21 \[[Paper](https://aclanthology.org/2021.emnlp-main.455.pdf)\] \[[Code](https://github.com/RenzeLou/GradTS)\]
 
@@ -41,7 +41,7 @@ Lin Sun\*, Jiquan Wang\*, <u>Kai Zhang</u>, Fangsheng Weng, and Yindu Su. **RpBE
 
 Yuan Yao, Haoxi Zhong, Zhengyan Zhang, Xu Han, Xiaozhi Wang, <u>Kai Zhang</u>, Chaojun Xiao, Guoyang Zeng, Zhiyuan Liu, and Maosong Sun. **Adversarial Language Games for Advanced Natural Language Intelligence**. In AAAI'21 \[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/17676)\] \[[Code](https://github.com/thunlp/AdversarialTaboo)\]
 
-<u>Kai Zhang</u>\*, Yuan Yao\*, Ruobing Xie, Xu Han, Zhiyuan Liu, Fen Lin, Leyu Lin, and Maosong Sun. **Open Hierarchical Relation Extraction**. In NAACL-HLT'21 \[[Paper](https://www.aclweb.org/anthology/2021.naacl-main.452.pdf)\] \[[Code](https://github.com/thunlp/OHRE)\]
+<u>Kai Zhang</u>\*, Yuan Yao\*, Ruobing Xie, Xu Han, Zhiyuan Liu, Fen Lin, Leyu Lin, and Maosong Sun. **Open Hierarchical Relation Extraction**. In NAACL-HLT'21 \[[Paper](https://www.aclweb.org/anthology/2021.naacl-main.452.pdf)\] \[[Code](https://github.com/thunlp/OHRE)\] [[Slides](/files/paper_slides/OHRE_NAACL21.pdf)]
 
 Lin Sun\*, <u>Kai Zhang</u>\*$\dagger$, Fule Ji, and Zhenhua Yang. **TOI-CNN: A Solution of Information Extraction on Chinese Insurance Policy**. In NAACL-HLT'19 *(co-first author with my advisor)* \[[Paper](https://www.aclweb.org/anthology/N19-2022.pdf)\] \[[Code](https://github.com/ETIP-team/ETIP-Project)\] 
 
