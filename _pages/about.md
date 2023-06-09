@@ -8,10 +8,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first-year PhD student fortunately advised by Prof. [Yu Su](https://ysu1989.github.io) at The Ohio State University. Before starting my PhD journey, I did NLP research under the supervision of Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/) at Tsinghua University, Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) at Dartmouth College, and Dr. [Daxin Jiang](https://www.microsoft.com/en-us/research/people/djiang/) at Microsoft STCA Semantics and Knowledge Team. 
+I am a first-year PhD student fortunately advised by Prof. [Yu Su](https://ysu1989.github.io) at The Ohio State University. Previously, I worked with Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/) at Tsinghua University, Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) at Dartmouth College, and Dr. [Daxin Jiang](https://www.microsoft.com/en-us/research/people/djiang/) at Microsoft Semantics and Knowledge Team.
 <!-- Here is my [CV](/files/cv_open.pdf) (updated in Jan 2023).-->
 
-I am broadly interested in Natural Language Processing and its real-world applications, currently focusing on Knowledge, Large Language Models, and their interplay.
+I am broadly interested in Natural Language Processing, currently focusing on the interplay between Knowledge and Large Language Models (e.g., better using LLM for knowledge acquisition and using knowledge for enhancing LLM).
 
 
 ## News
