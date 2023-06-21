@@ -18,9 +18,10 @@ I am broadly interested in Natural Language Processing, currently focusing on th
 ## News
 <!-- - 03/2023: New Survey on [Instruction Learning](https://arxiv.org/pdf/2303.10475.pdf), feedbacks and comments are more than welcome!  -->
 
+- 06/2023: Check out my recent work: [AttrScore](https://arxiv.org/abs/2305.06311), [LLM-KnowledgeConflict](https://arxiv.org/abs/2305.13300), and [MagicBrush](https://osu-nlp-group.github.io/MagicBrush/)!
 - 05/2023: Unified Retriever was accepted to KDD'23.
 - 05/2023: **My best work so far**, LLM-QA4RE, was accepted to Findings of ACL'23.
-- 03/2023: <font color="#dd0000">A comprehensive</font> **[reading list](https://github.com/RenzeLou/awesome-instruction-learning)** & **[survey](https://arxiv.org/abs/2303.10475)** <font color="#dd0000">on Instruction Learning!</font>
+- 03/2023: Release a comprehensive **[reading list](https://github.com/RenzeLou/awesome-instruction-learning)** & **[survey](https://arxiv.org/abs/2303.10475)** on Instruction Learning!
 - 01/2023: LED Retriever was accepted to WWW'23.
 - 02/2022: Started to work at Microsoft as a Research Intern.
 - 08/2021: Multi-Task Auto Auxiliary Task Selection was accepted to EMNLP'21.
@@ -30,15 +31,14 @@ I am broadly interested in Natural Language Processing, currently focusing on th
 
 ## Selected Publications
 
-Please refer to [Publications](/publications/) for the full list
+See full list in [Publications](/publications/) (\* indicates equal contribution)
+
+<u>Kai Zhang</u>\*, Lingbo Mo*, Wenhu Chen, Huan Sun, and Yu Su. **MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing**. In Arxiv [[Paper](https://arxiv.org/abs/2306.10012)] [[Project Page](https://osu-nlp-group.github.io/MagicBrush/)]
+
+Jian Xie\*, <u>Kai Zhang</u>\*, Jiangjie Chen, Renze Lou, and Yu Su. ***Adaptive Chameleon or Stubborn Sloth*: Unraveling the Behavior of Large Language Models in Knowledge Conflicts**. In Arxiv [[Paper](https://arxiv.org/abs/2305.13300)] [[Code](https://github.com/OSU-NLP-Group/LLM-Knowledge-Conflict)]
 
 <u>Kai Zhang</u>, Bernal Jiménez Gutiérrez, and Yu Su. **Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors**. In Findings of ACL'23 \[[Paper](https://arxiv.org/abs/2305.11159)\] [[Code](https://github.com/OSU-NLP-Group/QA4RE)] [[Slides](/files/paper_slides/QA4RE_ACL23.pdf)]
 
-<u>Kai Zhang</u>, Chongyang Tao, Tao Shen, Can Xu, Xiubo Geng, Binxing Jiao, and Daxin Jiang. **LED: Lexicon-Enlightened Dense Retriever for Large-Scale Retrieval**. In WWW'23 (**Oral**) \[[Paper](https://arxiv.org/abs/2208.13661)\] [[Code](https://github.com/drogozhang/LED)] [[Slides](/files/paper_slides/LED_WWW23.pdf)]
-
-Weicheng Ma\*, <u>Kai Zhang</u>\*, Renze Lou, Lili Wang, and Soroush Vosoughi. **Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks**. In ACL'21 (**Oral**) \[[Paper](https://aclanthology.org/2021.acl-long.152)\] \[[Code](https://github.com/hikari-NYU/Contributions-of-Transformer-Attention-Heads-in-Multi--and-Cross-lingual-Tasks)\]
-
-<u>Kai Zhang</u>\*, Yuan Yao\*, Ruobing Xie, Xu Han, Zhiyuan Liu, Fen Lin, Leyu Lin, and Maosong Sun. **Open Hierarchical Relation Extraction**. In NAACL-HLT'21 \[[Paper](https://www.aclweb.org/anthology/2021.naacl-main.452)\] \[[Code](https://github.com/thunlp/OHRE)\] [[Slides](/files/paper_slides/OHRE_NAACL21.pdf)]
 
 ## Academic Services
 

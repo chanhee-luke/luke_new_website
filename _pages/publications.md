@@ -27,13 +27,13 @@ Tao Shen, Xiubo Geng, Chongyang Tao, Can Xu, <u>Kai Zhang</u>, and Daxin Jiang. 
 
 <u>Kai Zhang</u>, Bernal Jiménez Gutiérrez, and Yu Su. **Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors**. In Findings of ACL'23 \[[Paper](https://arxiv.org/abs/2305.11159)\] [[Code](https://github.com/OSU-NLP-Group/QA4RE)] [[Slides](/files/paper_slides/QA4RE_ACL23.pdf)]
 
-<u>Kai Zhang</u>, Chongyang Tao, Tao Shen, Can Xu, Xiubo Geng, Binxing Jiao, and Daxin Jiang. **LED: Lexicon-Enlightened Dense Retriever for Large-Scale Retrieval**. In WWW'23 (**Oral**) \[[Paper](https://arxiv.org/abs/2208.13661)\] [[Code](https://github.com/drogozhang/LED)] [[Slides](/files/paper_slides/LED_WWW23.pdf)]
+<u>Kai Zhang</u>, Chongyang Tao, Tao Shen, Can Xu, Xiubo Geng, Binxing Jiao, and Daxin Jiang. **LED: Lexicon-Enlightened Dense Retriever for Large-Scale Retrieval**. In WWW'23 (Oral) \[[Paper](https://arxiv.org/abs/2208.13661)\] [[Code](https://github.com/drogozhang/LED)] [[Slides](/files/paper_slides/LED_WWW23.pdf)]
 
 Weicheng Ma, Renze Lou, <u>Kai Zhang</u>, Lili Wang, and Soroush Vosoughi. **GradTS: A Gradient-Based Automatic Auxiliary Task Selection Method Based on Transformer Networks**. In EMNLP'21 \[[Paper](https://aclanthology.org/2021.emnlp-main.455)\] \[[Code](https://github.com/RenzeLou/GradTS)\]
 
 Fanwei Zhu, Yuan Fang, <u>Kai Zhang</u>$\dagger$, Kevin Chen-Chuan Chang, Hongtai Cao, Zhen Jiang, and Minghui Wu. **Unified and Incremental SimRank: Index-free Approximation with Scheduled Principle**. In TKDE \[[Paper](https://www.computer.org/csdl/journal/tk/5555/01/09535257/1wMELvY3Tna)\]\[[Code](https://github.com/UISim2020/UISim2020)\]
 
-Weicheng Ma\*, <u>Kai Zhang</u>\*, Renze Lou, Lili Wang, and Soroush Vosoughi. **Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks**. In ACL'21 (**Oral**) \[[Paper](https://aclanthology.org/2021.acl-long.152)\] \[[Code](https://github.com/hikari-NYU/Contributions-of-Transformer-Attention-Heads-in-Multi--and-Cross-lingual-Tasks)\]
+Weicheng Ma\*, <u>Kai Zhang</u>\*, Renze Lou, Lili Wang, and Soroush Vosoughi. **Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks**. In ACL'21 (Oral) \[[Paper](https://aclanthology.org/2021.acl-long.152)\] \[[Code](https://github.com/hikari-NYU/Contributions-of-Transformer-Attention-Heads-in-Multi--and-Cross-lingual-Tasks)\]
 
 \# Yutong Wang\*, Renze Lou\*, <u>Kai Zhang</u>\*, Maoyan Chen, and Yujiu Yang. **MORE: A Metric Learning Based Framework for Open-Domain Relation Extraction**. In ICASSP 2021 \[[Paper](https://ieeexplore.ieee.org/document/9413437)\] \[[Code](https://github.com/RenzeLou/MORE)\]
 
