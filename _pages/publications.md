@@ -47,4 +47,4 @@ Yuan Yao, Haoxi Zhong, Zhengyan Zhang, Xu Han, Xiaozhi Wang, <u>Kai Zhang</u>, C
 
 Lin Sun\*, <u>Kai Zhang</u>\*$\dagger$, Fule Ji, and Zhenhua Yang. **TOI-CNN: A Solution of Information Extraction on Chinese Insurance Policy**. In NAACL-HLT'19 *(co-first author with my advisor)* \[[Paper](https://www.aclweb.org/anthology/N19-2022)\] \[[Code](https://github.com/ETIP-team/ETIP-Project)\] 
 
-<u>Kai Zhang</u>, Lin Sun, and Fule Ji. **A TOI based CNN with Location Regression for Insurance Contract Analysis**. In IJCNN 2019 (<b>Oral</b>) \[[Paper](https://ieeexplore.ieee.org/abstract/document/8852052/)\] \[[Code](https://github.com/ETIP-team/ETIP-Project)\]
+<u>Kai Zhang</u>, Lin Sun, and Fule Ji. **A TOI based CNN with Location Regression for Insurance Contract Analysis**. In IJCNN 2019 (Oral) \[[Paper](https://ieeexplore.ieee.org/abstract/document/8852052/)\] \[[Code](https://github.com/ETIP-team/ETIP-Project)\]
