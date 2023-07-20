@@ -44,7 +44,7 @@ See full list in [Publications](/publications/) (\* indicates equal contribution
 
 **Secondary Reviewer**: WSDM'21; NAACL-HLT'21; ACL'21; EMNLP'21
 
-**PC Member/Reviewer**: ARR (since 22); CCKS'22-23; EMNLP'22-23; AAAI'23; WWW'23; ACL'23; KDD'23; NeurIPS'23; ICML'23-ToM
+**PC Member/Reviewer**: ARR (since 22); CCKS'22-23; EMNLP'22-23; AAAI'23-24; WWW'23; ACL'23; KDD'23; NeurIPS'23; ICML'23-ToM
 
 ## Talk
 
@@ -52,6 +52,7 @@ See full list in [Publications](/publications/) (\* indicates equal contribution
 
 - University of Notre Dame NLP Seminar. March 2023
 - AI TIME Seminar. May 2023
+- ACL'23 Matching Workshop. Jul 2023
 
 ## Contact
 
