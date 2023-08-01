@@ -22,7 +22,6 @@ I am broadly interested in Natural Language Processing. Recently, I am exploring
 - 03/2023: Release the **[reading list](https://github.com/RenzeLou/awesome-instruction-learning)** & **[survey](https://arxiv.org/abs/2303.10475)** on Instruction Learning.
 - 01/2023: LED Retriever was accepted to WWW'23.
 - 08/2022: Started my PhD journey at OSU.
-
 - 02/2022: Started to work at Microsoft as a Research Intern.
 
 ## Selected Publications
