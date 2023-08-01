@@ -12,22 +12,22 @@ I am a first-year PhD student fortunately advised by Prof. [Yu Su](https://ysu19
 
 <!-- Here is my [CV](/files/cv_open.pdf) (updated in Jan 2023).-->
 
-I am broadly interested in Natural Language Processing, currently focusing on the interplay between Knowledge and Large Language Models (e.g., better using LLM for knowledge acquisition and using knowledge to enhance LLM).
+I am broadly interested in Natural Language Processing and Artificial Intelligence. Recently, I am exploring Large Language Models from perspectives of Knowledge, Multimodal, and Mixture of Experts.
 
 
 ## News
 <!-- - 03/2023: New Survey on [Instruction Learning](https://arxiv.org/pdf/2303.10475.pdf), feedbacks and comments are more than welcome!  -->
 
 - 06/2023: Check out my recent work: [AttrScore](https://arxiv.org/abs/2305.06311), [Knowledge Conflict](https://arxiv.org/abs/2305.13300), and [MagicBrush](https://osu-nlp-group.github.io/MagicBrush/)!
-- 05/2023: Unified Retriever was accepted to KDD'23.
-- 05/2023: **My best work so far**, LLM-QA4RE, was accepted to Findings of ACL'23.
-- 03/2023: Release a comprehensive **[reading list](https://github.com/RenzeLou/awesome-instruction-learning)** & **[survey](https://arxiv.org/abs/2303.10475)** on Instruction Learning!
-- 01/2023: LED Retriever was accepted to WWW'23.
-- 02/2022: Started to work at Microsoft as a Research Intern.
-- 08/2021: Multi-Task Auto Auxiliary Task Selection was accepted to EMNLP'21.
-- 08/2021: Unified and Incremental SimRank was accepted to TKDE.
-- 05/2021: Multi-Lingual Transformer Analysis was accepted to ACL'21.
-- 03/2021: Open Hierarchical Relation Extraction was accepted to NAACL-HLT'21.
+<!-- - 05/2023: Unified Retriever was accepted to KDD'23. -->
+<!-- - 05/2023: **My best work so far**, LLM-QA4RE, was accepted to Findings of ACL'23. -->
+<!-- - 03/2023: Release a comprehensive **[reading list](https://github.com/RenzeLou/awesome-instruction-learning)** & **[survey](https://arxiv.org/abs/2303.10475)** on Instruction Learning! -->
+<!-- - 01/2023: LED Retriever was accepted to WWW'23. -->
+<!-- - 02/2022: Started to work at Microsoft as a Research Intern. -->
+<!-- - 08/2021: Multi-Task Auto Auxiliary Task Selection was accepted to EMNLP'21. -->
+<!-- - 08/2021: Unified and Incremental SimRank was accepted to TKDE. -->
+<!-- - 05/2021: Multi-Lingual Transformer Analysis was accepted to ACL'21. -->
+<!-- - 03/2021: Open Hierarchical Relation Extraction was accepted to NAACL-HLT'21. -->
 
 ## Selected Publications
 
