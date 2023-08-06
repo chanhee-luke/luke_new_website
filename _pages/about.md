@@ -19,7 +19,7 @@ I am broadly interested in Natural Language Processing. Recently, I am exploring
 - 06/2023: Check out my recent work: [AttrScore](https://arxiv.org/abs/2305.06311), [Knowledge Conflict](https://arxiv.org/abs/2305.13300), and [MagicBrush](https://osu-nlp-group.github.io/MagicBrush/).
 - 05/2023: Unified Retriever was accepted to KDD'23.
 - 05/2023: LLM-QA4RE was accepted to Findings of ACL'23.
-- 03/2023: Released the **[reading list](https://github.com/RenzeLou/awesome-instruction-learning)** & **[survey](https://arxiv.org/abs/2303.10475)** on Instruction Learning.
+- 03/2023: Released the [reading list](https://github.com/RenzeLou/awesome-instruction-learning) & [survey](https://arxiv.org/abs/2303.10475) on Instruction Learning.
 - 01/2023: LED Retriever was accepted to WWW'23.
 
 ## Selected Publications
