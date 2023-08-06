@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first-year PhD student fortunately advised by Prof. [Yu Su](https://ysu1989.github.io) at The Ohio State University. Previously, I worked with Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/) at Tsinghua University, Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) at Dartmouth College, and Dr. [Daxin Jiang](https://www.microsoft.com/en-us/research/people/djiang/) at Microsoft.
+I am a first-year PhD student fortunately advised by Prof. [Yu Su](https://ysu1989.github.io) at The Ohio State University. Previously, I worked with Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/) at Tsinghua University, Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) at Dartmouth College, and Dr. [Daxin Jiang](https://scholar.google.com/citations?user=N-wAHCoAAAAJ&hl=zh-CN) at Microsoft.
 
 <!-- Here is my [CV](/files/cv_open.pdf) (updated in Jan 2023).-->
 
