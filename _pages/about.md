@@ -8,7 +8,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first-year PhD student fortunately advised by Prof. [Yu Su](https://ysu1989.github.io) at The Ohio State University. Previously, I worked with Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/) at Tsinghua University, Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) at Dartmouth College, and Dr. [Daxin Jiang](https://scholar.google.com/citations?user=N-wAHCoAAAAJ&hl=zh-CN) at Microsoft.
+I am a second-year PhD student fortunately advised by Prof. [Yu Su](https://ysu1989.github.io) at The Ohio State University.  Meanwhile, I am a part-time Student Researcher at [Google DeepMind](https://www.deepmind.com).
+
+<!-- Previously, I worked with Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/) at Tsinghua University, Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) at Dartmouth College, and Dr. [Daxin Jiang](https://scholar.google.com/citations?user=N-wAHCoAAAAJ&hl=zh-CN) at Microsoft.-->
 
 <!-- Here is my [CV](/files/cv_open.pdf) (updated in Jan 2023).-->
 
@@ -16,6 +18,7 @@ I am broadly interested in Natural Language Processing. Recently, I am exploring
 
 ## News 
 
+- 08/2023: Very excited to start my Internship at Google DeepMind (Previously Google Brain)!
 - 06/2023: Check out my recent work: [AttrScore](https://arxiv.org/abs/2305.06311), [Knowledge Conflict](https://arxiv.org/abs/2305.13300), and [MagicBrush](https://osu-nlp-group.github.io/MagicBrush/).
 - 05/2023: Unified Retriever was accepted to KDD'23.
 - 05/2023: LLM-QA4RE was accepted to Findings of ACL'23.
