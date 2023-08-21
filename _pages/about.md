@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second-year PhD student fortunately advised by Prof. [Yu Su](https://ysu1989.github.io) at The Ohio State University.  Meanwhile, I am a part-time Student Researcher at [Google DeepMind](https://www.deepmind.com).
+I am a second-year PhD student fortunately advised by Prof. [Yu Su](https://ysu1989.github.io) at The Ohio State University.  Meanwhile, I am a part-time Student Researcher at Google DeepMind.
 
 <!-- Previously, I worked with Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/) at Tsinghua University, Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) at Dartmouth College, and Dr. [Daxin Jiang](https://scholar.google.com/citations?user=N-wAHCoAAAAJ&hl=zh-CN) at Microsoft.-->
 
