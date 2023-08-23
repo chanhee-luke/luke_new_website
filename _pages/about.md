@@ -18,7 +18,7 @@ I am broadly interested in Natural Language Processing. Recently, I am exploring
 
 ## News 
 
-- 08/2023: Very excited to start my Internship at Google DeepMind (Previously Google Brain)!
+- 08/2023: Very excited to start my internship at Google DeepMind (Previously Google Brain)!
 - 06/2023: Check out my recent work: [AttrScore](https://arxiv.org/abs/2305.06311), [Knowledge Conflict](https://arxiv.org/abs/2305.13300), and [MagicBrush](https://osu-nlp-group.github.io/MagicBrush/).
 - 05/2023: Unified Retriever was accepted to KDD'23.
 - 05/2023: LLM-QA4RE was accepted to Findings of ACL'23.
