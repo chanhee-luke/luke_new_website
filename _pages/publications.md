@@ -19,11 +19,11 @@ Yuxuan Sun, Chenglu Zhu, Sunyi Zheng, <u>Kai Zhang</u>, Zhongyi Shui, Xiaoxuan Y
 
 Renze Lou, <u>Kai Zhang</u>, and Wenpeng Yin. **Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning**. In Arxiv [[Paper](https://arxiv.org/abs/2303.10475)] [[Reading List](https://github.com/RenzeLou/awesome-instruction-learning)]
 
-Yunxiang Li, Zihan Li, <u>Kai Zhang</u>, Ruilong Dan, and You Zhang. **ChatDoctor: A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge**. In Arxiv [[Paper](https://arxiv.org/abs/2303.14070)] [[Code](https://github.com/Kent0n-Li/ChatDoctor)]
-
 ## Publications
 
 Tao Shen, Xiubo Geng, Chongyang Tao, Can Xu, <u>Kai Zhang</u>, and Daxin Jiang. **UnifieR: A Unified Retriever for Large-Scale Retrieval**. In KDD'23 [[Paper](https://arxiv.org/abs/2205.11194)] [[Code](https://github.com/taoshen58/UnifieR)]
+
+Yunxiang Li, Zihan Li, <u>Kai Zhang</u>, Ruilong Dan, and You Zhang. **ChatDoctor: A Medical Chat Model Fine-Tuned on a Large Language Model Meta-AI (LLaMA) Using Medical Domain Knowledge**. In Cureus [[Paper](https://arxiv.org/abs/2303.14070)] [[Code](https://github.com/Kent0n-Li/ChatDoctor)]
 
 <u>Kai Zhang</u>, Bernal Jiménez Gutiérrez, and Yu Su. **Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors**. In Findings of ACL'23 \[[Paper](https://arxiv.org/abs/2305.11159)\] [[Code](https://github.com/OSU-NLP-Group/QA4RE)] [[Slides](/files/paper_slides/QA4RE_ACL23.pdf)]
 

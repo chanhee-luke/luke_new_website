@@ -14,11 +14,11 @@ I am a second-year PhD student fortunately advised by Prof. [Yu Su](https://ysu1
 
 <!-- Here is my [CV](/files/cv_open.pdf) (updated in Jan 2023).-->
 
-I am broadly interested in Natural Language Processing. Recently, I am exploring Large Language Models through the lens of Knowledge, Multimodal, and Mixture of Experts.
+I am broadly interested in Natural Language Processing and its real-world applications like Information Extraction and Information Retrieval. Recently, I am exploring Large Language Models through the lens of Knowledge and Multimodal.
 
 ## News 
 
-- 08/2023: Very excited to start my internship at Google DeepMind (Previously Google Brain)!
+- 08/2023: Excited to start my internship at Google DeepMind (Previously Google Brain)!
 - 06/2023: Check out my recent work: [AttrScore](https://arxiv.org/abs/2305.06311), [Knowledge Conflict](https://arxiv.org/abs/2305.13300), and [MagicBrush](https://osu-nlp-group.github.io/MagicBrush/).
 - 05/2023: Unified Retriever was accepted to KDD'23.
 - 05/2023: LLM-QA4RE was accepted to Findings of ACL'23.
