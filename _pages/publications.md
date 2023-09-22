@@ -9,8 +9,6 @@ author_profile: true
 
 ## Preprints
 
-<u>Kai Zhang</u>\*, Lingbo Mo*, Wenhu Chen, Huan Sun, and Yu Su. **MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing**. In Arxiv [[Paper](https://arxiv.org/abs/2306.10012)] [[Project Page](https://osu-nlp-group.github.io/MagicBrush/)]
-
 \# Jian Xie\*, <u>Kai Zhang</u>\*, Jiangjie Chen, Renze Lou, and Yu Su. ***Adaptive Chameleon or Stubborn Sloth*: Unraveling the Behavior of Large Language Models in Knowledge Conflicts**. In Arxiv [[Paper](https://arxiv.org/abs/2305.13300)] [[Code](https://github.com/OSU-NLP-Group/LLM-Knowledge-Conflict)]
 
 Xiang Yue, Boshi Wang, <u>Kai Zhang</u>, Ziru Chen, Yu Su, and Huan Sun. **Automatic Evaluation of Attribution by Large Language Models**. In Arxiv [[Paper](https://arxiv.org/abs/2305.06311)] [[Code](https://github.com/OSU-NLP-Group/AttrScore)]
@@ -20,6 +18,8 @@ Yuxuan Sun, Chenglu Zhu, Sunyi Zheng, <u>Kai Zhang</u>, Zhongyi Shui, Xiaoxuan Y
 Renze Lou, <u>Kai Zhang</u>, and Wenpeng Yin. **Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning**. In Arxiv [[Paper](https://arxiv.org/abs/2303.10475)] [[Reading List](https://github.com/RenzeLou/awesome-instruction-learning)]
 
 ## Publications
+
+<u>Kai Zhang</u>\*, Lingbo Mo*, Wenhu Chen, Huan Sun, and Yu Su. **MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing**. In NeurIPS'23 [[Paper](https://arxiv.org/abs/2306.10012)] [[Project Page](https://osu-nlp-group.github.io/MagicBrush/)]
 
 Tao Shen, Xiubo Geng, Chongyang Tao, Can Xu, <u>Kai Zhang</u>, and Daxin Jiang. **UnifieR: A Unified Retriever for Large-Scale Retrieval**. In KDD'23 [[Paper](https://arxiv.org/abs/2205.11194)] [[Code](https://github.com/taoshen58/UnifieR)]
 

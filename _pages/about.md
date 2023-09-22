@@ -18,6 +18,7 @@ I am broadly interested in Natural Language Processing and its real-world applic
 
 ## News 
 
+- 09/2023: MagicBrush was accepted to NeurIPS'23 Dataset&Benchmark Track.
 - 08/2023: Excited to start my internship at Google DeepMind (Previously Google Brain)!
 - 06/2023: Check out my recent work: [AttrScore](https://arxiv.org/abs/2305.06311), [Knowledge Conflict](https://arxiv.org/abs/2305.13300), and [MagicBrush](https://osu-nlp-group.github.io/MagicBrush/).
 - 05/2023: Unified Retriever was accepted to KDD'23.
@@ -29,7 +30,7 @@ I am broadly interested in Natural Language Processing and its real-world applic
 
 See full list in [Publications](/publications/) (\* indicates equal contribution, # indicates work (co-)supervised by me.)
 
-<u>Kai Zhang</u>\*, Lingbo Mo*, Wenhu Chen, Huan Sun, and Yu Su. **MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing**. In Arxiv [[Paper](https://arxiv.org/abs/2306.10012)] [[Project Page](https://osu-nlp-group.github.io/MagicBrush/)]
+<u>Kai Zhang</u>\*, Lingbo Mo*, Wenhu Chen, Huan Sun, and Yu Su. **MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing**. In NeurIPS'23 [[Paper](https://arxiv.org/abs/2306.10012)] [[Project Page](https://osu-nlp-group.github.io/MagicBrush/)]
 
 \# Jian Xie\*, <u>Kai Zhang</u>\*, Jiangjie Chen, Renze Lou, and Yu Su. ***Adaptive Chameleon or Stubborn Sloth*: Unraveling the Behavior of Large Language Models in Knowledge Conflicts**. In Arxiv [[Paper](https://arxiv.org/abs/2305.13300)] [[Code](https://github.com/OSU-NLP-Group/LLM-Knowledge-Conflict)]
 
