@@ -9,7 +9,9 @@ author_profile: true
 
 ## Preprints
 
-\# Jian Xie\*, <u>Kai Zhang</u>\*, Jiangjie Chen, Renze Lou, and Yu Su. ***Adaptive Chameleon or Stubborn Sloth*: Unraveling the Behavior of Large Language Models in Knowledge Conflicts**. In Arxiv [[Paper](https://arxiv.org/abs/2305.13300)] [[Code](https://github.com/OSU-NLP-Group/LLM-Knowledge-Conflict)]
+Max Ku, Tianle Li, <u>Kai Zhang</u>, Yujie Lu, Xingyu Fu, Wenwen Zhuang, and Wenhu Chen. **ImagenHub: Standardizing the Evaluation of Conditional Image Generation Models**. In Arix [[Paper](https://arxiv.org/abs/2310.01596)] [[Project Page](https://tiger-ai-lab.github.io/ImagenHub/)]
+
+\# Jian Xie\*, <u>Kai Zhang</u>\*, Jiangjie Chen, Renze Lou, and Yu Su. ***Adaptive Chameleon or Stubborn Sloth*: Revealing the Behavior of Large Language Models in Knowledge Conflicts**. In Arxiv [[Paper](https://arxiv.org/abs/2305.13300)] [[Code](https://github.com/OSU-NLP-Group/LLM-Knowledge-Conflict)]
 
 Xiang Yue, Boshi Wang, <u>Kai Zhang</u>, Ziru Chen, Yu Su, and Huan Sun. **Automatic Evaluation of Attribution by Large Language Models**. In Arxiv [[Paper](https://arxiv.org/abs/2305.06311)] [[Code](https://github.com/OSU-NLP-Group/AttrScore)]
 
