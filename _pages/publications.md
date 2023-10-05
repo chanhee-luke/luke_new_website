@@ -9,6 +9,8 @@ author_profile: true
 
 ## Preprints
 
+\# Yuxuan Sun\*, <u>Kai Zhang</u>\*, Yu Su. **Multimodal Question Answering for Unified Information Extraction**. In Arxiv [[Paper](https://arxiv.org/abs/2310.03017)] [[Code](https://github.com/OSU-NLP-Group/MQA)]
+
 Max Ku, Tianle Li, <u>Kai Zhang</u>, Yujie Lu, Xingyu Fu, Wenwen Zhuang, and Wenhu Chen. **ImagenHub: Standardizing the Evaluation of Conditional Image Generation Models**. In Arxiv [[Paper](https://arxiv.org/abs/2310.01596)] [[Project Page](https://tiger-ai-lab.github.io/ImagenHub/)]
 
 \# Jian Xie\*, <u>Kai Zhang</u>\*, Jiangjie Chen, Renze Lou, and Yu Su. ***Adaptive Chameleon or Stubborn Sloth*: Revealing the Behavior of Large Language Models in Knowledge Conflicts**. In Arxiv [[Paper](https://arxiv.org/abs/2305.13300)] [[Code](https://github.com/OSU-NLP-Group/LLM-Knowledge-Conflict)]
