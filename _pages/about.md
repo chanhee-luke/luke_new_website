@@ -14,7 +14,7 @@ I am a second-year PhD student fortunately advised by Prof. [Yu Su](https://ysu1
 
 <!-- Here is my [CV](/files/cv_open.pdf) (updated in Jan 2023).-->
 
-I am broadly interested in Natural Language Processing and its real-world applications like Information Extraction and Information Retrieval. Recently, I am exploring Large Language Models through the lens of Knowledge and Multimodal.
+I am broadly interested in Natural Language Processing and its real-world applications such as Information Extraction and Information Retrieval. Recently, I am exploring Large Language Models through the lens of Knowledge and Multimodal.
 
 ## News 
 
@@ -49,7 +49,7 @@ WWW'23; KDD'23; SDM'24
 
 AAAI'23-24; NeurIPS'23; ICLR'24; ICML'23-ToM; NeurIPS'23-FoMo
 
-## Talk
+## Invited Talk
 
 **Task Alignment in Instruction-tuned LLMs for Relation Extraction (LLM-QA4RE)** [[Slides](/files/paper_slides/QA4RE_ACL23.pdf)]
 
