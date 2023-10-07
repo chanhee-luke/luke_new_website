@@ -18,6 +18,7 @@ I am broadly interested in Natural Language Processing and its real-world applic
 
 ## News 
 
+- 10/2023: Attribution Evaluation was accepted to Findings of EMNLP'23.
 - 09/2023: [Knowledge Conflict](https://arxiv.org/abs/2305.13300) was updated with more open-sourced models, check it out :)
 - 09/2023: MagicBrush was accepted to NeurIPS'23 Datasets and Benchmarks Track.
 - 08/2023: Excited to start my internship at Google DeepMind (Previously Google Brain)!
