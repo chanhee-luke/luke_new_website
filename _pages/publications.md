@@ -21,7 +21,7 @@ Renze Lou, <u>Kai Zhang</u>, and Wenpeng Yin. **Is Prompt All You Need? No. A Co
 
 ## Publications
 
-Xiang Yue, Boshi Wang, Ziru Chen\*, <u>Kai Zhang</u>\*, Yu Su, and Huan Sun. **Automatic Evaluation of Attribution by Large Language Models**. In Findings of EMNLP'23 [[Paper](https://arxiv.org/abs/2305.06311)] [[Code](https://github.com/OSU-NLP-Group/AttrScore)]
+Xiang Yue, Boshi Wang, Ziru Chen, <u>Kai Zhang</u>, Yu Su, and Huan Sun. **Automatic Evaluation of Attribution by Large Language Models**. In Findings of EMNLP'23 [[Paper](https://arxiv.org/abs/2305.06311)] [[Code](https://github.com/OSU-NLP-Group/AttrScore)]
 
 <u>Kai Zhang</u>\*, Lingbo Mo*, Wenhu Chen, Huan Sun, and Yu Su. **MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing**. In NeurIPS'23 Datasets and Benchmarks [[Paper](https://arxiv.org/abs/2306.10012)] [[Project Page](https://osu-nlp-group.github.io/MagicBrush/)]
 
