@@ -8,13 +8,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second-year PhD student fortunately advised by Prof. [Yu Su](https://ysu1989.github.io) at The Ohio State University.  Meanwhile, I am a part-time Student Researcher at Google DeepMind.
+I am a second-year PhD student fortunately advised by Prof. [Yu Su](https://ysu1989.github.io) at The Ohio State University. Meanwhile, I am a part-time Student Researcher at Google DeepMind.
 
 <!-- Previously, I worked with Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/) at Tsinghua University, Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) at Dartmouth College, and Dr. [Daxin Jiang](https://scholar.google.com/citations?user=N-wAHCoAAAAJ&hl=zh-CN) at Microsoft.-->
 
 <!-- Here is my [CV](/files/cv_open.pdf) (updated in Jan 2023).-->
 
 I am broadly interested in Natural Language Processing and its real-world applications such as Information Extraction and Information Retrieval. Recently, I am exploring Large Language Models through the lens of Knowledge and Multimodal.
+
+My recent favorite work is exploring whether LLMs can successfully use external knowledge, especially when that conflicts with what LLMs have in their memory: [LLM Knowledge Conflicts](https://arxiv.org/abs/2305.13300)
 
 ## News 
 
