@@ -52,6 +52,8 @@ WWW'23; KDD'23; SDM'24
 
 AAAI'23-24; NeurIPS'23; ICLR'24; ICML'23-ToM; NeurIPS'23-FoMo
 
+CVPR'24
+
 ## Invited Talk
 
 **Task Alignment in Instruction-tuned LLMs for Relation Extraction (LLM-QA4RE)** [[Slides](/files/paper_slides/QA4RE_ACL23.pdf)]
