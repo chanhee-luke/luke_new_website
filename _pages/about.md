@@ -35,7 +35,7 @@ See full list in [Publications](/publications/) (\* indicates equal contribution
 
 Xiang Yue\*, Yuansheng Ni\*, <u>Kai Zhang</u>\*, Tianyu Zheng\*, Ruoqi Liu, Ge Zhang, Samuel Stevens, Dongfu Jiang, Weiming Ren, Yuxuan Sun, Cong Wei, Botao Yu, Ruibin Yuan, Renliang Sun, Ming Yin, Boyuan Zheng, Zhenzhu Yang, Yibo Liu, Wenhao Huang, Huan Sun, Yu Su, and Wenhu Chen. **A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI**. In Arxiv [[Paper](https://arxiv.org/abs/2311.16502)] [[Project](https://mmmu-benchmark.github.io)] [[Code](https://github.com/MMMU-Benchmark/MMMU)] [[Data](https://huggingface.co/datasets/MMMU/MMMU)]
 
-<u>Kai Zhang</u>\*, Lingbo Mo\*, Wenhu Chen, Huan Sun, and Yu Su. **MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing**. In NeurIPS'23 Datasets and Benchmarks [[Paper](https://arxiv.org/abs/2306.10012)] [[Project Page](https://osu-nlp-group.github.io/MagicBrush/)]
+<u>Kai Zhang</u>\*, Lingbo Mo\*, Wenhu Chen, Huan Sun, and Yu Su. **MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing**. In NeurIPS'23 Datasets and Benchmarks [[Paper](https://arxiv.org/abs/2306.10012)] [[Project Page](https://osu-nlp-group.github.io/MagicBrush/)] [[Code](https://github.com/OSU-NLP-Group/MagicBrush)] [[Data](https://huggingface.co/datasets/osunlp/MagicBrush)]
 
 \# Jian Xie\*, <u>Kai Zhang</u>\*, Jiangjie Chen, Renze Lou, and Yu Su. ***Adaptive Chameleon or Stubborn Sloth*: Revealing the Behavior of Large Language Models in Knowledge Conflicts**. In Arxiv [[Paper](https://arxiv.org/abs/2305.13300)] [[Code](https://github.com/OSU-NLP-Group/LLM-Knowledge-Conflict)]
 
