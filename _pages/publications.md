@@ -9,6 +9,8 @@ author_profile: true
 
 ## Preprints
 
+Xiang Yue*, Yuansheng Ni*, <u>Kai Zhang</u>\*, Tianyu Zheng*, Ruoqi Liu, Ge Zhang, Samuel Stevens, Dongfu Jiang, Weiming Ren, Yuxuan Sun, Cong Wei, Botao Yu, Ruibin Yuan, Renliang Sun, Ming Yin, Boyuan Zheng, Zhenzhu Yang, Yibo Liu, Wenhao Huang, Huan Sun, Yu Su, Wenhu Chen. **A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI**. In Arxiv [[Paper](https://arxiv.org/abs/2311.16502)] [[Project](https://mmmu-benchmark.github.io)] [[Code](https://github.com/MMMU-Benchmark/MMMU)] [[Data](https://huggingface.co/datasets/MMMU/MMMU)]
+
 \# Yuxuan Sun\*, <u>Kai Zhang</u>\*, Yu Su. **Multimodal Question Answering for Unified Information Extraction**. In Arxiv [[Paper](https://arxiv.org/abs/2310.03017)] [[Code](https://github.com/OSU-NLP-Group/MQA)]
 
 Max Ku, Tianle Li, <u>Kai Zhang</u>, Yujie Lu, Xingyu Fu, Wenwen Zhuang, and Wenhu Chen. **ImagenHub: Standardizing the Evaluation of Conditional Image Generation Models**. In Arxiv [[Paper](https://arxiv.org/abs/2310.01596)] [[Project Page](https://tiger-ai-lab.github.io/ImagenHub/)]

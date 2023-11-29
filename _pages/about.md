@@ -19,7 +19,7 @@ I am broadly interested in Natural Language Processing and its real-world applic
 My recent favorite work is [LLM Knowledge Conflict](https://arxiv.org/abs/2305.13300): we explored whether LLMs can successfully use external information (like New Bing and ChatGPT with Internet), especially when that conflicts with what LLMs have in their memory.
 
 ## News 
-
+- 11/2023: Released [MMMU Benchmark](https://mmmu-benchmark.github.io) for massive large multimodal models evaluation!
 - 10/2023: Attribution Evaluation was accepted to Findings of EMNLP'23.
 - 09/2023: [Knowledge Conflict](https://arxiv.org/abs/2305.13300) was updated with more open-sourced models, check it out :)
 - 09/2023: MagicBrush was accepted to NeurIPS'23 Datasets and Benchmarks Track.
@@ -32,6 +32,10 @@ My recent favorite work is [LLM Knowledge Conflict](https://arxiv.org/abs/2305.1
 ## Selected Publications
 
 See full list in [Publications](/publications/) (\* indicates equal contribution, # indicates work (co-)supervised by me.)
+
+Xiang Yue*, Yuansheng Ni*, <u>Kai Zhang</u>\*, Tianyu Zheng*, Ruoqi Liu, Ge Zhang, Samuel Stevens, Dongfu Jiang, Weiming Ren, Yuxuan Sun, Cong Wei, Botao Yu, Ruibin Yuan, Renliang Sun, Ming Yin, Boyuan Zheng, Zhenzhu Yang, Yibo Liu, Wenhao Huang, Huan Sun, Yu Su, Wenhu Chen. **A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI**. In Arxiv [[Paper](https://arxiv.org/abs/2311.16502)] [[Project](https://mmmu-benchmark.github.io)] [[Code](https://github.com/MMMU-Benchmark/MMMU)] [[Data](https://huggingface.co/datasets/MMMU/MMMU)]
+
+<u>Kai Zhang</u>\*, Lingbo Mo*, Wenhu Chen, Huan Sun, and Yu Su. **MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing**. In NeurIPS'23 Datasets and Benchmarks [[Paper](https://arxiv.org/abs/2306.10012)] [[Project Page](https://osu-nlp-group.github.io/MagicBrush/)]
 
 <u>Kai Zhang</u>\*, Lingbo Mo*, Wenhu Chen, Huan Sun, and Yu Su. **MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing**. In NeurIPS'23 Datasets and Benchmarks [[Paper](https://arxiv.org/abs/2306.10012)] [[Project Page](https://osu-nlp-group.github.io/MagicBrush/)]
 
