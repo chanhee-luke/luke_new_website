@@ -41,9 +41,9 @@ Fanwei Zhu, Yuan Fang, <u>Kai Zhang</u>$\dagger$, Kevin Chen-Chuan Chang, Hongta
 
 Weicheng Ma\*, <u>Kai Zhang</u>\*, Renze Lou, Lili Wang, and Soroush Vosoughi. **Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks**. In ACL'21 (Oral) \[[Paper](https://aclanthology.org/2021.acl-long.152)\] \[[Code](https://github.com/hikari-NYU/Contributions-of-Transformer-Attention-Heads-in-Multi--and-Cross-lingual-Tasks)\]
 
-\# Yutong Wang\*, Renze Lou\*, <u>Kai Zhang</u>\*, Maoyan Chen, and Yujiu Yang. **MORE: A Metric Learning Based Framework for Open-Domain Relation Extraction**. In ICASSP 2021 \[[Paper](https://ieeexplore.ieee.org/document/9413437)\] \[[Code](https://github.com/RenzeLou/MORE)\]
+<!--\# Yutong Wang\*, Renze Lou\*, <u>Kai Zhang</u>\*, Maoyan Chen, and Yujiu Yang. **MORE: A Metric Learning Based Framework for Open-Domain Relation Extraction**. In ICASSP 2021 \[[Paper](https://ieeexplore.ieee.org/document/9413437)\] \[[Code](https://github.com/RenzeLou/MORE)\]
 
-\# Jian Xie\*, <u>Kai Zhang</u>\*, Lin Sun, Yindu Su, and Chenxiang Xu. **Improving Social Media NER via Entity Type-Compatible Unknown Word Substitution**. In ICASSP 2021 \[[Paper](https://ieeexplore.ieee.org/document/9414304)\] \[[Code](https://github.com/HsaXie/Entity-Type-Compatible-Unknown-Word-Substitution)\]
+\# Jian Xie\*, <u>Kai Zhang</u>\*, Lin Sun, Yindu Su, and Chenxiang Xu. **Improving Social Media NER via Entity Type-Compatible Unknown Word Substitution**. In ICASSP 2021 \[[Paper](https://ieeexplore.ieee.org/document/9414304)\] \[[Code](https://github.com/HsaXie/Entity-Type-Compatible-Unknown-Word-Substitution)\] -->
 
 Lin Sun\*, Jiquan Wang\*, <u>Kai Zhang</u>, Fangsheng Weng, and Yindu Su. **RpBERT: A Text-image Relation Propagation-based BERT Model for Multimodal NER**. In AAAI'21 \[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/17633)\] \[[Code](https://github.com/Multimodal-NER/RpBERT)\]
 
