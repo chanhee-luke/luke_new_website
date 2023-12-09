@@ -19,11 +19,13 @@ Max Ku, Tianle Li, <u>Kai Zhang</u>, Yujie Lu, Xingyu Fu, Wenwen Zhuang, and Wen
 
 \# Jian Xie\*, <u>Kai Zhang</u>\*, Jiangjie Chen, Renze Lou, and Yu Su. ***Adaptive Chameleon or Stubborn Sloth*: Revealing the Behavior of Large Language Models in Knowledge Conflicts**. In Arxiv [[Paper](https://arxiv.org/abs/2305.13300)] [[Code](https://github.com/OSU-NLP-Group/LLM-Knowledge-Conflict)]
 
-Yuxuan Sun, Chenglu Zhu, Sunyi Zheng, <u>Kai Zhang</u>, Zhongyi Shui, Xiaoxuan Yu, Yizhi Zhao, Honglin Li, Yunlong Zhang, Ruojia Zhao, Xinheng Lyu, and Lin Yang. **PathAsst: Redefining Pathology through Generative Foundation AI Assistant for Pathology**. In Arxiv [[Paper](https://arxiv.org/abs/2305.15072)] [[Code](https://github.com/superjamessyx/Generative-Foundation-AI-Assistant-for-Pathology)]
-
 Renze Lou, <u>Kai Zhang</u>, and Wenpeng Yin. **Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning**. In Arxiv [[Paper](https://arxiv.org/abs/2303.10475)] [[Reading List](https://github.com/RenzeLou/awesome-instruction-learning)]
 
 ## Publications
+
+\# Lin Sun\*, <u>Kai Zhang</u>\*, Qingyuan Li, and Renze Lou. **UMIE: Unified Multimodal Information Extraction with Instruction Tuning**. In AAAI 2024 [[Paper Coming Soon]()] [[Code Coming Soon]()]
+
+Yuxuan Sun, Chenglu Zhu, Sunyi Zheng, <u>Kai Zhang</u>, Zhongyi Shui, Xiaoxuan Yu, Yizhi Zhao, Honglin Li, Yunlong Zhang, Ruojia Zhao, Xinheng Lyu, and Lin Yang. **PathAsst: Redefining Pathology through Generative Foundation AI Assistant for Pathology**. In AAAI 2024 [[Paper](https://arxiv.org/abs/2305.15072)] [[Code](https://github.com/superjamessyx/Generative-Foundation-AI-Assistant-for-Pathology)]
 
 Xiang Yue, Boshi Wang, Ziru Chen, <u>Kai Zhang</u>, Yu Su, and Huan Sun. **Automatic Evaluation of Attribution by Large Language Models**. In Findings of EMNLP'23 [[Paper](https://arxiv.org/abs/2305.06311)] [[Code](https://github.com/OSU-NLP-Group/AttrScore)]
 
