@@ -14,7 +14,7 @@ I am a second-year PhD student fortunately advised by Prof. [Yu Su](https://ysu1
 
 <!-- Here is my [CV](/files/cv_open.pdf) (updated in Jan 2023).-->
 
-I am broadly interested in Natural Language Processing and its real-world applications such as Information Extraction and Information Retrieval. Recently, I am exploring Large Language Models through the lens of Knowledge and Multimodal.
+I am broadly interested in Natural Language Processing and its real-world applications such as Information Extraction and Information Retrieval. These days, I am exploring Large Language Models through the lens of Knowledge and Multimodality.
 
 My recent favorite work is [LLM Knowledge Conflict](https://arxiv.org/abs/2305.13300): we explored whether LLMs can successfully use external information (like New Bing and ChatGPT with Internet), especially when that conflicts with what LLMs have in their memory.
 
