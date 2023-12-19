@@ -9,7 +9,7 @@ author_profile: true
 
 ## Preprints
 
-Xiang Yue\*, Yuansheng Ni\*, <u>Kai Zhang</u>\*, Tianyu Zheng\*, Ruoqi Liu, Ge Zhang, Samuel Stevens, Dongfu Jiang, Weiming Ren, Yuxuan Sun, Cong Wei, Botao Yu, Ruibin Yuan, Renliang Sun, Ming Yin, Boyuan Zheng, Zhenzhu Yang, Yibo Liu, Wenhao Huang, Huan Sun, Yu Su, and Wenhu Chen. **A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI**. In Arxiv [[Paper](https://arxiv.org/abs/2311.16502)] [[Project Page](https://mmmu-benchmark.github.io)] [[Code](https://github.com/MMMU-Benchmark/MMMU)] [[Data](https://huggingface.co/datasets/MMMU/MMMU)]
+Xiang Yue, Yuansheng Ni, <u>Kai Zhang</u>, Tianyu Zheng, Ruoqi Liu, Ge Zhang, Samuel Stevens, Dongfu Jiang, Weiming Ren, Yuxuan Sun, Cong Wei, Botao Yu, Ruibin Yuan, Renliang Sun, Ming Yin, Boyuan Zheng, Zhenzhu Yang, Yibo Liu, Wenhao Huang, Huan Sun, Yu Su, and Wenhu Chen. **A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI**. In Arxiv [[Paper](https://arxiv.org/abs/2311.16502)] [[Project Page](https://mmmu-benchmark.github.io)] [[Code](https://github.com/MMMU-Benchmark/MMMU)] [[Data](https://huggingface.co/datasets/MMMU/MMMU)]
 
 Renze Lou, <u>Kai Zhang</u>, Jian Xie, Yuxuan Sun, Janice Ahn, Hanzi Xu, Yu Su, and Wenpeng Yin. **MUFFIN: Curating Multi-Faceted Instructions for Improving Instruction-Following**. In Arxiv [[Paper](https://arxiv.org/abs/2312.02436)] [[Project Page](https://renzelou.github.io/Muffin/)] [[Code](https://github.com/RenzeLou/Muffin)]
 
