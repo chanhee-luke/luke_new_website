@@ -19,7 +19,7 @@ I am broadly interested in Natural Language Processing and its real-world applic
 My recent favorite work is [LLM Knowledge Conflict](https://arxiv.org/abs/2305.13300): we explored whether LLMs can successfully use external information (like New Bing and ChatGPT with Internet), especially when that conflicts with LLMs' parametric memory.
 
 ## News 
-<!-- - 11/2023: Released [MMMU Benchmark](https://mmmu-benchmark.github.io) for massive perception, knowledge, and reasoning evaluation on large multimodal models. -->
+- 11/2023: Released [MMMU Benchmark](https://mmmu-benchmark.github.io) for massive perception, knowledge, and reasoning evaluation on large multimodal models.
 - 10/2023: Attribution Evaluation was accepted to Findings of EMNLP'23.
 - 09/2023: [Knowledge Conflict](https://arxiv.org/abs/2305.13300) was updated with more open-sourced models, check it out :)
 - 09/2023: MagicBrush was accepted to NeurIPS'23 Datasets and Benchmarks Track.
@@ -50,7 +50,7 @@ ARR (since 22); CCKS'22-23; EMNLP'22-23; EMNLP'23-Industry; ACL'23
 
 WWW'23; KDD'23; SDM'24
 
-AAAI'23-24; NeurIPS'23; ICLR'24; ICML'23-ToM; NeurIPS'23-FoMo
+AAAI'23-24; NeurIPS'23; ICLR'24; ICML'24
 
 CVPR'24
 
