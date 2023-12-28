@@ -46,7 +46,7 @@ See full list in [Publications](/publications/) (\* indicates equal contribution
 
 **PC Member/Reviewer**:
 
-ARR (since 22); CCKS'22-23; EMNLP'22-23; EMNLP'23-Industry; ACL'23
+ARR (since 22); CCKS'22-23; EMNLP'22-23; ACL'23; NAACL'24
 
 WWW'23; KDD'23; SDM'24
 
