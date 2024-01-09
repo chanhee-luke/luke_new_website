@@ -23,7 +23,7 @@ Renze Lou, <u>Kai Zhang</u>, and Wenpeng Yin. **Is Prompt All You Need? No. A Co
 
 ## Publications
 
-\# Lin Sun\*, <u>Kai Zhang</u>\*, Qingyuan Li, and Renze Lou. **UMIE: Unified Multimodal Information Extraction with Instruction Tuning**. In AAAI'24 [[Paper Coming Soon]()] [[Code](https://github.com/ZUCC-AI/UMIE)]
+\# Lin Sun\*, <u>Kai Zhang</u>\*, Qingyuan Li\*, and Renze Lou. **UMIE: Unified Multimodal Information Extraction with Instruction Tuning**. In AAAI'24 [[Paper](https://arxiv.org/abs/2401.03082)] [[Code](https://github.com/ZUCC-AI/UMIE)]
 
 Yuxuan Sun, Chenglu Zhu, Sunyi Zheng, <u>Kai Zhang</u>, Lin Sun, Zhongyi Shui, Yunlong Zhang, Honglin Li, and Lin Yang. **PathAsst: Redefining Pathology through Generative Foundation AI Assistant for Pathology**. In AAAI'24 [[Paper](https://arxiv.org/abs/2305.15072)] [[Code](https://github.com/superjamessyx/Generative-Foundation-AI-Assistant-for-Pathology)]
 
