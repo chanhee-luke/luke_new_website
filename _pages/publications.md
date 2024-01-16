@@ -21,7 +21,7 @@ Renze Lou, <u>Kai Zhang</u>, and Wenpeng Yin. **Is Prompt All You Need? No. A Co
 
 Renze Lou, <u>Kai Zhang</u>, Jian Xie, Yuxuan Sun, Janice Ahn, Hanzi Xu, Yu Su, and Wenpeng Yin. **MUFFIN: Curating Multi-Faceted Instructions for Improving Instruction-Following**. In ICLR'24 [[Paper](https://arxiv.org/abs/2312.02436)] [[Project Page](https://renzelou.github.io/Muffin/)] [[Code](https://github.com/RenzeLou/Muffin)]
 
-Max Ku, Tianle Li, <u>Kai Zhang</u>, Yujie Lu, Xingyu Fu, Wenwen Zhuang, and Wenhu Chen. **ImagenHub: Standardizing the Evaluation of Conditional Image Generation Models**. In ICLR'24 [[Paper](https://arxiv.org/abs/2310.01596)] [[Project Page](https://tiger-ai-lab.github.io/ImagenHub/)]
+Max Ku, Tianle Li, <u>Kai Zhang</u>, Yujie Lu, Xingyu Fu, Wenwen Zhuang, and Wenhu Chen. **ImagenHub: Standardizing the Evaluation of Conditional Image Generation Models**. In ICLR'24 [[Paper](https://arxiv.org/abs/2310.01596)] [[Project Page](https://tiger-ai-lab.github.io/ImagenHub/)] [[Code](https://github.com/TIGER-AI-Lab/ImagenHub)]
 
 \# Lin Sun\*, <u>Kai Zhang</u>\*, Qingyuan Li\*, and Renze Lou. **UMIE: Unified Multimodal Information Extraction with Instruction Tuning**. In AAAI'24 [[Paper](https://arxiv.org/abs/2401.03082)] [[Code](https://github.com/ZUCC-AI/UMIE)]
 
