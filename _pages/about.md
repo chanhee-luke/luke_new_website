@@ -19,7 +19,7 @@ I am broadly interested in Natural Language Processing and its real-world applic
 My recent favorite work is [LLM Knowledge Conflict](https://arxiv.org/abs/2305.13300): we explored whether LLMs can successfully use external information (like New Bing and ChatGPT with Internet), especially when that conflicts with LLMs' parametric memory.
 
 ## News 
-- 01/2024: Three papers got accpeted to ICLR'24: [Knowledge Conflict](https://arxiv.org/abs/2305.13300) (<font color="#df1a7d">**Spotlight**</font>), [MUFFIN](https://arxiv.org/abs/2312.02436), and [ImagenHub](https://arxiv.org/abs/2310.01596).
+- 01/2024: Three papers got accpeted to ICLR'24: [Knowledge Conflict](https://arxiv.org/abs/2305.13300) (<font color="#df1a7d">Spotlight</font>), [MUFFIN](https://arxiv.org/abs/2312.02436), and [ImagenHub](https://arxiv.org/abs/2310.01596).
 - 11/2023: Released [MMMU Benchmark](https://mmmu-benchmark.github.io) for massive perception, knowledge, and reasoning evaluation on large multimodal models.
 - 10/2023: Attribution Evaluation was accepted to Findings of EMNLP'23.
 - 09/2023: [Knowledge Conflict](https://arxiv.org/abs/2305.13300) was updated with more open-sourced models, check it out :)
