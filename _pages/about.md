@@ -33,9 +33,9 @@ My recent favorite work is [LLM Knowledge Conflict](https://arxiv.org/abs/2305.1
 
 See full list in [Publications](/publications/) (\* indicates equal contribution, # indicates work (co-)supervised by me.)
 
-<u>Kai Zhang</u>\*, Lingbo Mo\*, Wenhu Chen, Huan Sun, and Yu Su. **MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing**. In NeurIPS'23 Datasets and Benchmarks [[Paper](https://arxiv.org/abs/2306.10012)] [[Project Page](https://osu-nlp-group.github.io/MagicBrush/)] [[Code](https://github.com/OSU-NLP-Group/MagicBrush)] [[Data](https://huggingface.co/datasets/osunlp/MagicBrush)]
-
 \# Jian Xie\*, <u>Kai Zhang</u>\*, Jiangjie Chen, Renze Lou, and Yu Su. ***Adaptive Chameleon or Stubborn Sloth*: Revealing the Behavior of Large Language Models in Knowledge Conflicts**. In ICLR'24 (**Spotlight**) [[Paper](https://arxiv.org/abs/2305.13300)] [[Code](https://github.com/OSU-NLP-Group/LLM-Knowledge-Conflict)]
+
+<u>Kai Zhang</u>\*, Lingbo Mo\*, Wenhu Chen, Huan Sun, and Yu Su. **MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing**. In NeurIPS'23 Datasets and Benchmarks [[Paper](https://arxiv.org/abs/2306.10012)] [[Project Page](https://osu-nlp-group.github.io/MagicBrush/)] [[Code](https://github.com/OSU-NLP-Group/MagicBrush)] [[Data](https://huggingface.co/datasets/osunlp/MagicBrush)]
 
 <u>Kai Zhang</u>, Bernal Jiménez Gutiérrez, and Yu Su. **Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors**. In Findings of ACL'23 \[[Paper](https://arxiv.org/abs/2305.11159)\] [[Code](https://github.com/OSU-NLP-Group/QA4RE)] [[Slides](/files/paper_slides/QA4RE_ACL23.pdf)]
 
