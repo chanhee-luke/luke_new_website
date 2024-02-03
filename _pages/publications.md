@@ -8,6 +8,9 @@ author_profile: true
 (\*  indicates equal contribution,$\dagger$ indicates first student author, # indicates work (co-)supervised by me.)
 
 ## Preprints
+
+\# Tinghui Zhu\*, <u>Kai Zhang</u>\*, Jian Xie, Yu Su. **Deductive Beam Search: Decoding Deducible Rationale for Chain-of-Thought Reasoning**. In Arxiv [[Paper](https://arxiv.org/abs/2401.17686)] [[Code](https://github.com/OSU-NLP-Group/Deductive-Beam-Search)]
+
 Yuxuan Sun, Hao Wu, Chenglu Zhu, Sunyi Zheng, Qizi Chen, <u>Kai Zhang</u>, Yunlong Zhang, Xiaoxiao Lan, Mengyue Zheng, Jingxiong Li, Xinheng Lyu, Tao Lin, and Lin Yang.
 **PathMMU: A Massive Multimodal Expert-Level Benchmark for Understanding and Reasoning in Pathology**.
 In Arxiv [[Paper](https://arxiv.org/abs/2401.16355)] [[Project Page](https://pathmmu-benchmark.github.io/#/)] [[Code](https://github.com/PathMMU-Benchmark/PathMMU)] [[Data](https://huggingface.co/datasets/PathMMU/PathMMU)]
