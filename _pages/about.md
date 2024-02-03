@@ -18,7 +18,7 @@ I am broadly interested in Natural Language Processing and its real-world applic
 
 My recent favorite work is [LLM Knowledge Conflict](https://arxiv.org/abs/2305.13300): we explored whether LLMs can successfully use external information (like New Bing and ChatGPT with Internet), especially when that conflicts with LLMs' parametric memory.
 
-<font color="#EE7785">My smart and cute wife, <a href="https://www.linkedin.com/in/beking-0912/">Gloria Su</a >, is looking for new graduate or entry-level software engineer opportunities. With 2 YoE, she excels in React, React Native, Vue, and JavaScript/Typescript. Don't miss her! </font>.
+<font color="#df1a7d">My smart and cute wife, <a href="https://www.linkedin.com/in/beking-0912/">Gloria Su</a >, is looking for new graduate or entry-level software engineer opportunities. With 2 YoE, she excels in React, React Native, Vue, and JavaScript/Typescript. Don't miss her! </font>
 
 ## News 
 - 01/2024: Three papers got accpeted to ICLR'24: [Knowledge Conflict](https://arxiv.org/abs/2305.13300) (<font color="#df1a7d">Spotlight</font>), [MUFFIN](https://arxiv.org/abs/2312.02436), and [ImagenHub](https://arxiv.org/abs/2310.01596).
