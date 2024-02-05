@@ -9,6 +9,9 @@ author_profile: true
 
 ## Preprints
 
+\# Jian Xie\*, <u>Kai Zhang</u>\*, Jiangjie Chen, Tinghui Zhu, Renze Lou, Yuandong Tian, Yanghua Xiao, Yu Su. **TravelPlanner: A Benchmark for Real-World Planning with Language Agents**. In Arxiv [[Paper](https://arxiv.org/abs/2402.01622)] [[Project Page](https://osu-nlp-group.github.io/TravelPlanner/)]  [[Code](https://github.com/OSU-NLP-Group/TravelPlanner)]
+
+
 \# Tinghui Zhu\*, <u>Kai Zhang</u>\*, Jian Xie, Yu Su. **Deductive Beam Search: Decoding Deducible Rationale for Chain-of-Thought Reasoning**. In Arxiv [[Paper](https://arxiv.org/abs/2401.17686)] [[Code](https://github.com/OSU-NLP-Group/Deductive-Beam-Search)]
 
 Yuxuan Sun, Hao Wu, Chenglu Zhu, Sunyi Zheng, Qizi Chen, <u>Kai Zhang</u>, Yunlong Zhang, Xiaoxiao Lan, Mengyue Zheng, Jingxiong Li, Xinheng Lyu, Tao Lin, and Lin Yang.
