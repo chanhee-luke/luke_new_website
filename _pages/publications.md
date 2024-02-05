@@ -26,6 +26,8 @@ Renze Lou, <u>Kai Zhang</u>, and Wenpeng Yin. **Is Prompt All You Need? No. A Co
 
 ## Publications
 
+### 2024
+
 \# Jian Xie\*, <u>Kai Zhang</u>\*, Jiangjie Chen, Renze Lou, and Yu Su. ***Adaptive Chameleon or Stubborn Sloth*: Revealing the Behavior of Large Language Models in Knowledge Conflicts**. In ICLR'24 (**Spotlight**) [[Paper](https://arxiv.org/abs/2305.13300)] [[Code](https://github.com/OSU-NLP-Group/LLM-Knowledge-Conflict)]
 
 Renze Lou, <u>Kai Zhang</u>, Jian Xie, Yuxuan Sun, Janice Ahn, Hanzi Xu, Yu Su, and Wenpeng Yin. **MUFFIN: Curating Multi-Faceted Instructions for Improving Instruction-Following**. In ICLR'24 [[Paper](https://arxiv.org/abs/2312.02436)] [[Project Page](https://renzelou.github.io/Muffin/)] [[Code](https://github.com/RenzeLou/Muffin)]
@@ -35,6 +37,8 @@ Max Ku, Tianle Li, <u>Kai Zhang</u>, Yujie Lu, Xingyu Fu, Wenwen Zhuang, and Wen
 \# Lin Sun\*, <u>Kai Zhang</u>\*, Qingyuan Li\*, and Renze Lou. **UMIE: Unified Multimodal Information Extraction with Instruction Tuning**. In AAAI'24 (**Oral**) [[Paper](https://arxiv.org/abs/2401.03082)] [[Code](https://github.com/ZUCC-AI/UMIE)]
 
 Yuxuan Sun, Chenglu Zhu, Sunyi Zheng, <u>Kai Zhang</u>, Lin Sun, Zhongyi Shui, Yunlong Zhang, Honglin Li, and Lin Yang. **PathAsst: Redefining Pathology through Generative Foundation AI Assistant for Pathology**. In AAAI'24 (**Oral**)  [[Paper](https://arxiv.org/abs/2305.15072)] [[Code](https://github.com/superjamessyx/Generative-Foundation-AI-Assistant-for-Pathology)]
+
+### 2023
 
 Xiang Yue, Boshi Wang, Ziru Chen, <u>Kai Zhang</u>, Yu Su, and Huan Sun. **Automatic Evaluation of Attribution by Large Language Models**. In Findings of EMNLP'23 [[Paper](https://arxiv.org/abs/2305.06311)] [[Code](https://github.com/OSU-NLP-Group/AttrScore)]
 
@@ -47,6 +51,8 @@ Yunxiang Li, Zihan Li, <u>Kai Zhang</u>, Ruilong Dan, and You Zhang. **ChatDocto
 <u>Kai Zhang</u>, Bernal Jiménez Gutiérrez, and Yu Su. **Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors**. In Findings of ACL'23 \[[Paper](https://arxiv.org/abs/2305.11159)\] [[Code](https://github.com/OSU-NLP-Group/QA4RE)] [[Slides](/files/paper_slides/QA4RE_ACL23.pdf)]
 
 <u>Kai Zhang</u>, Chongyang Tao, Tao Shen, Can Xu, Xiubo Geng, Binxing Jiao, and Daxin Jiang. **LED: Lexicon-Enlightened Dense Retriever for Large-Scale Retrieval**. In WWW'23 (**Oral**) \[[Paper](https://arxiv.org/abs/2208.13661)\] [[Code](https://github.com/drogozhang/LED)] [[Slides](/files/paper_slides/LED_WWW23.pdf)]
+
+### Before PhD
 
 Weicheng Ma, Renze Lou, <u>Kai Zhang</u>, Lili Wang, and Soroush Vosoughi. **GradTS: A Gradient-Based Automatic Auxiliary Task Selection Method Based on Transformer Networks**. In EMNLP'21 \[[Paper](https://aclanthology.org/2021.emnlp-main.455)\] \[[Code](https://github.com/RenzeLou/GradTS)\]
 
