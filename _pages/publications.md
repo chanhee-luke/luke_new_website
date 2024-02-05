@@ -7,7 +7,7 @@ author_profile: true
 
 (\*  indicates equal contribution,$\dagger$ indicates first student author, # indicates work (co-)supervised by me.)
 
-## Preprints
+# Preprints
 
 \# Jian Xie\*, <u>Kai Zhang</u>\*, Jiangjie Chen, Tinghui Zhu, Renze Lou, Yuandong Tian, Yanghua Xiao, Yu Su. **TravelPlanner: A Benchmark for Real-World Planning with Language Agents**. In Arxiv [[Paper](https://arxiv.org/abs/2402.01622)] [[Project Page](https://osu-nlp-group.github.io/TravelPlanner/)]  [[Code](https://github.com/OSU-NLP-Group/TravelPlanner)]
 
@@ -24,9 +24,9 @@ Xiang Yue, Yuansheng Ni, <u>Kai Zhang</u>, Tianyu Zheng, Ruoqi Liu, Ge Zhang, Sa
 
 Renze Lou, <u>Kai Zhang</u>, and Wenpeng Yin. **Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning**. In Arxiv [[Paper](https://arxiv.org/abs/2303.10475)] [[Reading List](https://github.com/RenzeLou/awesome-instruction-learning)]
 
-## Publications
+# Publications
 
-### 2024
+## 2024
 
 \# Jian Xie\*, <u>Kai Zhang</u>\*, Jiangjie Chen, Renze Lou, and Yu Su. ***Adaptive Chameleon or Stubborn Sloth*: Revealing the Behavior of Large Language Models in Knowledge Conflicts**. In ICLR'24 (**Spotlight**) [[Paper](https://arxiv.org/abs/2305.13300)] [[Code](https://github.com/OSU-NLP-Group/LLM-Knowledge-Conflict)]
 
@@ -38,7 +38,7 @@ Max Ku, Tianle Li, <u>Kai Zhang</u>, Yujie Lu, Xingyu Fu, Wenwen Zhuang, and Wen
 
 Yuxuan Sun, Chenglu Zhu, Sunyi Zheng, <u>Kai Zhang</u>, Lin Sun, Zhongyi Shui, Yunlong Zhang, Honglin Li, and Lin Yang. **PathAsst: Redefining Pathology through Generative Foundation AI Assistant for Pathology**. In AAAI'24 (**Oral**)  [[Paper](https://arxiv.org/abs/2305.15072)] [[Code](https://github.com/superjamessyx/Generative-Foundation-AI-Assistant-for-Pathology)]
 
-### 2023
+## 2023
 
 Xiang Yue, Boshi Wang, Ziru Chen, <u>Kai Zhang</u>, Yu Su, and Huan Sun. **Automatic Evaluation of Attribution by Large Language Models**. In Findings of EMNLP'23 [[Paper](https://arxiv.org/abs/2305.06311)] [[Code](https://github.com/OSU-NLP-Group/AttrScore)]
 
@@ -52,7 +52,7 @@ Yunxiang Li, Zihan Li, <u>Kai Zhang</u>, Ruilong Dan, and You Zhang. **ChatDocto
 
 <u>Kai Zhang</u>, Chongyang Tao, Tao Shen, Can Xu, Xiubo Geng, Binxing Jiao, and Daxin Jiang. **LED: Lexicon-Enlightened Dense Retriever for Large-Scale Retrieval**. In WWW'23 (**Oral**) \[[Paper](https://arxiv.org/abs/2208.13661)\] [[Code](https://github.com/drogozhang/LED)] [[Slides](/files/paper_slides/LED_WWW23.pdf)]
 
-### Before PhD
+## Before PhD (2022)
 
 Weicheng Ma, Renze Lou, <u>Kai Zhang</u>, Lili Wang, and Soroush Vosoughi. **GradTS: A Gradient-Based Automatic Auxiliary Task Selection Method Based on Transformer Networks**. In EMNLP'21 \[[Paper](https://aclanthology.org/2021.emnlp-main.455)\] \[[Code](https://github.com/RenzeLou/GradTS)\]
 
