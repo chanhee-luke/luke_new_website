@@ -14,9 +14,6 @@ author_profile: true
 
 \# Tinghui Zhu\*, <u>Kai Zhang</u>\*, Jian Xie, Yu Su. **Deductive Beam Search: Decoding Deducible Rationale for Chain-of-Thought Reasoning**. In Arxiv [[Paper](https://arxiv.org/abs/2401.17686)] [[Code](https://github.com/OSU-NLP-Group/Deductive-Beam-Search)]
 
-Yuxuan Sun, Hao Wu, Chenglu Zhu, Sunyi Zheng, Qizi Chen, <u>Kai Zhang</u>, Yunlong Zhang, Xiaoxiao Lan, Mengyue Zheng, Jingxiong Li, Xinheng Lyu, Tao Lin, and Lin Yang.
-**PathMMU: A Massive Multimodal Expert-Level Benchmark for Understanding and Reasoning in Pathology**.
-In Arxiv [[Paper](https://arxiv.org/abs/2401.16355)] [[Project Page](https://pathmmu-benchmark.github.io/#/)] [[Code](https://github.com/PathMMU-Benchmark/PathMMU)] [[Data](https://huggingface.co/datasets/PathMMU/PathMMU)]
 
 Xiang Yue, Yuansheng Ni, <u>Kai Zhang</u>, Tianyu Zheng, Ruoqi Liu, Ge Zhang, Samuel Stevens, Dongfu Jiang, Weiming Ren, Yuxuan Sun, Cong Wei, Botao Yu, Ruibin Yuan, Renliang Sun, Ming Yin, Boyuan Zheng, Zhenzhu Yang, Yibo Liu, Wenhao Huang, Huan Sun, Yu Su, and Wenhu Chen. **A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI**. In Arxiv [[Paper](https://arxiv.org/abs/2311.16502)] [[Project Page](https://mmmu-benchmark.github.io)] [[Code](https://github.com/MMMU-Benchmark/MMMU)] [[Data](https://huggingface.co/datasets/MMMU/MMMU)]
 
