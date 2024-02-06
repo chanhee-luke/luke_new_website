@@ -29,8 +29,6 @@ I am interested in Natural Language Processing and its real-world applications. 
 
 See full list in [Publications](/publications/) (\* indicates equal contribution, # indicates work (co-)supervised by me.)
 
-\# Jian Xie\*, <u>Kai Zhang</u>\*, Jiangjie Chen, Tinghui Zhu, Renze Lou, Yuandong Tian, Yanghua Xiao, Yu Su. **TravelPlanner: A Benchmark for Real-World Planning with Language Agents**. In Arxiv [[Paper](https://arxiv.org/abs/2402.01622)] [[Project Page](https://osu-nlp-group.github.io/TravelPlanner/)]  [[Code](https://github.com/OSU-NLP-Group/TravelPlanner)]
-
 \# Jian Xie\*, <u>Kai Zhang</u>\*, Jiangjie Chen, Renze Lou, and Yu Su. ***Adaptive Chameleon or Stubborn Sloth*: Revealing the Behavior of Large Language Models in Knowledge Conflicts**. In ICLR'24 (**Spotlight**) [[Paper](https://arxiv.org/abs/2305.13300)] [[Code](https://github.com/OSU-NLP-Group/LLM-Knowledge-Conflict)]
 
 <u>Kai Zhang</u>\*, Lingbo Mo\*, Wenhu Chen, Huan Sun, and Yu Su. **MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing**. In NeurIPS'23 Datasets and Benchmarks [[Paper](https://arxiv.org/abs/2306.10012)] [[Project Page](https://osu-nlp-group.github.io/MagicBrush/)] [[Code](https://github.com/OSU-NLP-Group/MagicBrush)] [[Data](https://huggingface.co/datasets/osunlp/MagicBrush)]
