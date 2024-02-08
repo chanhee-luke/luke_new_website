@@ -15,7 +15,7 @@ I am interested in Natural Language Processing and its real-world applications. 
 
 <font color="#E53A40">My smart and pretty wife, <a href="https://www.linkedin.com/in/beking-0912/">Gloria Su</a >, is looking for new graduate or entry-level software engineer opportunities. With 2 YoE, she excels in React, React Native, Vue, and JavaScript/Typescript. Don't miss her! </font>
 ## News 
-- 02/2024: Released [TravelPlanner](https://osu-nlp-group.github.io/TravelPlanner/), the a real-world benchmark for planning with language agents
+- 02/2024: Released [TravelPlanner](https://osu-nlp-group.github.io/TravelPlanner/), a real-world benchmark for planning with language agents.
 - 01/2024: Three papers got accpeted to ICLR'24: [Knowledge Conflict](https://arxiv.org/abs/2305.13300) (<font color="#df1a7d">Spotlight</font>), [MUFFIN](https://arxiv.org/abs/2312.02436), and [ImagenHub](https://arxiv.org/abs/2310.01596).
 - 11/2023: Released [MMMU Benchmark](https://mmmu-benchmark.github.io) for massive perception, knowledge, and reasoning evaluation on large multimodal models.
 - 10/2023: Attribution Evaluation was accepted to Findings of EMNLP'23.
