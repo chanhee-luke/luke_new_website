@@ -65,6 +65,6 @@ CVPR'24
 
 **Email**: `[LAST_NAME].13253@osu.edu` OR `drogo[LAST_NAME]@gmail.com`
 
-Feel free to contact me if you are interested in my research or want to discuss relevant research topic or potential collaborations :)
+Feel free to contact me if you are interested in my research or want to discuss relevant research topic :)
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=312&t=tt&d=WWgOfq4agmQMsv-liNWF_IqrTiXrb-1nqoPvyzlC238'></script>
