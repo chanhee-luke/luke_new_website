@@ -11,9 +11,7 @@ author_profile: true
 
 \# Jian Xie\*, <u>Kai Zhang</u>\*, Jiangjie Chen, Tinghui Zhu, Renze Lou, Yuandong Tian, Yanghua Xiao, Yu Su. **TravelPlanner: A Benchmark for Real-World Planning with Language Agents**. In Arxiv [[Paper](https://arxiv.org/abs/2402.01622)] [[Project Page](https://osu-nlp-group.github.io/TravelPlanner/)]  [[Code](https://github.com/OSU-NLP-Group/TravelPlanner)]
 
-
 \# Tinghui Zhu\*, <u>Kai Zhang</u>\*, Jian Xie, Yu Su. **Deductive Beam Search: Decoding Deducible Rationale for Chain-of-Thought Reasoning**. In Arxiv [[Paper](https://arxiv.org/abs/2401.17686)] [[Code](https://github.com/OSU-NLP-Group/Deductive-Beam-Search)]
-
 
 Xiang Yue, Yuansheng Ni, <u>Kai Zhang</u>, Tianyu Zheng, Ruoqi Liu, Ge Zhang, Samuel Stevens, Dongfu Jiang, Weiming Ren, Yuxuan Sun, Cong Wei, Botao Yu, Ruibin Yuan, Renliang Sun, Ming Yin, Boyuan Zheng, Zhenzhu Yang, Yibo Liu, Wenhao Huang, Huan Sun, Yu Su, and Wenhu Chen. **A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI**. In Arxiv [[Paper](https://arxiv.org/abs/2311.16502)] [[Project Page](https://mmmu-benchmark.github.io)] [[Code](https://github.com/MMMU-Benchmark/MMMU)] [[Data](https://huggingface.co/datasets/MMMU/MMMU)]
 

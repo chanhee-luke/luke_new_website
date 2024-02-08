@@ -8,13 +8,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second-year PhD student fortunately advised by Prof. [Yu Su](https://ysu1989.github.io) at The Ohio State University. Meanwhile, I am a part-time Student Researcher at Google DeepMind.<!-- Here is my [CV](/files/cv_open.pdf) (updated in Jan 2024). -->
+I am a second-year PhD student fortunately advised by Prof. [Yu Su](https://ysu1989.github.io) at The Ohio State University. Meanwhile, I am a part-time Student Researcher at Google DeepMind. Here is my [CV](/files/cv_open.pdf) (updated in Jan 2024).
 <!-- Previously, I worked with Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/) at Tsinghua University, Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) at Dartmouth College, and Dr. [Daxin Jiang](https://scholar.google.com/citations?user=N-wAHCoAAAAJ&hl=zh-CN) at Microsoft.-->
 
 I am interested in Natural Language Processing and its real-world applications. These days, I am exploring LLMs through the lens of Knowledge and Multimodality.
 
 <font color="#E53A40">My smart and pretty wife, <a href="https://www.linkedin.com/in/beking-0912/">Gloria Su</a >, is looking for new graduate or entry-level software engineer opportunities. With 2 YoE, she excels in React, React Native, Vue, and JavaScript/Typescript. Don't miss her! </font>
 ## News 
+- 02/2024: Released [TravelPlanner](https://osu-nlp-group.github.io/TravelPlanner/), the a real-world benchmark for planning with language agents
 - 01/2024: Three papers got accpeted to ICLR'24: [Knowledge Conflict](https://arxiv.org/abs/2305.13300) (<font color="#df1a7d">Spotlight</font>), [MUFFIN](https://arxiv.org/abs/2312.02436), and [ImagenHub](https://arxiv.org/abs/2310.01596).
 - 11/2023: Released [MMMU Benchmark](https://mmmu-benchmark.github.io) for massive perception, knowledge, and reasoning evaluation on large multimodal models.
 - 10/2023: Attribution Evaluation was accepted to Findings of EMNLP'23.
@@ -28,6 +29,8 @@ I am interested in Natural Language Processing and its real-world applications. 
 ## Selected Publications
 
 See full list in [Publications](/publications/) (\* indicates equal contribution, # indicates work (co-)supervised by me.)
+
+\# Jian Xie\*, <u>Kai Zhang</u>\*, Jiangjie Chen, Tinghui Zhu, Renze Lou, Yuandong Tian, Yanghua Xiao, Yu Su. **TravelPlanner: A Benchmark for Real-World Planning with Language Agents**. In Arxiv [[Paper](https://arxiv.org/abs/2402.01622)] [[Project Page](https://osu-nlp-group.github.io/TravelPlanner/)]  [[Code](https://github.com/OSU-NLP-Group/TravelPlanner)]
 
 \# Jian Xie\*, <u>Kai Zhang</u>\*, Jiangjie Chen, Renze Lou, and Yu Su. ***Adaptive Chameleon or Stubborn Sloth*: Revealing the Behavior of Large Language Models in Knowledge Conflicts**. In ICLR'24 (**Spotlight**) [[Paper](https://arxiv.org/abs/2305.13300)] [[Code](https://github.com/OSU-NLP-Group/LLM-Knowledge-Conflict)]
 
