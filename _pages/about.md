@@ -50,7 +50,7 @@ ARR (since 22); CCKS'22-23; EMNLP'22-23; ACL'23; NAACL'24
 
 WWW'23; KDD'23; SDM'24
 
-AAAI'23-24; NeurIPS'23; ICLR'24; ICML'24
+AAAI'23-24; NeurIPS'23; ICLR'24; ICML'24; COLM'24
 
 CVPR'24
 
@@ -61,6 +61,11 @@ CVPR'24
 - University of Notre Dame NLP Seminar. March 2023
 - AI TIME Seminar. May 2023
 - ACL'23 Matching Workshop. Jul 2023
+
+**Travel Planner** [\[Slides\] (Coming Soon)]
+
+- Google Trip Planner. Feb 2024
+
 
 ## Contact
 
