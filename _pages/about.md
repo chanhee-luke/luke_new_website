@@ -66,6 +66,10 @@ CVPR'24
 
 - Google Trip Planner. Feb 2024
 
+**Knowledge Conflicts in LLMs** [\[Slides\] (Coming Soon)]
+
+- AIT Time. Feb 2024
+
 
 ## Contact
 
