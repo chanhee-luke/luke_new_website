@@ -62,13 +62,13 @@ CVPR'24
 - AI TIME Seminar. May 2023
 - ACL'23 Matching Workshop. Jul 2023
 
-**Travel Planner** [\[Slides\] (Coming Soon)]
+<!-- **Travel Planner** [\[Slides\] (Coming Soon)]
 
 - Google Trip Planner. Feb 2024
 
 **Knowledge Conflicts in LLMs** [\[Slides\] (Coming Soon)]
 
-- AIT Time. Feb 2024
+- AI Time. Feb 2024 -->
 
 
 ## Contact
