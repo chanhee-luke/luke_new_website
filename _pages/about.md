@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am a second-year PhD student fortunately advised by Prof. [Yu Su](https://ysu1989.github.io) at The Ohio State University. Meanwhile, I am a part-time Student Researcher at Google DeepMind.
-<!-- Here is my [CV](/files/cv_open.pdf) (updated in Jan 2024). -->
+Here is my [CV](/files/cv_open.pdf) (updated in Jan 2024).
 <!-- Previously, I worked with Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/) at Tsinghua University, Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) at Dartmouth College, and Dr. [Daxin Jiang](https://scholar.google.com/citations?user=N-wAHCoAAAAJ&hl=zh-CN) at Microsoft.-->
 
 I am interested in Natural Language Processing and its real-world applications. These days, I am exploring LLMs through the lens of Knowledge and Multimodality.
@@ -67,5 +67,7 @@ CVPR'24
 **Email**: `[LAST_NAME].13253@osu.edu` OR `drogo[LAST_NAME]@gmail.com`
 
 Feel free to contact me if you are interested in my research or want to discuss relevant research topic :)
+
+(New) Due to limited bandwidth, I am no longer mentoring undergraduates/masters unless we've been in touch before, or you can commit to at least a 9-month research duration for high-impact topic explorations.
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=312&t=tt&d=WWgOfq4agmQMsv-liNWF_IqrTiXrb-1nqoPvyzlC238'></script>
