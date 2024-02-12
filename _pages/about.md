@@ -11,7 +11,7 @@ I am a second-year PhD student fortunately advised by Prof. [Yu Su](https://ysu1
 Here is my [CV](/files/cv_open.pdf) (updated in Jan 2024).
 <!-- Previously, I worked with Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/) at Tsinghua University, Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) at Dartmouth College, and Dr. [Daxin Jiang](https://scholar.google.com/citations?user=N-wAHCoAAAAJ&hl=zh-CN) at Microsoft.-->
 
-I am interested in Natural Language Processing and its real-world applications. These days, I am exploring LLMs through the lens of Knowledge and Multimodality.
+I am interested in NLP, Multimodality, and their real-world applications.
 
 <font color="#E53A40">My smart and pretty wife, <a href="https://www.linkedin.com/in/beking-0912/">Gloria Su</a >, is looking for new graduate or entry-level software engineer opportunities. With 2 YoE, she excels in React, React Native, Vue, and JavaScript/Typescript. Don't miss her! </font>
 ## News 
