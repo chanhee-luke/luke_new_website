@@ -68,6 +68,4 @@ CVPR'24
 
 Feel free to contact me if you are interested in my research or want to discuss relevant research topic :)
 
-(New) Due to limited bandwidth, I am no longer mentoring undergrads/masters unless we've been in touch before, or you can commit to at least a one-year research duration for high-impact topic explorations.
-
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=312&t=tt&d=WWgOfq4agmQMsv-liNWF_IqrTiXrb-1nqoPvyzlC238'></script>
