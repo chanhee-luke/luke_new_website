@@ -16,4 +16,6 @@ Therefore, I am willing to offer similar support to junior students when they fe
 
 - Tinghui Zhu (FDU BS → FDU MS); 2023-Present; Reasoning
 
+To date, in all collaborations with junior students, they have received first authorship.
+
 (New) Due to limited bandwidth, I am no longer mentoring undergrads/masters unless we've been in touch before, or you can commit to at least a one-year research duration for high-impact topic explorations.
