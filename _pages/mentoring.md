@@ -5,8 +5,8 @@ permalink: /mentoring/
 author_profile: true
 ---
 
-I was very fortunate to receive guidance from many amazing senior PhDs in the early stage of my research, including [Yuan Yao](https://yaoyuanthu.github.io) and [Weicheng Ma](https://scholar.google.com/citations?user=njnBrb4AAAAJ&hl=ja). 
-Therefore, I am willing to offer similar support to junior students when they feel my mentoring could be useful:
+In the early stage of my research, I was very fortunate to receive guidance from many amazing senior PhDs including [Yuan Yao](https://yaoyuanthu.github.io) and [Weicheng Ma](https://scholar.google.com/citations?user=njnBrb4AAAAJ&hl=ja).
+Therefore, I am willing to offer similar support to junior students when they feel my mentoring could be helpful:
 
 - Renze Lou (ZUCC BS → PSU PhD); 2019-2022; Instruction Tuning
 
