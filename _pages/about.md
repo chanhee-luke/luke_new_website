@@ -55,12 +55,16 @@ CVPR'24
 
 ## Invited Talk
 
-**Task Alignment in Instruction-tuned LLMs for Relation Extraction (LLM-QA4RE)** [[Slides](/files/paper_slides/QA4RE_ACL23.pdf)]
+**TravelPlanner: A Benchmark for Real-World Planning with Language Agents** [[Slides](/files/paper_slides/QA4RE_ACL23.pdf)]
+
+- Google Real World Journeys Group. Feb 2024
+
+
+**Task Alignment in Instruction-tuned LLMs for Relation Extraction (LLM-QA4RE)** [[Slides](/files/paper_slides/TravelPlanner_140224.pdf)]
 
 - University of Notre Dame NLP Seminar. March 2023
 - AI TIME Seminar. May 2023
 - ACL'23 Matching Workshop. Jul 2023
-
 
 ## Contact
 
