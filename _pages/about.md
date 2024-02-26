@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am a second-year PhD student fortunately advised by Prof. [Yu Su](https://ysu1989.github.io) at The Ohio State University. Meanwhile, I am a part-time Student Researcher at Google DeepMind.
-Here is my [CV](/files/cv_open.pdf) (updated in Jan 2024).
+Here is my [CV](/files/cv_open.pdf) (updated in Feb 2024).
 <!-- Previously, I worked with Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/) at Tsinghua University, Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) at Dartmouth College, and Dr. [Daxin Jiang](https://scholar.google.com/citations?user=N-wAHCoAAAAJ&hl=zh-CN) at Microsoft.-->
 
 I am interested in NLP, Multimodality, and their real-world applications.
@@ -22,10 +22,10 @@ I am interested in NLP, Multimodality, and their real-world applications.
 - 10/2023: Attribution Evaluation was accepted to Findings of EMNLP'23.
 - 09/2023: MagicBrush was accepted to NeurIPS'23 Datasets and Benchmarks Track.
 - 08/2023: Excited to start my internship at Google DeepMind (Previously Google Brain)!
-- 05/2023: Unified Retriever was accepted to KDD'23.
-- 05/2023: LLM-QA4RE was accepted to Findings of ACL'23.
-- 03/2023: Released the [reading list](https://github.com/RenzeLou/awesome-instruction-learning) & [survey](https://arxiv.org/abs/2303.10475) on Instruction Learning.
-- 01/2023: LED Retriever was accepted to WWW'23.
+<!-- - 05/2023: Unified Retriever was accepted to KDD'23. -->
+<!-- - 05/2023: LLM-QA4RE was accepted to Findings of ACL'23. -->
+<!-- - 03/2023: Released the [reading list](https://github.com/RenzeLou/awesome-instruction-learning) & [survey](https://arxiv.org/abs/2303.10475) on Instruction Learning. -->
+<!-- - 01/2023: LED Retriever was accepted to WWW'23. -->
 
 ## Selected Publications
 
