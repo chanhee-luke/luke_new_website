@@ -13,7 +13,6 @@ Here is my [CV](/files/cv_open.pdf) (updated in Feb 2024).
 
 I am interested in NLP, Multimodality, and their real-world applications.
 
-<font color="#E53A40">My smart and pretty wife, <a href="https://www.linkedin.com/in/beking-0912/">Gloria Su</a >, is looking for new graduate or entry-level software engineer opportunities. With 2 YoE, she excels in React, React Native, Vue, and JavaScript/Typescript. Don't miss her! </font>
 ## News 
 - 02/2024: [MMMU Benchmark](https://mmmu-benchmark.github.io) was accepted to CVPR'24 and I will be in MSR this summer. See you in Seattle :)
 - 02/2024: Released [TravelPlanner](https://osu-nlp-group.github.io/TravelPlanner/), a real-world benchmark for planning with language agents.
