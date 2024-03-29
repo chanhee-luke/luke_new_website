@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 I am a second-year PhD student fortunately advised by Prof. [Yu Su](https://ysu1989.github.io) at The Ohio State University. 
-Here is my [CV](/files/cv_open.pdf) (updated in Mar 2024).
+Here is my [CV](/files/cv_open.pdf).
 <!-- Previously, I worked with Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/) at Tsinghua University, Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) at Dartmouth College, and Dr. [Daxin Jiang](https://scholar.google.com/citations?user=N-wAHCoAAAAJ&hl=zh-CN) at Microsoft. [Ming-Wei Chang](https://mingweichang.org) at Google DeepMind.-->
 
 I am interested in NLP, Multimodality, and their real-world applications.
 
 ## News 
-- 03/2024: Excited to present [[MagicLens](https://open-vision-language.github.io/MagicLens/)] done at Google DeepMind: lightweight image retrieval models excel at various tasks and benchmarks.
+- 03/2024: Excited to present [[MagicLens](https://open-vision-language.github.io/MagicLens/)] done at Google DeepMind: lightweight image retrieval models following open-ended instructions.
 - 02/2024: [MMMU Benchmark](https://mmmu-benchmark.github.io) was accepted to CVPR'24 and I will be in MSR this summer. See you in Seattle :)
 - 02/2024: Released [TravelPlanner](https://osu-nlp-group.github.io/TravelPlanner/), a real-world benchmark for planning with language agents.
 - 01/2024: Three papers got accpeted to ICLR'24: [Knowledge Conflict](https://arxiv.org/abs/2305.13300) (<font color="#df1a7d">Spotlight</font>), [MUFFIN](https://arxiv.org/abs/2312.02436), and [ImagenHub](https://arxiv.org/abs/2310.01596).
