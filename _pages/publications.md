@@ -9,11 +9,13 @@ author_profile: true
 
 # Preprints
 
-\# Jian Xie\*, <u>Kai Zhang</u>\*, Jiangjie Chen, Tinghui Zhu, Renze Lou, Yuandong Tian, Yanghua Xiao, Yu Su. **TravelPlanner: A Benchmark for Real-World Planning with Language Agents**. In Arxiv [[Paper](https://arxiv.org/abs/2402.01622)] [[Project Page](https://osu-nlp-group.github.io/TravelPlanner/)]  [[Code](https://github.com/OSU-NLP-Group/TravelPlanner)]
+<u>Kai Zhang</u>, Yi Luan, Hexiang Hu, Kenton Lee, Siyuan Qiao, Wenhu Chen, Yu Su, and Ming-Wei Chang. **MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions**. In ArXiv [[Paper](https://arxiv.org/abs/2403.19651)] [[Project Page](https://open-vision-language.github.io/MagicLens/)]
 
-\# Tinghui Zhu\*, <u>Kai Zhang</u>\*, Jian Xie, Yu Su. **Deductive Beam Search: Decoding Deducible Rationale for Chain-of-Thought Reasoning**. In Arxiv [[Paper](https://arxiv.org/abs/2401.17686)] [[Code](https://github.com/OSU-NLP-Group/Deductive-Beam-Search)]
+\# Jian Xie\*, <u>Kai Zhang</u>\*, Jiangjie Chen, Tinghui Zhu, Renze Lou, Yuandong Tian, Yanghua Xiao, and Yu Su. **TravelPlanner: A Benchmark for Real-World Planning with Language Agents**. In Arxiv [[Paper](https://arxiv.org/abs/2402.01622)] [[Project Page](https://osu-nlp-group.github.io/TravelPlanner/)]  [[Code](https://github.com/OSU-NLP-Group/TravelPlanner)]
 
-\# Yuxuan Sun\*, <u>Kai Zhang</u>\*, Yu Su. **Multimodal Question Answering for Unified Information Extraction**. In Arxiv [[Paper](https://arxiv.org/abs/2310.03017)] [[Code](https://github.com/OSU-NLP-Group/MQA)]
+\# Tinghui Zhu\*, <u>Kai Zhang</u>\*, Jian Xie, and Yu Su. **Deductive Beam Search: Decoding Deducible Rationale for Chain-of-Thought Reasoning**. In Arxiv [[Paper](https://arxiv.org/abs/2401.17686)] [[Code](https://github.com/OSU-NLP-Group/Deductive-Beam-Search)]
+
+\# Yuxuan Sun\*, <u>Kai Zhang</u>\*, and Yu Su. **Multimodal Question Answering for Unified Information Extraction**. In Arxiv [[Paper](https://arxiv.org/abs/2310.03017)] [[Code](https://github.com/OSU-NLP-Group/MQA)]
 
 Renze Lou, <u>Kai Zhang</u>, and Wenpeng Yin. **Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning**. In Arxiv [[Paper](https://arxiv.org/abs/2303.10475)] [[Reading List](https://github.com/RenzeLou/awesome-instruction-learning)]
 
