@@ -14,8 +14,8 @@ Here is my [CV](/files/cv_open.pdf).
 I am interested in NLP, Multimodality, and their real-world applications.
 
 ## News 
-- 03/2024: Excited to present [MagicLens](https://open-vision-language.github.io/MagicLens/) done at Google DeepMind: lightweight image retrieval models following open-ended instructions with SOTA results on 10 benchmarks across various tasks.
-- 02/2024: [MMMU Benchmark](https://mmmu-benchmark.github.io) was accepted to CVPR'24 as <font color="#df1a7d"> Oral (0.78%)</font> and I will be in MSR this summer. See you in Seattle :)
+- 03/2024: Excited to present [MagicLens](https://open-vision-language.github.io/MagicLens/) done at Google DeepMind: next-generation image retrieval models with SOTA results on 10 benchmarks across multimodality-to-image, image-to-image, and text-to-image.
+- 02/2024: [MMMU Benchmark](https://mmmu-benchmark.github.io) was accepted to CVPR'24 as <font color="#df1a7d">Oral (0.78%)</font> and I will be in MSR this summer. See you in Seattle :)
 - 02/2024: Released [TravelPlanner](https://osu-nlp-group.github.io/TravelPlanner/), a real-world benchmark for planning with language agents.
 - 01/2024: Three papers got accpeted to ICLR'24: [Knowledge Conflict](https://arxiv.org/abs/2305.13300) (<font color="#df1a7d">Spotlight</font>), [MUFFIN](https://arxiv.org/abs/2312.02436), and [ImagenHub](https://arxiv.org/abs/2310.01596).
 - 10/2023: Attribution Evaluation was accepted to Findings of EMNLP'23.
@@ -34,9 +34,9 @@ See full list in [Publications](/publications/) (# indicates work (co-)supervise
 
 <u>Kai Zhang</u>, Yi Luan, Hexiang Hu, Kenton Lee, Siyuan Qiao, Wenhu Chen, Yu Su, and Ming-Wei Chang. **MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions**. In ArXiv [[Paper](https://arxiv.org/abs/2403.19651)] [[Project Page](https://open-vision-language.github.io/MagicLens/)]
 
-Xiang Yue\*, Yuansheng Ni\*, <u>Kai Zhang</u>\*, Tianyu Zheng\*, Ruoqi Liu, Ge Zhang, Samuel Stevens, Dongfu Jiang, Weiming Ren, Yuxuan Sun, Cong Wei, Botao Yu, Ruibin Yuan, Renliang Sun, Ming Yin, Boyuan Zheng, Zhenzhu Yang, Yibo Liu, Wenhao Huang, Huan Sun, Yu Su, and Wenhu Chen. **MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI**. In CVPR'24 (**Oral**) [[Paper](https://arxiv.org/abs/2311.16502)] [[Project Page](https://mmmu-benchmark.github.io)] [[Code](https://github.com/MMMU-Benchmark/MMMU)] [[Data](https://huggingface.co/datasets/MMMU/MMMU)] (\*: Core Contribution)
+Xiang Yue\*, Yuansheng Ni\*, <u>Kai Zhang</u>\*, Tianyu Zheng\*, Ruoqi Liu, Ge Zhang, Samuel Stevens, Dongfu Jiang, Weiming Ren, Yuxuan Sun, Cong Wei, Botao Yu, Ruibin Yuan, Renliang Sun, Ming Yin, Boyuan Zheng, Zhenzhu Yang, Yibo Liu, Wenhao Huang, Huan Sun, Yu Su, and Wenhu Chen. **MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI**. In CVPR'24 (<font color="#df1a7d">Oral (0.78%)</font>) [[Paper](https://arxiv.org/abs/2311.16502)] [[Project Page](https://mmmu-benchmark.github.io)] [[Code](https://github.com/MMMU-Benchmark/MMMU)] [[Data](https://huggingface.co/datasets/MMMU/MMMU)] (\*: Core Contribution)
 
-\# Jian Xie\*, <u>Kai Zhang</u>\*, Jiangjie Chen, Renze Lou, and Yu Su. ***Adaptive Chameleon or Stubborn Sloth*: Revealing the Behavior of Large Language Models in Knowledge Conflicts**. In ICLR'24 (**Spotlight**) [[Paper](https://arxiv.org/abs/2305.13300)] [[Code](https://github.com/OSU-NLP-Group/LLM-Knowledge-Conflict)] (\*: Equal Contribution)
+\# Jian Xie\*, <u>Kai Zhang</u>\*, Jiangjie Chen, Renze Lou, and Yu Su. ***Adaptive Chameleon or Stubborn Sloth*: Revealing the Behavior of Large Language Models in Knowledge Conflicts**. In ICLR'24 (<font color="#df1a7d">Spotlight (5%)</font>) [[Paper](https://arxiv.org/abs/2305.13300)] [[Code](https://github.com/OSU-NLP-Group/LLM-Knowledge-Conflict)] (\*: Equal Contribution)
 
 <u>Kai Zhang</u>\*, Lingbo Mo\*, Wenhu Chen, Huan Sun, and Yu Su. **MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing**. In NeurIPS'23 Datasets and Benchmarks [[Paper](https://arxiv.org/abs/2306.10012)] [[Project Page](https://osu-nlp-group.github.io/MagicBrush/)] [[Code](https://github.com/OSU-NLP-Group/MagicBrush)] [[Data](https://huggingface.co/datasets/osunlp/MagicBrush)] (\*: Equal Contribution)
 
@@ -57,7 +57,7 @@ AAAI'23-24; NeurIPS'23; ICLR'24; ICML'24; COLM'24
 
 CVPR'24
 
-## Invited Talk
+## Invited Talks
 
 **Large Language Models in Knowledge Conflicts** [[Slides](/files/paper_slides/Knowledge_Conflicts_in_LLMs_070324.pdf)]
 
