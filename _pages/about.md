@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second-year PhD student fortunately advised by Prof. [Yu Su](https://ysu1989.github.io) at The Ohio State University. 
-Here is my [CV](/files/cv_open.pdf).
-<!-- Previously, I worked with Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/) at Tsinghua University, Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) at Dartmouth College, and Dr. [Daxin Jiang](https://scholar.google.com/citations?user=N-wAHCoAAAAJ&hl=zh-CN) at Microsoft. [Ming-Wei Chang](https://mingweichang.org) at Google DeepMind.-->
+I am a second-year PhD student fortunately advised by Prof. [Yu Su](https://ysu1989.github.io) at The Ohio State University.
+<!-- Previously, I worked with Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/) at Tsinghua University, Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) at Dartmouth College, Dr. [Daxin Jiang](https://scholar.google.com/citations?user=N-wAHCoAAAAJ&hl=zh-CN) at Microsoft, and Dr. [Ming-Wei Chang](https://mingweichang.org) at Google DeepMind. -->
 
-I am interested in NLP, Multimodality, and their real-world applications.
+I am broadly interested in NLP, Multimodality, and their real-world applications. My recent research focuses on understanding[[1](https://arxiv.org/abs/2305.13300)], evaluating[[2](https://arxiv.org/abs/2311.16502), [3](https://arxiv.org/abs/2402.01622)], and utilizing[[4](https://arxiv.org/abs/2305.11159), [5](https://arxiv.org/abs/2306.10012), [6](https://arxiv.org/abs/2403.19651)] foundation models.
+<!-- Here is my [CV](/files/cv_open.pdf). -->
 
 ## News 
 - 03/2024: Excited to present [MagicLens](https://open-vision-language.github.io/MagicLens/) done at Google DeepMind: next-generation image retrieval models with SOTA results on 10 benchmarks across multimodality-to-image, image-to-image, and text-to-image.
