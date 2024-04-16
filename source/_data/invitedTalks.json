@@ -1,0 +1,25 @@
+[
+    {
+        "name": "Large Language Models in Knowledge Conflicts",
+        "slides_url": "https://drogozhang.github.io/files/paper_slides/Knowledge_Conflicts_in_LLMs_070324.pdf",
+        "list": [
+            "Mar 2024, AI Time Seminar"
+        ]
+    },
+    {
+        "name": "TravelPlanner: A Benchmark for Real-World Planning with Language Agents",
+        "slides_url": "https://drogozhang.github.io/files/paper_slides/TravelPlanner_140224.pdf",
+        "list": [
+            "Feb 2024, Google Real World Journeys Group"
+        ]
+    },
+    {
+        "name": "Task Alignment in Instruction-tuned LLMs for Relation Extraction (LLM-QA4RE)",
+        "slides_url": "https://drogozhang.github.io/files/paper_slides/QA4RE_ACL23.pdf",
+        "list": [
+            "Mar 2023, University of Notre Dame NLP Seminar",
+            "May 2023, AI TIME Seminar",
+            "Jul 2023, ACL’23 Matching Workshop"
+        ]
+    }
+]

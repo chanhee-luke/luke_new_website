@@ -136,13 +136,18 @@ article
     &:before
       content: "|"
 
+
 .overall-timeline
+    padding-left: 12px
+    height: 300px
+    overflow-y: auto
+
     .about-title
       display: flex
       align-items: center
 
     .about-image
-      margin: 0;
+      margin: 0
 
     .time-block
       border-left: 2px solid $timeline-color2
@@ -177,7 +182,7 @@ article
     .time-month, .time-title
       color: #383838
       margin: 0
-      margin-left: 70px;
+      font-weight: bold
 
     .time-title
       font-weight: normal
@@ -199,17 +204,15 @@ article
 .about-header
   display: flex
   flex-direction: row
-  align-items: center
   gap: 1.5rem
   margin: 2rem 0 1rem 0
 
   .about-header-image
-    width: 50%
+    width: 40%
     background-image: none
     position: relative;
-    width: 300px;
   
-  .default-image
+  .default-image, .hover-image
     position: absolute;
     left: 0;
     top: 0;
@@ -234,5 +237,5 @@ article
     margin: 0
     margin-left: 1rem
 
-  .find-me
-    font-weight: bold
+  .description
+    text-align: center

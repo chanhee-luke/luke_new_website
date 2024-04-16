@@ -1,71 +1,154 @@
 <section id="about" class="p-note">
-  <% if (config.description) { %>
+  <br />
+
+  <div class="about-header">
+    <a class="about-header-image">
+    <img class="default-image" src="https://s2.loli.net/2024/04/16/FPDGJzvpMR1eXTZ.png" >
+    <img class="hover-image" src="https://s2.loli.net/2024/04/17/Y3A9qcdQvGXpNhC.jpg" >
+    </a>
+    
+    <div class="description">
+    <p class="name">Hi, I'm Kai Zhang <img class="about-image" src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/></p> 
+    <p>I'm a second-year PhD student fortunately advised by <a href="https://ysu1989.github.io/">Prof.Yu Su</a> at The Ohio State University.</p>
+    <p>I'm broadly interested in NLP, Multimodality, and their real-world applications. Here is my (could be outdated) <a href="https://drogozhang.github.io/files/cv_open.pdf">CV</a>.</p>
+    <!-- <p><i class="fa-solid fa-location-dot"></i> Columbus, OH</p> -->
+    <% if (theme.social_links) { %>
+      <p>
+        <%= __('index.find_me_on') %>
+        <% var nb_links = theme.social_links.length %>
+        <% var i = 0 %>
+        <% for(var {label, icon, link} of theme.social_links) { %>
+          <% var title = label || icon %>
+          <% if (icon == 'mail') { %>
+            <a class="icon u-email" target="_blank" rel="noopener" href="<%- link %>" aria-label="<%- title %>" title="<%- title %>">
+              <i class="fa-solid fa-envelope"></i><!--
+        ---></a>
+          <% } else if (icon == 'rss') { %>
+            <a class="icon" target="_blank" rel="noopener" href="<%- link %>" aria-label="<%- title %>" title="<%- title %>">
+              <i class="fa-solid fa-rss"></i>
+            </a>
+          </a>
+          <% } else if (icon == 'graduation-cap') { %>
+            <a class="icon" target="_blank" rel="noopener" href="<%- link %>" aria-label="<%- title %>" title="<%- title %>">
+              <i class="fa-solid fa-graduation-cap"></i>
+            </a>
+          <% } else { %>
+            <a class="icon u-url" target="_blank" rel="noopener me" href="<%- url_for(link) %>" aria-label="<%- title %>" title="<%- title %>">
+              <i class="fa-brands fa-<%= icon %>"></i><!--
+        ---></a><!--
+      ---><% } %><!--
+      ---><%= ( nb_links > 0 && i < nb_links-1 ?
+              ( i == nb_links-2 ? ' '+__('index.enum_and')+' '
+              : __('index.enum_comma')+' ' )
+              : '.' ) %>
+          <% i+=1 %>
+        <% } %>
+      </p>
+    <% } %>
+    </div>
+  </div>
+
+  <!-- <% if (config.description) { %>
     <%- markdown(config.description) %>
-  <% } %>
-  <% if (theme.social_links) { %>
-    <p>
-      <%= __('index.find_me_on') %>
-      <% var nb_links = theme.social_links.length %>
-      <% var i = 0 %>
-      <% for(var {label, icon, link} of theme.social_links) { %>
-        <% var title = label || icon %>
-        <% if (icon == 'mail') { %>
-          <a class="icon u-email" target="_blank" rel="noopener" href="<%- link %>" aria-label="<%- title %>" title="<%- title %>">
-            <i class="fa-solid fa-envelope"></i><!--
-      ---></a>
-        <% } else if (icon == 'rss') { %>
-          <a class="icon" target="_blank" rel="noopener" href="<%- link %>" aria-label="<%- title %>" title="<%- title %>">
-            <i class="fa-solid fa-rss"></i>
-          </a>
-        </a>
-        <% } else if (icon == 'graduation-cap') { %>
-          <a class="icon" target="_blank" rel="noopener" href="<%- link %>" aria-label="<%- title %>" title="<%- title %>">
-            <i class="fa-solid fa-graduation-cap"></i>
-          </a>
-        <% } else { %>
-          <a class="icon u-url" target="_blank" rel="noopener me" href="<%- url_for(link) %>" aria-label="<%- title %>" title="<%- title %>">
-            <i class="fa-brands fa-<%= icon %>"></i><!--
-      ---></a><!--
-    ---><% } %><!--
-    ---><%= ( nb_links > 0 && i < nb_links-1 ?
-            ( i == nb_links-2 ? ' '+__('index.enum_and')+' '
-            : __('index.enum_comma')+' ' )
-            : '.' ) %>
-        <% i+=1 %>
-      <% } %>
-    </p>
-  <% } %>
+  <% } %> -->
+  
+  <br />
 
   <% if (site.data.news) { %>
-    <span class="h1">News</span>
-    <ul class="project-list">
-      <% for(var news of site.data.news){ %>
-        <div class="overall-timeline">
-          <div class="timeline">
-              <div class="time-block">
-                  <div class="time-circle"/>
-                  <p class="time-month"><%= news.date %></p>
-                  <p class="time-title">
-                    <% var replacedContent = news.content; %>
-
-                    <% for(var key in news.links){ %>
-                      <% var link = news.links[key]; %>
-                      <% replacedContent = replacedContent.replace(new RegExp('\\b' + key + '\\b', 'gi'), '<a href="' + link + '">$&</a>'); %>
-                    <% } %>
-
-                    <% for(var spotlight of news.spotlights){ %>
-                      <% replacedContent = replacedContent.replace(new RegExp('\\b' + spotlight + '\\b', 'gi'), '<span class="spotlight">$&</span>'); %>
-                    <% } %>
-                    <%- unescape(replacedContent) %>
-                  </p>
-              </div>
-          </div>
-        </div>
-      <% } %>
-    </ul>
+    <span class="h1">What's New</span>
+    <div class="overall-timeline">
+        <% for(var news of site.data.news){ %>
+            <div class="timeline">
+                <div class="time-block">
+                    <div class="time-circle"></div>
+                    <p class="time-month"><%= news.date %></p>
+                    <p class="time-title">
+                        <% var replacedContent = news.content; %>
+                        <% for(var key in news.links){ %>
+                            <% var link = news.links[key]; %>
+                            <% replacedContent = replacedContent.replace(new RegExp('\\b' + key + '\\b', 'gi'), '<a href="' + link + '">$&</a>'); %>
+                        <% } %>
+                        <% for(var spotlight of news.spotlights){ %>
+                            <% replacedContent = replacedContent.replace(new RegExp('\\b' + spotlight + '\\b', 'gi'), '<span class="spotlight">$&</span>'); %>
+                        <% } %>
+                        <%- replacedContent %>
+                    </p>
+                </div>
+            </div>
+        <% } %>
+    </div>
 <% } %>
+
+<br />
+
+<div id="selected_pub">
+  <span class="h1">Selected Publications</span>
+  <p class="tips1">See full list in <a href="/publications">Publications</a>.</p>
+
+  <ul class="post-list">
+    <% for (var paper of site.data.selectedPublications) { %>
+      <li class="post-item">
+        <p class="paper-name"><%= paper.name %></p>
+        <p class="authors"><%- unescape(paper.authors.replace(/(Kai Zhang)/gi, '<span>$1</span>')) %></p>
+        <p class="links">
+          <span class="tag"><%= paper.tag %></span>
+          <span class="spotlight"><%= paper.spotlight %></span>
+
+          <% if (paper.paper_url) { %>
+            <a href="<%= paper.paper_url %>">ArXiv</a>
+          <% } %>
+
+          <% if (paper.project_url) { %>
+            <a href="<%= paper.project_url %>">Website</a>
+          <% } %>
+
+          <% if (paper.code_url) { %>
+            <a href="<%= paper.code_url %>">Code</a>
+          <% } %>
+
+          <% if (paper.data_url) { %>
+            <a href="<%= paper.data_url %>">Data</a>
+          <% } %>
+
+          <% if (paper.reading_list) { %>
+            <a href="<%= paper.reading_list %>">Reading List</a>
+          <% } %>
+
+          <% if (paper.slides_url) { %>
+            <a href="<%= paper.slides_url %>">Slides</a>
+          <% } %>
+
+        </p>
+      </li>
+    <% } %>
+  </ul>
+</div>
 </section>
 
+
+<span class="h1">Invited Talks</span>
+<% for (var talk of site.data.invitedTalks) { %>
+  <div class="invited_talks_item">
+    <p class="talk_name"><%= talk.name %> <a class="slides_link" href="<%= talk.slides_url %>">Slides</a></p>
+    <% for (var item of talk.list) { %>
+    <li class="list"><%= item %></li>
+    <% } %>
+  </div>
+<% } %>
+
+<span class="h1">PC Member/Reviewer</span>
+<div>ARR (since 22); CCKS’22-23; EMNLP’22-23; ACL’23; NAACL’24</div>
+<div>WWW’23; KDD’23; SDM’24</div>
+<div>AAAI’23-24; NeurIPS’23; ICLR’24; ICML’24; COLM’24
+  CVPR’24</div>
+
+<span class="h1">Contact</span>
+<div>Email: <strong>[LAST_NAME].13253@osu.edu</strong> OR <strong>drogo[LAST_NAME]@gmail.com</strong></div>
+<p>Feel free to contact me if you are interested in my research or want to discuss relevant research topic :)</p>
+
+<br />
+<br />
+<br />
 
 
 <!-- <section id="writing">
