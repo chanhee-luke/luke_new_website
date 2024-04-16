@@ -439,6 +439,10 @@ body td {
   font-family: "Meslo LG";
   src: local("Meslo LG S"), url("../lib/meslo-LG/MesloLGS-Regular.ttf") format("truetype");
 }
+div,
+p {
+  font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
 *,
 *:before,
 *:after {
@@ -557,6 +561,9 @@ body {
   background-position: bottom;
   background-size: 100% 6px;
   background-repeat: repeat-x;
+}
+.content #clustrmaps-widget-v2 {
+  display: none;
 }
 @media (min-width: 540px) {
   .image-wrap {
@@ -1244,7 +1251,7 @@ article .content .caption {
 }
 .overall-timeline .time-block {
   border-left: 2px solid #cadbee;
-  padding: 14px 0 10px 20px;
+  padding: 1px 0 1px 20px;
 }
 .overall-timeline .time-block a {
   font-weight: bold;
@@ -1277,22 +1284,25 @@ article .content .caption {
   color: #383838;
   margin: 0;
   font-weight: bold;
+  font-size: 0.85rem;
 }
 .overall-timeline .time-title {
   font-weight: normal;
   width: 100%;
+  font-size: 0.85rem;
 }
 .invited_talks_item .talk_name {
   margin-bottom: 0;
   font-weight: bold;
+  font-size: 1rem;
 }
 .invited_talks_item .slides_link {
-  font-style: italic;
-  font-size: 13px;
+  font-size: 0.85rem;
   color: #4f86c6;
 }
 .invited_talks_item .list {
   margin-left: 1rem;
+  font-size: 0.85rem;
 }
 .about-header {
   display: flex;
@@ -1322,7 +1332,7 @@ article .content .caption {
   opacity: 0;
 }
 .about-header .name {
-  font-size: 1rem;
+  font-size: 1.2rem;
   font-weight: bold;
   display: flex;
   flex-direction: row;
@@ -1333,6 +1343,10 @@ article .content .caption {
 }
 .about-header .description {
   text-align: center;
+  font-size: 1rem;
+}
+.contact-content {
+  font-size: 1rem;
 }
 #archive .post-year,
 #selected_pub .post-year {
@@ -1357,7 +1371,7 @@ article .content .caption {
 #archive .post-list .post-item .paper-name,
 #selected_pub .post-list .post-item .paper-name {
   color: #383838;
-  font-size: 14px;
+  font-size: 1rem;
   font-weight: bold;
   margin: 0;
 }
@@ -1366,16 +1380,12 @@ article .content .caption {
 #archive .post-list .post-item .authors,
 #selected_pub .post-list .post-item .authors {
   color: #666;
-  font-size: 13px;
+  font-size: 0.85rem;
   margin: 0;
 }
 #archive .post-list .post-item .authors span,
 #selected_pub .post-list .post-item .authors span {
   color: #4f86c6;
-}
-#archive .post-list .post-item .links,
-#selected_pub .post-list .post-item .links {
-  font-style: italic;
 }
 #archive .post-list .post-item .tag,
 #selected_pub .post-list .post-item .tag {
@@ -1392,7 +1402,7 @@ article .content .caption {
   margin-right: 16px;
   min-width: 100px;
   color: #666;
-  font-size: 14px;
+  font-size: 1rem;
 }
 @media (min-width: 480px) {
   #archive .post-list .post-item,

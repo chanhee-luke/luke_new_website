@@ -34,7 +34,7 @@
    },
    {
       "date": 2024,
-      "tag": "CVPR’24",
+      "tag": "CVPR'24",
       "spotlight": "Oral (0.78%)",
       "name": "MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI",
       "authors": "Xiang Yue*, Yuansheng Ni*, Kai Zhang*, Tianyu Zheng*, Ruoqi Liu, Ge Zhang, Samuel Stevens, Dongfu Jiang, Weiming Ren, Yuxuan Sun, Cong Wei, Botao Yu, Ruibin Yuan, Renliang Sun, Ming Yin, Boyuan Zheng, Zhenzhu Yang, Yibo Liu, Wenhao Huang, Huan Sun, Yu Su, Wenhu Chen",
@@ -46,7 +46,7 @@
    },
    {
       "date": 2024,
-      "tag": "ICLR’24",
+      "tag": "ICLR'24",
       "spotlight": "Spotlight (5%)",
       "name": "Adaptive Chameleon or Stubborn Sloth: Revealing the Behavior of Large Language Models in Knowledge Conflicts",
       "authors": "Jian Xie*, Kai Zhang*, Jiangjie Chen, Renze Lou, Yu Su",
@@ -58,7 +58,7 @@
    },
    {
       "date": 2024,
-      "tag": "ICLR’24",
+      "tag": "ICLR'24",
       "spotlight": "",
       "name": "MUFFIN: Curating Multi-Faceted Instructions for Improving Instruction-Following",
       "authors": "Renze Lou, Kai Zhang, Jian Xie, Yuxuan Sun, Janice Ahn, Hanzi Xu, Yu Su, Wenpeng Yin",
@@ -70,7 +70,7 @@
    },
    {
       "date": 2024,
-      "tag": "ICLR’24",
+      "tag": "ICLR'24",
       "spotlight": "",
       "name": "ImagenHub: Standardizing the Evaluation of Conditional Image Generation Models",
       "authors": "Max Ku, Tianle Li, Kai Zhang, Yujie Lu, Xingyu Fu, Wenwen Zhuang, Wenhu Chen",
@@ -82,7 +82,7 @@
    },
    {
       "date": 2024,
-      "tag": "AAAI’24",
+      "tag": "AAAI'24",
       "spotlight": "Oral",
       "name": "UMIE: Unified Multimodal Information Extraction with Instruction Tuning",
       "authors": "Lin Sun*, Kai Zhang*, Qingyuan Li*, Renze Lou",
@@ -94,7 +94,7 @@
    },
    {
       "date": 2024,
-      "tag": "AAAI’24",
+      "tag": "AAAI'24",
       "spotlight": "Oral",
       "name": "PathAsst: Redefining Pathology through Generative Foundation AI Assistant for Pathology",
       "authors": "Yuxuan Sun, Chenglu Zhu, Sunyi Zheng, Kai Zhang, Lin Sun, Zhongyi Shui, Yunlong Zhang, Honglin Li, Lin Yang",
@@ -129,7 +129,7 @@
    },
    {
       "date": 2023,
-      "tag": "EMNLP’23",
+      "tag": "EMNLP'23",
       "spotlight": "Findings",
       "name": "Automatic Evaluation of Attribution by Large Language Models",
       "authors": "Xiang Yue, Boshi Wang, Ziru Chen, Kai Zhang, Yu Su, Huan Sun",
@@ -141,8 +141,8 @@
    },
    {
       "date": 2023,
-      "tag": "NeurIPS’23",
-      "spotlight": "Datasets and Benchmarks",
+      "tag": "NeurIPS'23 Datasets and Benchmarks",
+      "spotlight": "",
       "name": "MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing",
       "authors": "Kai Zhang*, Lingbo Mo*, Wenhu Chen, Huan Sun, Yu Su",
       "paper_url": "https://arxiv.org/abs/2306.10012",
@@ -153,7 +153,7 @@
    },
    {
       "date": 2023,
-      "tag": "KDD’23",
+      "tag": "KDD'23",
       "spotlight": "",
       "name": "UnifieR: A Unified Retriever for Large-Scale Retrieval",
       "authors": "Tao Shen, Xiubo Geng, Chongyang Tao, Can Xu, Kai Zhang, and Daxin Jiang",
@@ -177,7 +177,7 @@
    },
    {
       "date": 2023,
-      "tag": "ACL’23 Findings",
+      "tag": "ACL'23 Findings",
       "spotlight": "",
       "name": "Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors",
       "authors": "Kai Zhang, Bernal Jiménez Gutiérrez, Yu Su",
@@ -189,7 +189,7 @@
    },
    {
       "date": 2023,
-      "tag": "WWW’23",
+      "tag": "WWW'23",
       "spotlight": "Oral",
       "name": "LED: Lexicon-Enlightened Dense Retriever for Large-Scale Retrieval",
       "authors": "Kai Zhang, Chongyang Tao, Tao Shen, Can Xu, Xiubo Geng, Binxing Jiao, Daxin Jiang",
@@ -201,7 +201,7 @@
    },
    {
       "date": 2021,
-      "tag": "EMNLP’21",
+      "tag": "EMNLP'21",
       "spotlight": "",
       "name": "GradTS: A Gradient-Based Automatic Auxiliary Task Selection Method Based on Transformer Networks",
       "authors": "Weicheng Ma, Renze Lou, Kai Zhang, Lili Wang, Soroush Vosoughi",
@@ -216,7 +216,7 @@
       "tag": "TKDE",
       "spotlight": "",
       "name": "Unified and Incremental SimRank: Index-free Approximation with Scheduled Principle",
-      "authors": "Fanwei Zhu, Yuan Fang, Kai Zhang † , Kevin Chen-Chuan Chang, Hongtai Cao, Zhen Jiang, and Minghui Wu",
+      "authors": "Fanwei Zhu, Yuan Fang, Kai Zhang†, Kevin Chen-Chuan Chang, Hongtai Cao, Zhen Jiang, and Minghui Wu",
       "paper_url": "https://www.computer.org/csdl/journal/tk/5555/01/09535257/1wMELvY3Tna",
       "project_url": "",
       "code_url": "https://github.com/UISim2020/UISim2020",
@@ -225,7 +225,7 @@
    },
    {
       "date": 2021,
-      "tag": "ACL’21",
+      "tag": "ACL'21",
       "spotlight": "Oral",
       "name": "Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks",
       "authors": "Weicheng Ma*, Kai Zhang*, Renze Lou, Lili Wang, Soroush Vosoughi",
@@ -237,7 +237,7 @@
    },
    {
       "date": 2021,
-      "tag": "AAAI’21",
+      "tag": "AAAI'21",
       "spotlight": "",
       "name": "RpBERT: A Text-image Relation Propagation-based BERT Model for Multimodal NER",
       "authors": "Lin Sun*, Jiquan Wang*, Kai Zhang, Fangsheng Weng, Yindu Su",
@@ -249,7 +249,7 @@
    },
    {
       "date": 2021,
-      "tag": "AAAI’21",
+      "tag": "AAAI'21",
       "spotlight": "",
       "name": "Adversarial Language Games for Advanced Natural Language Intelligence",
       "authors": "Yuan Yao, Haoxi Zhong, Zhengyan Zhang, Xu Han, Xiaozhi Wang, Kai Zhang, Chaojun Xiao, Guoyang Zeng, Zhiyuan Liu, Maosong Sun",
@@ -261,7 +261,7 @@
    },
    {
       "date": 2021,
-      "tag": "NAACL-HLT’21",
+      "tag": "NAACL-HLT'21",
       "spotlight": "",
       "name": "Open Hierarchical Relation Extraction",
       "authors": "Kai Zhang*, Yuan Yao*, Ruobing Xie, Xu Han, Zhiyuan Liu, Fen Lin, Leyu Lin, Maosong Sun",
@@ -273,7 +273,7 @@
    },
    {
       "date": 2019,
-      "tag": "NAACL-HLT’19",
+      "tag": "NAACL-HLT'19",
       "spotlight": "co-first author with my advisor",
       "name": "TOI-CNN: A Solution of Information Extraction on Chinese Insurance Policy",
       "authors": "Lin Sun*, Kai Zhang*†, Fule Ji, Zhenhua Yang",
@@ -285,7 +285,7 @@
    },
    {
       "date": 2019,
-      "tag": "IJCNN’19",
+      "tag": "IJCNN'19",
       "spotlight": "Oral",
       "name": "A TOI based CNN with Location Regression for Insurance Contract Analysis",
       "authors": "Kai Zhang, Lin Sun, Fule Ji",

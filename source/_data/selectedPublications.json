@@ -12,7 +12,7 @@
     },
     {
         "date": 2024,
-        "tag": "CVPR’24",
+        "tag": "CVPR'24",
         "spotlight": "Oral (0.78%)",
         "name": "MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI",
         "authors": "Xiang Yue*, Yuansheng Ni*, Kai Zhang*, Tianyu Zheng*, Ruoqi Liu, Ge Zhang, Samuel Stevens, Dongfu Jiang, Weiming Ren, Yuxuan Sun, Cong Wei, Botao Yu, Ruibin Yuan, Renliang Sun, Ming Yin, Boyuan Zheng, Zhenzhu Yang, Yibo Liu, Wenhao Huang, Huan Sun, Yu Su, Wenhu Chen",
@@ -24,7 +24,7 @@
     },
     {
         "date": 2024,
-        "tag": "ICLR’24",
+        "tag": "ICLR'24",
         "spotlight": "Spotlight (5%)",
         "name": "Adaptive Chameleon or Stubborn Sloth: Revealing the Behavior of Large Language Models in Knowledge Conflicts",
         "authors": "Jian Xie*, Kai Zhang*, Jiangjie Chen, Renze Lou, Yu Su",
@@ -36,8 +36,8 @@
     },
     {
         "date": 2023,
-        "tag": "NeurIPS’23",
-        "spotlight": "Datasets and Benchmarks",
+        "tag": "NeurIPS'23 Datasets and Benchmarks",
+        "spotlight": "",
         "name": "MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing",
         "authors": "Kai Zhang*, Lingbo Mo*, Wenhu Chen, Huan Sun, Yu Su",
         "paper_url": "https://arxiv.org/abs/2306.10012",
