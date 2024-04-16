@@ -9,7 +9,7 @@
    },
    {
       "date": "Feb 2024",
-      "content": "MMMU Benchmark was accepted to CVPR’24 as Oral(0.78%) and I will be in MSR this summer. See you in Seattle :)",
+      "content": "MMMU Benchmark was accepted to CVPR'24 as Oral(0.78%) and I will be in MSR this summer. See you in Seattle :)",
       "links": {
          "MMMU": "https://mmmu-benchmark.github.io/"
       },
@@ -25,7 +25,7 @@
    },
    {
       "date": "Jan 2024",
-      "content": "Three papers got accpeted to ICLR’24: KnowledgeConflict (Spotlight), MUFFIN, and ImagenHub.",
+      "content": "Three papers got accpeted to ICLR'24: KnowledgeConflict (Spotlight), MUFFIN, and ImagenHub.",
       "links": {
          "KnowledgeConflict": "https://arxiv.org/abs/2305.13300",
          "MUFFIN": "https://arxiv.org/abs/2312.02436",
@@ -35,13 +35,13 @@
    },
    {
       "date": "Oct 2023",
-      "content": "Attribution Evaluation was accepted to Findings of EMNLP’23.",
+      "content": "Attribution Evaluation was accepted to Findings of EMNLP'23.",
       "links": {},
       "spotlights": []
    },
    {
       "date": "Sept 2023",
-      "content": "MagicBrush was accepted to NeurIPS’23 Datasets and Benchmarks Track.",
+      "content": "MagicBrush was accepted to NeurIPS'23 Datasets and Benchmarks Track.",
       "links": {},
       "spotlights": []
    },

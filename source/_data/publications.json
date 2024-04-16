@@ -129,8 +129,8 @@
    },
    {
       "date": 2023,
-      "tag": "EMNLP'23",
-      "spotlight": "Findings",
+      "tag": "EMNLP'23 Findings",
+      "spotlight": "",
       "name": "Automatic Evaluation of Attribution by Large Language Models",
       "authors": "Xiang Yue, Boshi Wang, Ziru Chen, Kai Zhang, Yu Su, Huan Sun",
       "paper_url": "https://arxiv.org/abs/2305.06311",
@@ -274,7 +274,7 @@
    {
       "date": 2019,
       "tag": "NAACL-HLT'19",
-      "spotlight": "co-first author with my advisor",
+      "spotlight": "",
       "name": "TOI-CNN: A Solution of Information Extraction on Chinese Insurance Policy",
       "authors": "Lin Sun*, Kai Zhang*†, Fule Ji, Zhenhua Yang",
       "paper_url": "https://www.aclweb.org/anthology/N19-2022",
