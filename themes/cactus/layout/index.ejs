@@ -64,14 +64,22 @@
                     <p class="time-month"><%= news.date %></p>
                     <p class="time-title">
                         <% var replacedContent = news.content; %>
-                        <% for(var key in news.links){ %>
-                            <% var link = news.links[key]; %>
-                            <% replacedContent = replacedContent.replace(new RegExp('\\b' + key + '\\b', 'gi'), '<a href="' + link + '">$&</a>'); %>
-                        <% } %>
-                        <% for(var spotlight of news.spotlights){ %>
-                            <% replacedContent = replacedContent.replace(new RegExp('\\b' + spotlight + '\\b', 'gi'), '<span class="spotlight">$&</span>'); %>
-                        <% } %>
-                        <%- replacedContent %>
+                        <% for(var spotlight of news.spotlights) { %>
+                          <% var index = replacedContent.indexOf(spotlight); %>
+                          <% if (index !== -1) { %>
+                              <% 
+                                  var prefix = replacedContent.slice(0, index); // 替换内容前缀
+                                  var suffix = replacedContent.slice(index + spotlight.length); // 替换内容后缀
+                                  replacedContent = prefix + '<span class="spotlight">' + spotlight + '</span>' + suffix;
+                              %>
+                          <% } %>
+                      <% } %>
+
+                      <% for(var key in news.links){ %>
+                        <% var link = news.links[key]; %>
+                        <% replacedContent = replacedContent.replace(new RegExp('\\b' + key + '\\b', 'gi'), '<a href="' + link + '">$&</a>'); %>
+                      <% } %>
+                      <%- replacedContent %>
                     </p>
                 </div>
             </div>
@@ -126,7 +134,7 @@
 </section>
 
 
-<span class="h1">Invited Talks</span>
+<!-- <span class="h1">Invited Talks</span>
 <% for (var talk of site.data.invitedTalks) { %>
   <div class="invited_talks_item">
     <p class="talk_name"><%= talk.name %> <a class="slides_link" href="<%= talk.slides_url %>">Slides</a></p>
@@ -134,7 +142,7 @@
     <li class="list"><%= item %></li>
     <% } %>
   </div>
-<% } %>
+<% } %> -->
 
 
 <!-- <span class="h1">PC Member/Reviewer</span>
