@@ -600,6 +600,9 @@ body {
   margin: 0 auto 2rem;
   width: 100%;
 }
+#header #nav a {
+  font-size: 1rem;
+}
 #header h1,
 #header .h1 {
   margin-top: 0;
