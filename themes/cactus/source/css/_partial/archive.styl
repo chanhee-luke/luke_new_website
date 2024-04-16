@@ -1,0 +1,62 @@
+#archive, #selected_pub
+  .post-year
+    list-style-type: none
+    
+    h2
+      font-size: 1.25rem
+
+  .post-list
+    padding: 0
+
+    .post-item
+      margin-bottom: 1.5rem
+      margin-left: 0
+      list-style-type: none
+      display: flex
+      flex-direction: column
+
+      .paper-name
+        color: #383838
+        font-size: 14px;
+        font-weight: bold
+        margin: 0
+
+      .links
+      .authors
+        color: #666666;
+        font-size: 13px;
+        margin: 0
+
+      .authors span
+          color: $color-accent-1;
+
+      .links
+        font-style: italic
+
+      .tag 
+        font-weight: bold
+
+      .spotlight
+        color: rgb(223, 26, 125);
+        font-weight: bold
+
+      .meta
+        display: block
+        margin-right: 16px
+        min-width: 100px
+        color: $color-meta
+        font-size: 14px
+
+  @media (min-width: 480px)
+    .post-list
+      .post-item
+        display: flex
+        margin-bottom: 1.5rem
+        margin-left: 1rem
+
+        .meta
+          text-align: left
+
+#selected_pub
+  .post-list .post-item
+    margin-left: 0

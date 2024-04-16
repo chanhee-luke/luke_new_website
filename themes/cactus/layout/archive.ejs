@@ -1,0 +1,50 @@
+<div id="archive">
+  <span class="h1">Publications</span>
+  <span>(* indicates equal contribution, † indicates first student author)</span>
+  <ul class="post-list">
+    <% var year = 0 %>
+    <% var change = false %>
+    <% var field_sort = theme.archive.sort_updated ? 'updated' : 'date' %>
+    <% for (var paper of site.data.publications) { %>
+      <% var itemYear = paper.date %>
+      <% change = year !== itemYear %>
+      <% year = change ? itemYear : year %>
+      <% if (change) { %>
+        <li class="post-year"><h2><%= year %></h2></li>
+      <% } %>
+      <li class="post-item">
+        <p class="paper-name"><%= paper.name %></p>
+        <p class="authors"><%- unescape(paper.authors.replace(/(Kai Zhang)/gi, '<span>$1</span>')) %></p>
+        <p class="links">
+          <span class="tag"><%= paper.tag %></span>
+          <span class="spotlight"><%= paper.spotlight %></span>
+
+          <% if (paper.paper_url) { %>
+            <a href="<%= paper.paper_url %>">ArXiv</a>
+          <% } %>
+
+          <% if (paper.project_url) { %>
+            <a href="<%= paper.project_url %>">Website</a>
+          <% } %>
+
+          <% if (paper.code_url) { %>
+            <a href="<%= paper.code_url %>">Code</a>
+          <% } %>
+
+          <% if (paper.data_url) { %>
+            <a href="<%= paper.data_url %>">Data</a>
+          <% } %>
+
+          <% if (paper.reading_list) { %>
+            <a href="<%= paper.reading_list %>">Reading List</a>
+          <% } %>
+
+          <% if (paper.slides_url) { %>
+            <a href="<%= paper.slides_url %>">Slides</a>
+          <% } %>
+
+        </p>
+      </li>
+    <% } %>
+  </ul>
+</div>
