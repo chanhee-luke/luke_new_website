@@ -10,6 +10,7 @@ $ hexo new "My New Post"
 ### Run server
 
 ``` bash
+$ npm install
 $ hexo g
 $ hexo s
 ```
