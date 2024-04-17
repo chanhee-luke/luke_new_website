@@ -1307,6 +1307,15 @@ article .content .caption {
   margin-left: 1rem;
   font-size: 0.85rem;
 }
+@media screen and (max-width: 500px) {
+  .about-header {
+    flex-direction: column !important;
+    align-items: center !important;
+  }
+  .about-header .about-header-image {
+    height: 200px !important;
+  }
+}
 .about-header {
   display: flex;
   flex-direction: row;
@@ -1339,8 +1348,6 @@ article .content .caption {
 .about-header .name {
   font-size: 1.2rem;
   font-weight: bold;
-  display: flex;
-  flex-direction: row;
 }
 .about-header .about-image {
   margin: 0;
