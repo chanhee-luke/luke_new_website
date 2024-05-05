@@ -1,7 +1,7 @@
 [
     {
         "date": 2024,
-        "tag": "Preprint",
+        "tag": "ICML'24",
         "name": "MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions",
         "authors": "Kai Zhang, Yi Luan, Hexiang Hu, Kenton Lee, Siyuan Qiao, Wenhu Chen, Yu Su, Ming-Wei Chang",
         "paper_url": "https://arxiv.org/abs/2403.19651",

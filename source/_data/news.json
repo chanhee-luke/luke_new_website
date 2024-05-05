@@ -1,5 +1,14 @@
 [
    {
+      "date": "May 2024",
+      "content": "MagicLens and TravelPlanner were accepted to ICML'24.",
+      "links": {
+         "MagicLens": "https://open-vision-language.github.io/MagicLens/",
+         "TravelPlanner": "https://osu-nlp-group.github.io/TravelPlanner/"
+      },
+      "spotlights": []
+   },
+   {
       "date": "Mar 2024",
       "content": "Excited to present MagicLens done at Google DeepMind: next-generation image retrieval models with SOTA results on 10 benchmarks across multimodality-to-image, image-to-image, and text-to-image.",
       "links": {
