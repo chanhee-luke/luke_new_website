@@ -11,7 +11,8 @@ title: about
 <div>
 <p class="name">Hi, I'm Kai Zhang <img class="about-image" src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/></p> 
 <p>I'm a second-year PhD student fortunately advised by <a href="https://ysu1989.github.io/">Prof.Yu Su</a> at The Ohio State University.</p>
-<p>I'm broadly interested in NLP, Multimodality, and their real-world applications. Here is my (could be outdated) <a href="https://drogozhang.github.io/files/cv_open.pdf">CV</a>.</p>
+<!-- <p>I'm broadly interested in NLP, Multimodality, and their real-world applications. Here is my (could be outdated) <a href="https://drogozhang.github.io/files/cv_open.pdf">CV</a>.</p> -->
+<p>I'm broadly interested in NLP, Multimodality (esp. Vision-Language), and their real-world applications.</p>
 <!-- <p><i class="fa-solid fa-location-dot"></i> Columbus, OH</p> -->
 <p class="find-me">Find me on
     <a class="icon u-url" target="_blank" rel="noopener me" href="https://twitter.com/DrogoKhal4" aria-label="twitter" title="twitter">
