@@ -1,12 +1,12 @@
 [
    {
       "date": "May 2024",
-      "content": "MagicLens and TravelPlanner were accepted to ICML'24.",
+      "content": "MagicLens (Oral) and TravelPlanner (Spotlight) were accepted to ICML'24.",
       "links": {
          "MagicLens": "https://open-vision-language.github.io/MagicLens/",
          "TravelPlanner": "https://osu-nlp-group.github.io/TravelPlanner/"
       },
-      "spotlights": []
+      "spotlights": ["(Oral)", "(Spotlight)"]
    },
    {
       "date": "Mar 2024",
