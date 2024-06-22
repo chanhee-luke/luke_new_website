@@ -7,14 +7,14 @@
         "authors": "Kai Zhang, Yi Luan, Hexiang Hu, Kenton Lee, Siyuan Qiao, Wenhu Chen, Yu Su, Ming-Wei Chang",
         "paper_url": "https://arxiv.org/abs/2403.19651",
         "project_url": "https://open-vision-language.github.io/MagicLens/",
-        "code_url": "",
+        "code_url": "https://github.com/google-deepmind/magiclens",
         "data_url": "",
         "slides_url": ""
-    },
+     },
     {
         "date": 2024,
         "tag": "CVPR'24",
-        "spotlight": "Oral (0.78%)",
+        "spotlight": "Best Paper Finalist (0.2%)",
         "name": "MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI",
         "authors": "Xiang Yue*, Yuansheng Ni*, Kai Zhang*, Tianyu Zheng*, Ruoqi Liu, Ge Zhang, Samuel Stevens, Dongfu Jiang, Weiming Ren, Yuxuan Sun, Cong Wei, Botao Yu, Ruibin Yuan, Renliang Sun, Ming Yin, Boyuan Zheng, Zhenzhu Yang, Yibo Liu, Wenhao Huang, Huan Sun, Yu Su, Wenhu Chen",
         "paper_url": "https://arxiv.org/abs/2311.16502",

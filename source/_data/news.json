@@ -1,5 +1,13 @@
 [
    {
+      "date": "Jun 2024",
+      "content": "MagicLens Code and Model are released, play with it!",
+      "links": {
+         "MagicLens Code and Model": "https://github.com/google-deepmind/magiclens"
+      },
+      "spotlights": []
+   },
+   {
       "date": "May 2024",
       "content": "MagicLens (Oral) and TravelPlanner (Spotlight) were accepted to ICML'24.",
       "links": {
@@ -18,11 +26,11 @@
    },
    {
       "date": "Feb 2024",
-      "content": "MMMU was accepted to CVPR'24 as Oral (0.78%) and I will be in MSR this summer. See you in Seattle :)",
+      "content": "MMMU was accepted to CVPR'24 as Best Paper Finalist (0.2%) and I will be in MSR this summer. See you in Seattle :)",
       "links": {
          "MMMU": "https://mmmu-benchmark.github.io/"
       },
-      "spotlights": ["Oral", "(0.78%)"]
+      "spotlights": ["Best Paper Finalist", "(0.2%)"]
    },
    {
       "date": "Feb 2024",
