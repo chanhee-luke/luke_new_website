@@ -1,6 +1,42 @@
 [
    {
       "date": 2024,
+      "tag": "ECCV'24",
+      "spotlight": "",
+      "name": "PathMMU: A Massive Multimodal Expert-Level Benchmark for Understanding and Reasoning in Pathology",
+      "authors": "Yuxuan Sun, Hao Wu, Chenglu Zhu, Sunyi Zheng, Qizi Chen, Kai Zhang, Yunlong Zhang, Dan Wan, Xiaoxiao Lan, Mengyue Zheng, Jingxiong Li, Xinheng Lyu, Tao Lin, Lin Yang",
+      "paper_url": "https://arxiv.org/abs/2401.16355",
+      "project_url": "https://pathmmu-benchmark.github.io/#/",
+      "code_url": "https://github.com/PathMMU-Benchmark/PathMMU",
+      "data_url": "https://huggingface.co/datasets/jamessyx/PathMMU",
+      "slides_url": ""
+   },
+   {
+      "date": 2024,
+      "tag": "COLM'24",
+      "spotlight": "",
+      "name": "# Deductive Beam Search: Decoding Deducible Rationale for Chain-of-Thought Reasoning",
+      "authors": "Tinghui Zhu*, Kai Zhang*, Jian Xie, Yu Su",
+      "paper_url": "https://arxiv.org/abs/2401.17686",
+      "project_url": "",
+      "code_url": "https://github.com/OSU-NLP-Group/Deductive-Beam-Search",
+      "data_url": "",
+      "slides_url": ""
+   },
+   {
+      "date": 2024,
+      "tag": "COLM'24",
+      "spotlight": "",
+      "name": "How Easily do Irrelevant Inputs Skew the Responses of Large Language Models?",
+      "authors": "Siye Wu, Jian Xie, Jiangjie Chen, Tinghui Zhu, Kai Zhang, Yanghua Xiao",
+      "paper_url": "https://arxiv.org/abs/2404.03302",
+      "project_url": "",
+      "code_url": "https://github.com/Di-viner/LLM-Robustness-to-Irrelevant-Information",
+      "data_url": "",
+      "slides_url": ""
+   },
+   {
+      "date": 2024,
       "tag": "ICML'24",
       "spotlight": "Oral (1.5%)",
       "name": "MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions",
